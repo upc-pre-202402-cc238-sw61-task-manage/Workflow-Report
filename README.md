@@ -502,3 +502,124 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     La mayoría de estas empresas no estaba preparada para la modalidad de teletrabajo. El estudio de ISIL destaca que el 73% de las empresas carecía de políticas o estrategias para el trabajo remoto.
     El mayor desafío es la gestión de equipos. Mantener la comunicación entre áreas es difícil, principalmente con herramientas como WhatsApp, Zoom o Microsoft Teams. Entre algunos problemas adicionales, son evidentes la falta de capacitación (33%), riesgos de pérdida de información (11%) y recursos insuficientes (8%).
 </s>
+
+### <a name="solution-profile"></a> 2.2 Entrevistas
+
+<p style="text-align: justify">
+ Las entrevistas representan una estrategia de investigación que implica el intercambio de diálogo con el propósito de adquirir datos, empleando cuestionamientos específicos para explorar en profundidad el pensamiento y la visión de la persona objeto de estudio.
+</p>
+
+#### 2.2.1 Diseño de entrevistas
+- **Segmento Objetivo:** Team Líder
+
+    1. ¿Cuáles son los mayores desafíos que enfrentas al gestionar un equipo de trabajo?
+
+    2. ¿Qué herramientas utilizas actualmente para planificar y asignar tareas?
+
+    3. ¿Cómo manejas el seguimiento del progreso de las tareas y proyectos dentro de tu equipo?
+
+    4. ¿Qué características consideras imprescindibles en una herramienta de gestión de proyectos?
+
+    5. ¿Cómo prefieres comunicarte y coordinarte con los miembros de tu equipo?
+
+    6. ¿Qué tan importante es para ti la posibilidad de visualizar el estado de las tareas en tiempo real?
+
+    7. ¿Qué mejoras te gustaría ver en las herramientas de gestión de proyectos que utilizas actualmente?
+
+    8. ¿Cómo te gustaría recibir notificaciones sobre el progreso de las tareas y los proyectos?
+
+    9. ¿Qué tan fácil te resulta distribuir la carga de trabajo entre los miembros del equipo?
+
+    10. ¿Cómo evalúas la eficiencia de tu equipo después de completar un proyecto?
+
+- **Segmento Objetivo:** Trabajadores del Equipo
+
+    1. ¿Qué dificultades encuentras al organizar tus tareas diarias en el trabajo
+
+    2. ¿Qué herramientas utilizas para gestionar tu tiempo y tus responsabilidades?
+
+    3. ¿Cómo prefieres recibir y gestionar las tareas asignadas por tu Team Líder?
+
+    4. ¿Qué tan útil te resultaría una herramienta que te permita colaborar con otros miembros del equipo?
+
+    5. ¿Cómo te gustaría ser notificado sobre nuevas tareas o cambios en las asignaciones?
+
+    6. ¿Qué características valoras más en una aplicación de gestión de tareas?
+
+    7. ¿Cómo evalúas tu propio progreso en relación con las tareas asignadas?
+
+    8. ¿Qué tan importante es para ti poder visualizar todas tus tareas en un solo lugar?
+
+    9. ¿Cómo manejas el equilibrio entre múltiples tareas y proyectos simultáneos?
+
+    10. ¿Qué mejoras sugerirías para las herramientas de gestión de tareas que utilizas actualmente?
+
+#### 2.2.2 Registro de entrevistas
+
+    Enlace del video de las entrevistas: Enlace
+
+**Segmento Objetivo:** Team Líder
+
+Entrevista 1:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+
+Descripción Básica de la entrevista
+
+Entrevista 2:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+    
+Descripción Básica de la entrevista
+
+Entrevista 3:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+    
+Descripción Básica de la entrevista
+
+**Segmento Objetivo:** Trabajadores del Equipo
+
+Entrevista 1:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+
+Descripción Básica de la entrevista
+
+Entrevista 2:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+    
+Descripción Básica de la entrevista
+
+Entrevista 3:
+
+    Nombre:
+    Sexo:
+    Residencia
+    Inicio:
+    Fin:
+    
+Descripción Básica de la entrevista
+
+#### 2.2.3 Análisis de entrevistas
