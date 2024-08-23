@@ -534,7 +534,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
 - **Segmento Objetivo:** Miembro de Equipo
 
-    1. ¿Qué dificultades encuentras al organizar tus tareas diarias en el trabajo
+    1. ¿Qué dificultades encuentras al organizar tus tareas diarias en el trabajo?
 
     2. ¿Qué herramientas utilizas para gestionar tu tiempo y tus responsabilidades?
 
