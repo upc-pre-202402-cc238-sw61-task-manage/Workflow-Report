@@ -406,14 +406,14 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
         <th colspan="2">Mendoza Pimentel, Piero</th>
     </tr>
     <tr style="text-align: justify">
-        <td><img src="images/perfiles-pieromendoza.jpg" alt="Piero Mendoza"></td>
+        <td><img src="images/perfiles-pieromendoza.jpg" alt="Piero Mendoza" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
         <td> Soy estudiante de Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. </td>
     </tr>
     <tr>
         <th colspan="2">Marcelo Sebastian Neyra Santa Cruz</th>
     </tr>
     <tr style="text-align: justify">
-        <td><img src="images/perfiles-marcelo.jpg" alt="Marcelo Neyra"></td>
+        <td><img src="images/perfiles-marcelo.jpg" alt="Marcelo Neyra" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
         <td> Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.</td>
     </tr>
     <tr>
