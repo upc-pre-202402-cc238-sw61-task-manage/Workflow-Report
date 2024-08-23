@@ -510,7 +510,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 </p>
 
 #### 2.2.1 Diseño de entrevistas
-- **Segmento Objetivo:** Team Líder
+- **Segmento Objetivo:** Líder de Equipo
 
     1. ¿Cuáles son los mayores desafíos que enfrentas al gestionar un equipo de trabajo?
 
@@ -532,7 +532,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
     10. ¿Cómo evalúas la eficiencia de tu equipo después de completar un proyecto?
 
-- **Segmento Objetivo:** Trabajadores del Equipo
+- **Segmento Objetivo:** Miembro de Equipo
 
     1. ¿Qué dificultades encuentras al organizar tus tareas diarias en el trabajo
 
