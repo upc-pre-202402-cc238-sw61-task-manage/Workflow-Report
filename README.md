@@ -400,7 +400,7 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
     </tr>
     <tr style="text-align: justify">
         <td>
-        <img src="images/perfiles-diegocisneros.jpg" alt="Piero Mendoza" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px">
+        <img src="images/perfiles-diegocisneros.jpg" alt="Diego Cisneros" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px">
         </td>
         <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con dominio en lenguajes de programación como C++, Rust, Python, TypeScript y JavaScript. Poseo un sólido conocimiento en estructuras de datos, lo que me permite desarrollar soluciones eficientes y optimizadas. Además, tengo un interés particular en ciberseguridad y programación competitiva, áreas en las que continuamente busco mejorar mis habilidades y aplicar mis conocimientos para resolver desafíos complejos.</td>
     </tr>
