@@ -420,8 +420,8 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
         <th colspan="2">Periche Quiroga, Piero Fernando</th>
     </tr>
     <tr style="text-align: justify">
-        <td>Foto</td>
-        <td> Descripción 4</td>
+        <td> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%"> </td>
+        <td> Mi nombre es Piero Periche Quiroga, estudiante de la carrera de Ingenieria de Software, 6to semestre en la Universidad Peruana de Ciencias Aplicadas. Tengo buen desempeño trabajando en equipo, aportando con ideas y tareas de manera asertiva. Tengo conocimientos en lenguajes como HTML y C++. Me considero responsable y puntual. </td>
     </tr>
     <tr>
         <th colspan="2">Silva Morales, Renzo Cesar</th>
