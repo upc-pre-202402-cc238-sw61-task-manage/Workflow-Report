@@ -503,6 +503,289 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     El mayor desafío es la gestión de equipos. Mantener la comunicación entre áreas es difícil, principalmente con herramientas como WhatsApp, Zoom o Microsoft Teams. Entre algunos problemas adicionales, son evidentes la falta de capacitación (33%), riesgos de pérdida de información (11%) y recursos insuficientes (8%).
 </s>
 
+## 2: Needfinding
+En esta sección se presentarán los métodos que hemos utilizado para conocer más acerca de los potenciales clientes, así como el mercado actual.
+
+### 2.1. Competidores
+Basándonos en la investigación realizadas en el capitulo anterior, se ha identificado a los siguientes competidores:
+
+1. Trello
+Es una plataforma en línea para gestionar proyectos que emplea tarjetas para organizar y priorizar tareas. Cada tarjeta representa una tarea o proyecto y se puede colocar en listas que representan etapas del proceso como "pendiente", "en proceso" o "completado". Las tarjetas admiten descripciones, archivos, comentarios y fechas límite.
+
+![Imagen Trello Competidor](/images/asst_trello_comp.jpg)
+
+2. Miro
+Se trata de un programa de colaboración en línea empleado para generar y compartir diagramas, mapas conceptuales, presentaciones, modelos de productos y otras cosas más. Conocido anteriormente como "RealtimeBoard", Miro posibilita la colaboración en tiempo real entre equipos en un entorno de trabajo digital, sin importar dónde se encuentren geográficamente.
+
+![Imagen Miro Competidor](/images/asst_miro_comp.jpg)
+
+3. Basecamp
+Es una herramienta en línea para la gestión de proyectos que fomenta la colaboración y la eficiencia. Permite a los equipos crear proyectos y tareas, compartir archivos, mantener conversaciones y realizar un seguimiento del avance
+
+![Imagen Basecamp Competidor](/images/asst_basecamp_comp.jpg)
+
+#### 2.1.1 Análisis competitivo
+
+<table>
+    <tr>
+        <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+    <tr style="text-align: justify">
+        <td colspan="2">
+            <p>¿Por qué llevan a cabo este análisis?</p>
+        </td>
+        <td colspan="4">
+            <p>El análisis lo llevamos a cabo para comparar nuestra idea de solución con otras existentes. De esta manera, podremos identificar nuestras fortalezas, debilidades, oportunidades y amenazas en relación con el mercado actual
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Empresas:</td>
+        <th>Workflow</th>
+        <th>Trello</th>
+        <th>Miro</th>
+        <th>Basecamp</th>
+    </tr>
+    <tr style="text-align: justify">
+        <th rowspan="2">Perfil</th>
+        <th>Overview</th>
+        <!-- Workflow -->
+        <td>
+                Plataforma de gestión de tareas y proyectos dirigida a los equipos de teletrabajo y estudiantes. Ofrece herramientas como calendario o barra de progreso para la eficiente organización
+        </td>
+        <!-- Trello -->
+        <td>
+                Herramienta de gestión de proyectos en línea que utiliza un enfoque visual para la organización de tareas y proyectos
+        </td>
+        <!-- Miro -->
+        <td>
+                Plataforma de colaboración en línea con pizarra digital donde los usuarios pueden crear, compartir y colaborar en tiempo real
+        </td>
+        <!-- Basecamp -->
+        <td>
+                Herramienta en línea que ayuda a los equipos a administrar y organizar sus tareas y proyectos, proporcionando un espacio para compartir información
+        </td>
+    </tr>
+    <tr>
+        <th> Ventaja Competitiva ¿Qué valor ofrece a los clientes? </th>
+        <!-- Workflow -->
+        <td> 
+            Entorno de trabajo colaborativo con las herramientas necesarias para la organización 
+        </td>
+        <!-- Trello -->
+        <td> 
+            Tarjetas visuales que permiten visualizar y gestionar las actividades 
+        </td>
+        <!-- Miro -->
+        <td> 
+            Canvas intuitivo para generar presentaciones, ideas y diagramas 
+        </td>
+        <!-- Basecamp -->
+        <td>
+            Espacio de trabajo único y completo
+        </td>
+    </tr>
+    <tr>
+        <th rowspan="2">Perfil de Marketing</th>
+        <th>Mercado Objetivo</th>
+        <!-- Workflow -->
+        <td>
+            Equipos de teletrabajo y estudiantes con problemas de organización
+        </td>
+        <!-- Trello -->
+        <td> 
+            Equipos de gran tamaño que necesitan de una aplicación para la organización de sus proyectos y tareas
+        </td>
+        <!-- Miro -->
+        <td> 
+            Usuarios que necesitan de una plataforma para estructurar y plasmar su conocimiento
+        </td>
+        <!-- Basecamp -->
+        <td> 
+            Organizaciones y empresas que buscan soluciones para simplificar su trabajo remoto
+        </td>
+    </tr>
+    <tr>
+        <th>Estrategias de Marketing</th>
+        <!-- Workflow -->
+        <td>
+            Marketing digital, primordialmente redes sociales
+        </td>
+        <!-- Trello -->
+        <td> 
+            Evaluación de habilidades y experiencia por parte de profesionales del mismo campo
+        </td>
+        <!-- Miro -->
+        <td> 
+            Redes sociales y pruebas con potenciales clientes
+        </td>
+        <!-- Basecamp -->
+        <td> 
+            Evaluación de habilidades y experiencia por parte de profesionales del mismo campo
+        </td>
+    </tr>
+    <tr>
+        <th rowspan="4">Perfil de Producto</th>
+        <th>Productos y Servicios</th>
+        <!-- Workflow -->
+        <td>
+            Herramientas de comunicación, colaboración y planificación que les permita a los usuarios tener un mejor flujo de trabajo y organización
+        </td>
+        <!-- Trello -->
+        <td> 
+            Gran variedad de planes y opciones que satisfacen las necesidades de los equipos de trabajo, especialmente los más grandes
+        </td>
+        <!-- Miro -->
+        <td> 
+            Herramientas populares, como plantillas personalizables y cambio de apariencia según las necesidades del usuario
+        </td>
+        <!-- Basecamp -->
+        <td> 
+            Diferentes planes que ofrecen almacenamiento de datos, más proyectos y diversas características extra, como chat en tiempo real
+        </td>
+    </tr>
+    <tr>
+        <th rowspan="2">Precios y Costos</th>
+        <td colspan="4"> Plan gratuito con características básicas </td>
+    </tr>
+    <tr>
+    <!-- Workflow -->
+        <td>
+            <ul>
+                <li>
+                    Plan de pago por $7 mensual con características, como chat IA y almacenamiento extra
+                </li>
+                <li>
+                    Plan empresarial personalizado
+                </li>
+            </ul>
+        </td>
+        <!-- Trello -->
+        <td> 
+            Planes de pago que incluyen más funciones y almacenamiento.
+        </td>
+        <!-- Miro -->
+        <td> 
+            <ul>
+                <li>
+                    Planes de pago desde $8 mensuales que ofrecen funciones como aumentar el almacenamiento
+                </li>
+                <li>
+                    Plan empresarial personalizado
+                </li>
+            </ul>
+        </td>
+        <!-- Basecamp -->
+        <td> 
+            <ul>
+                <li>
+                    Plan de negocios que ofrece más funciones y almacenamiento para equipos de hasta 100 usuarios
+                </li>
+                <li>
+                    Plan empresarial personalizado
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Canales de Distribución</th>
+        <!-- Workflow -->
+        <td>Móvil</td>
+        <!-- El resto -->
+        <td colspan="3"> Web y Móvil </td>
+    </tr>
+    <!-- Análisis FODA -->
+    <tr>
+        <th rowspan="4">Análisis FODA</th>
+        <th>Fortalezas</th>
+        <!--Workflow-->
+        <td>
+            La herramienta es sencilla de entender, incluso para estudiantes escolares sin experiencia previa. Es escalable para equipos de cualquier tamaño y proyecto.
+        </td>
+        <!-- Trello -->
+        <td>
+            La herramienta tiene una interfaz gráfica que es sencilla de navegar y utilizar. También, ofrece una amplia gama de funciones, como la comunicación en línea
+        </td>
+        <!-- Miro -->
+        <td>
+            La herramienta puede adaptarse a equipos de cualquier tamaño y, sin importar la complejidad de proyecto que se está desarrollando
+        </td>
+        <!-- Basecamp -->
+        <td>
+            La herramienta tiene una interfaz de usuario fácil de usar y navegar, al igual que una gran cantidad de funciones. Además, está disponible para dispositivos móviles y computadoras personales
+        </td>
+    </tr>
+    <tr>
+        <th>Debilidades</th>
+        <!--Workflow-->
+        <td>
+            Para el buen funcionamiento de la aplicación, es necesario contar con dispositivos de media o alta gama
+        </td>
+        <!-- Trello -->
+        <td>
+            <ul>
+                <li>
+                    No cuenta con una función de seguimiento de tareas.
+                </li>
+                <li>
+                    No es adecuada para proyectos complejos
+                </li>
+            </ul>
+        </td>
+        <!-- Miro -->
+        <td>
+            Algunas características tienen una curva alta de aprendizaje que pueden desmotivar al usuario en aprender su uso
+        </td>
+        <!-- Basecamp -->
+        <td>
+            No es adecuada para proyectos complejos, ya que carece de funciones importantes para proyectos de gran escala
+        </td>
+    </tr>
+    <tr>
+        <th>Oportunidades</th>
+        <!--Workflow-->
+        <td>
+            Las nuevas tecnologías nos permiten desarrollar nuevas funcionalidades para la mejor experiencia de usuario
+        </td>
+        <!-- Trello -->
+        <td>
+            Las empresas deben implementar nuevos métodos y tecnologías a su software para mantenerse en el mercado
+        </td>
+        <!-- Miro -->
+        <td>
+            El desarrollo de nueva tecnología permite que se agreguen nuevas e innovadoras funcionalidades
+        </td>
+        <!-- Basecamp -->
+        <td>
+            Las nuevas herramientas nos permiten abrirnos a nuevos mercados
+        </td>
+    </tr>
+    <tr>
+        <th>Amenazas</th>
+        <!--Workflow-->
+        <td>
+            Ser una incipiente empresa implica que los clientes desconocen de tu marca, lo que hace que sea más complicado vender tu solución de software
+        </td>
+        <!-- Trello -->
+        <td>
+            El desafío más grande de una empresa tecnológica independiente son los nuevos competidores y la falta de relación con Google
+        </td>
+        <!-- Miro -->
+        <td>
+            La industria tecnológica presenta siempre nuevos competidores, por lo que debemos estar siempre ofreciendo nuevas razones para atraer más clientes y retener a los actuales
+        </td>
+        <!-- Basecamp -->
+        <td>
+            Los desafíos más grandes son los nuevos competidores, la falta de recursos y la alta competitividad de la competencia
+        </td>
+    </tr>
+</table>
+
+#### 2.1.2 Estrategias y Tácticas frente a los competidores
+<p style="text-align: justify">
+    Nuestras estrategias incluyen la diferenciación mediante características únicas; cómo la competencia en costos; nuestro software será cómodo y accesible para nuestro segmento objetivo, la mejora de la estrategia de marketing; principalmente promocionarnos por las redes sociales, la innovación constante por medio de los comentarios, y la mejora del servicio al cliente.
+</p>
+
 ### <a name="solution-profile"></a> 2.2 Entrevistas
 
 <p style="text-align: justify">
