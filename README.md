@@ -441,69 +441,138 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
 Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5 W’s y 2 H’s”. La estructura de esta técnica permite tener una mayor organización y especificación de las actividades que se desarrollarán como empresa, lo que facilita la elaboración de la solución a la necesidad que se desea resolver. (Alvarez, 2020)
 </p>
 
-##### El problema (What?)
--  **¿Cuál es el problema?**
-    La dificultad para poder organizarse en el centro de trabajo
+<h2>5W (What, Why, Who, When, Where)</h2>
 
-- **¿Cuál es la relación con la persona en cuestión?**
-    En el entorno laboral, la falta de organización puede llegar a tal nivel en donde la persona puede descuidar diversos aspectos de su vida laboral o social.
+<h3>1. What (Qué):</h3>
+<p><strong>Workflow</strong> es una aplicación móvil diseñada para mejorar la gestión de tareas y la productividad en equipos de trabajo, estudiantes y PYMES. La plataforma centraliza la organización de tareas, seguimiento de proyectos, y comunicación en equipo en una interfaz intuitiva y personalizable.</p>
 
-##### El momento (When?)
-- **¿Cuándo sucede el problema?**
-    El problema se genera cuando las personas empiezan a tener una mayor cantidad de trabajos pendientes.
+<h3>2. Why (Por qué):</h3>
+<p>La necesidad de una solución integrada para la gestión eficiente de tareas surge debido a los desafíos que enfrentan los equipos al coordinarse, cumplir plazos y hacer un seguimiento efectivo de sus proyectos. <strong>Workflow</strong> responde a esta necesidad proporcionando herramientas que simplifican estos procesos, mejoran la productividad y facilitan el cumplimiento de metas.</p>
 
-- **¿Cuándo utiliza el cliente el producto?**
-    El cliente utilizará nuestro producto cuando necesite una herramienta que lo ayude a organizarse mejor.
+<h3>3. Who (Quién):</h3>
+<p><strong>Workflow</strong> está dirigida principalmente a estudiantes, equipos de trabajo remoto, y pequeñas y medianas empresas (PYMES). Estos grupos buscan soluciones tecnológicas que optimicen su organización y gestión de tareas, permitiéndoles trabajar de manera más eficiente y coordinada.</p>
 
-##### El lugar (Where?)
-- **¿Dónde está el cliente cuando usa el producto?**
-    Nuestros clientes principalmente se encontrarán ubicados en lugares trabajo que presenten una conexión a internet estable, como en la oficina, en una biblioteca o su propio hogar.
+<h3>4. When (Cuándo):</h3>
+<p><strong>Workflow</strong> es relevante en cualquier momento en que los equipos necesiten organizar sus tareas y proyectos, ya sea en entornos académicos durante el ciclo de estudios, o en entornos laborales para gestionar proyectos en curso y mejorar la productividad del equipo. Se espera que los beneficios se vean reflejados a corto y mediano plazo, con mejoras en la eficiencia operativa y el cumplimiento de metas.</p>
 
-- **¿A dónde se dirige?**
-    Nuestros clientes se dirigen a tener una mejor organización en su vida laboral.
+<h3>5. Where (Dónde):</h3>
+<p>La aplicación <strong>Workflow</strong> es accesible desde cualquier lugar con conexión a internet, lo que la hace ideal para equipos de trabajo remoto y estudiantes que operan en diferentes ubicaciones. Esto incluye oficinas, hogares, universidades, o cualquier otro lugar donde los usuarios necesiten gestionar tareas de manera efectiva.</p>
 
-- **¿Dónde surge el problema?**
-    El problema surge cuando se empieza a tener una mayor cantidad de trabajos y/o tareas. Mientras más responsabilidades se deben desarrollar, es necesario contar con una planificación más profunda y estratégica para completar correctamente todas las actividades.
+<h2>2H (How, How Much)</h2>
 
-##### Los involucrados (Who?)
-- **¿Quiénes están involucrados?**
-    Equipos de trabajo que no logren poder organizarse correctamente para desarrollar sus trabajos
+<h3>1. How (Cómo):</h3>
+<p><strong>Workflow</strong> funciona integrando herramientas clave para la gestión de tareas, como el seguimiento de proyectos en tiempo real, la coordinación de tareas, la gestión de plazos, y la comunicación en equipo. Estas herramientas se presentan en una interfaz fácil de usar y altamente personalizable, que permite a los usuarios adaptar la plataforma a sus necesidades específicas. Además, la aplicación se puede integrar con sistemas de gestión de proyectos ya existentes, facilitando una transición fluida y mejorando la experiencia de usuario.</p>
 
-- **¿Quién lo utilizará?**
-    La aplicación será utilizada equipos de trabajo que deseen mejorar su eficiencia en su organización para desarrollar con mayor sencillez su trabajos y tareas.
+<h3>2. How Much (Cuánto):</h3>
+<p><strong>Workflow</strong> se monetiza principalmente a través de un modelo de suscripción, con diferentes niveles de acceso que van desde una versión gratuita con características básicas hasta planes premium que ofrecen funciones avanzadas y soporte adicional. Los precios exactos pueden variar según el tamaño del equipo y las funcionalidades requeridas, pero se espera que los planes premium sean competitivos en el mercado para atraer tanto a pequeñas empresas como a grandes equipos de trabajo. Además, los usuarios pueden optar por integraciones adicionales o servicios personalizados por un costo adicional.</p>
 
-- **¿A quiénes le sucede el problema?**
-    El problema afecta principalmente a los equipos de trabajo que necesitan presentar un proyecto o asignación pero la gran cantidad de responsabilidades le dificultan desarrollarla correctamente.
 
-##### La razón (Why?)
+<h3>1.2.2.1 Lean UX Problem Statements</h3>
 
-**TO-DO:** Cambiar las fuentes de esta sección para que se adecuen al nuevo tema
-<s>
-    Segmento: Equipo de Teletrabajo
-    La aparición de la pandemia del COVID-19 ha tenido un impacto significativo en el uso del teletrabajo, un esquema de trabajo donde el empleado realiza sus labores en un espacio fuera de las instalaciones de trabajo y, por lo tanto, no tiene interacciones físicas con sus colegas o jefes (Santillán, 2020). Aunque esta modalidad de trabajo ya existía desde los años 90, fue a raíz de la pandemia que la mayoría de las empresas empezaron a utilizarlo, incluso si no contaban con los recursos necesarios para llevarlo como un método eficaz de trabajo (Giniger, 2020). Aunque las herramientas ofrecidas en el teletrabajo están diseñadas para facilitar los procesos de trabajo, existen una gran cantidad de personas que no logran adaptarse a estos nuevos métodos. Desarrollar las labores en un entorno no diseñado para el trabajo, como, por ejemplo, el hogar, puede traerle a la persona una gran cantidad de distracciones que puede llegar a causar estrés, como las obligaciones o la carga familiar (Pérez, 2010, como se citó en Bazurto y Macías, 2021). Estos problemas, además de generar estrés, dificultan la organización de la realización de trabajos. Además, debido a la falta de supervisión de un jefe o administrador, este método de trabajo es mucho más propenso a tener problemas como la deficiente comunicación entre los trabajadores, llegar a trabajar por tiempos prologados y mezclar la vida cotidiana con la vida laboral (Pisani y Tomasina, 2022).</s>
+<h4>Problem Statement:</h4>
 
-##### La forma (How?)
-- **¿Cómo usan mi producto?**
-    Nuestros clientes utilizarán nuestro software para resolver los desafíos de la gestión adecuada de tiempo. La aplicación ofrece funcionalidades con las que se puede tener una buena coordinación y eficiencia en la gestión de proyectos.
+<p>La gestión eficiente de tareas presenta desafíos significativos, incluyendo la falta de herramientas integradas que aborden todas las facetas de la organización del trabajo. Los equipos enfrentan dificultades para hacer un seguimiento del progreso de los proyectos, gestionar los plazos y coordinarse entre los miembros, lo que puede llevar a metas no cumplidas, desperdicio de recursos y disminución de la productividad.</p>
 
-- **¿En dónde puede encontrar el cliente el producto?**
-    La forma en como los potenciales clientes descubrirán nuestro producto serán las siguientes:
-    * Publicidad en línea
-    * Contenido en redes sociales
-    * Búsquedas en internet
-    * Referencias de clientes anteriores
-    * Recomendaciones personales
-    
-    Nuestros clientes podrán acceder al contenido de la aplicación a través de nuestra aplicación móvil Workflow
+<h4>Dominio:</h4>
 
-##### El fondo (How much?)
-**TO-DO:** Cambiar las fuentes de esta sección para que se adecuen al nuevo tema
-<s>
-    En Perú, dirigir una empresa no es una tarea sencilla. IPAE Acción Empresarial reporta que una de cada cuatro medianas empresas sufre caídas del 50% en ventas debido a mala gestión (Gestión, 2016).
-    Hasta junio del año 2022, el Ministerio de Trabajo señaló que alrededor de unas 200,000 personas trabajaban con el método de trabajo en línea. Un estudio realizado por el Instituto San Ignacio Loyola (ISIL) en abril de 2022, con 250 principales empresas peruanas, nos muestra que el 89% ya cuenta con algún tipo de trabajo remoto, teniendo el 39% un modelo de trabajo completamente remoto.
-    La mayoría de estas empresas no estaba preparada para la modalidad de teletrabajo. El estudio de ISIL destaca que el 73% de las empresas carecía de políticas o estrategias para el trabajo remoto.
-    El mayor desafío es la gestión de equipos. Mantener la comunicación entre áreas es difícil, principalmente con herramientas como WhatsApp, Zoom o Microsoft Teams. Entre algunos problemas adicionales, son evidentes la falta de capacitación (33%), riesgos de pérdida de información (11%) y recursos insuficientes (8%).
-</s>
+<p>Nos centramos en el sector de la gestión de tareas y la productividad, reconociendo la diversidad y complejidad de los entornos de trabajo, desde grupos de estudiantes hasta equipos profesionales, cada uno con sus necesidades y desafíos únicos en la organización de tareas y proyectos.</p>
+
+<h4>Segmentos de Clientes:</h4>
+
+<p>Nos dirigimos a estudiantes, equipos de trabajo remoto, y pequeñas y medianas empresas (PYMES) que buscan mejorar sus procesos de gestión de tareas. Nuestra plataforma está diseñada para satisfacer las necesidades de estos segmentos, proporcionando herramientas adaptables a diferentes entornos de trabajo, desde proyectos académicos hasta tareas corporativas.</p>
+
+<h4>Puntos de Dolor:</h4>
+<ul>
+  <li><strong>Dificultad para Hacer un Seguimiento del Progreso de los Proyectos:</strong> La falta de herramientas adecuadas dificulta el monitoreo efectivo de las tareas y los cronogramas de los proyectos, lo que lleva a plazos incumplidos y metas no alcanzadas.</li>
+  <li><strong>Desafíos en la Coordinación de Tareas y la Comunicación:</strong> Coordinar tareas y mantener una comunicación clara entre los miembros del equipo puede ser complejo y consumir mucho tiempo, lo que resulta en confusión y esfuerzos duplicados.</li>
+  <li><strong>Complejidades en la Prioritización de Tareas y la Gestión de Plazos:</strong> Organizar y priorizar tareas mientras se gestionan los plazos es un proceso laborioso que a menudo resulta en ineficiencias y disminución de la productividad.</li>
+</ul>
+
+<h4>Visión/Estrategia:</h4>
+
+<p>Nuestra visión es proporcionar una solución integral y fácil de usar que aborde todas las necesidades de gestión de tareas, desde el seguimiento de proyectos hasta la comunicación en equipo. Nos esforzamos por mejorar la eficiencia laboral y el logro de metas al ofrecer una plataforma centralizada que simplifique y optimice todos los aspectos de la gestión de tareas.</p>
+
+<h4>Segmento Inicial:</h4>
+
+<p>Nos enfocamos inicialmente en estudiantes y equipos de trabajo remoto que buscan soluciones accesibles y eficientes para optimizar la gestión de sus tareas. Reconocemos la importancia de ofrecer herramientas asequibles y adaptables para estos segmentos, que a menudo carecen de los recursos de las grandes empresas, pero que tienen una necesidad urgente de mejorar su productividad y organización.</p>
+
+<h3>1.2.2.2 Lean UX Assumptions</h3>
+
+<h4>Features (Características):</h4>
+
+<p>Estas son las herramientas que planeamos implementar en nuestra solución:</p>
+
+<ul>
+  <li><strong>Seguimiento de Tareas en Tiempo Real:</strong> Herramienta para registrar y analizar el progreso de las tareas, proporcionando una visión instantánea del estado del proyecto.</li>
+  <li><strong>Coordinación de Tareas y Comunicación en Equipo:</strong> Funcionalidades para mantener un control preciso sobre la asignación de tareas y facilitar la comunicación en equipo para una gestión eficiente de las tareas.</li>
+  <li><strong>Gestión de Prioridades y Seguimiento de Plazos:</strong> Herramientas para ayudar a priorizar tareas y gestionar plazos de manera efectiva, optimizando la productividad del equipo.</li>
+  <li><strong>Interfaz Intuitiva y Personalizable:</strong> Una interfaz fácil de usar y adaptable a las necesidades específicas de cada equipo, garantizando una experiencia de usuario fluida y personalizada.</li>
+  <li><strong>Integración con Sistemas de Gestión de Proyectos Existentes:</strong> Capacidad para integrarse sin problemas con herramientas de gestión de proyectos ya implementadas, asegurando una transición suave y una experiencia completa para los usuarios.</li>
+</ul>
+
+<h4>Business Outcomes (Resultados Empresariales):</h4>
+
+<p>Aquí nos centramos en lo que queremos lograr como solución de gestión de tareas y lo que debemos observar para saber que nuestra solución fue exitosa y tuvo el impacto deseado.</p>
+
+<ul>
+  <li><strong>Referente de Soluciones Tecnológicas para la Gestión de Tareas:</strong> Queremos ser reconocidos como uno de los mayores referentes en el mercado de software de gestión de tareas, incorporando constantemente nuevas tecnologías, teniendo un sistema eficiente y productivo para el cliente, con funcionalidades que anticipen, se adapten y respondan a sus necesidades.</li>
+  <li><strong>Aumento de la Eficiencia Operativa:</strong> Tras la implementación de Workflow, esperamos una reducción del 30% en el tiempo dedicado a tareas administrativas como la coordinación de tareas y la comunicación, lo que se traducirá en una mejora tangible en la productividad del equipo.</li>
+  <li><strong>Mejora en el Cumplimiento de Metas:</strong> Con Workflow, anticipamos un aumento del 15% en el número de tareas completadas a tiempo dentro de seis meses, gracias a una gestión más efectiva de tareas y una mejor coordinación del equipo.</li>
+  <li><strong>Mayor Satisfacción del Usuario:</strong> Gracias a Workflow, esperamos ver un aumento de 0.5 puntos en la calificación promedio de satisfacción del usuario, lo que reflejaría la mejora en la experiencia del usuario debido a una gestión de tareas y comunicación más eficiente.</li>
+  <li><strong>Retención de Clientes:</strong> Mediante el uso de Workflow, prevemos un aumento del 20% en el número de usuarios que continúan utilizando la plataforma dentro de un año, lo que indica una mayor lealtad gracias a una gestión de tareas efectiva y una experiencia de usuario de alta calidad.</li>
+  <li><strong>Reducción de Costos:</strong> Sabremos que nuestra solución es efectiva cuando veamos una disminución del 25% en los costos totales de los procesos de gestión de tareas, gracias a la reducción del tiempo perdido y la optimización de procesos facilitada por la automatización y la centralización de la información.</li>
+</ul>
+
+<h4>Usuarios:</h4>
+
+<p>Estos son los usuarios a los que va dirigida nuestra solución:</p>
+
+<ul>
+  <li><strong>Estudiantes y Equipos Académicos:</strong> Buscan soluciones tecnológicas para optimizar la gestión de sus proyectos y mejorar su organización y productividad.</li>
+  <li><strong>Equipos de Trabajo Remoto:</strong> Necesitan herramientas que simplifiquen y agilicen sus responsabilidades diarias, desde la comunicación hasta la coordinación de tareas.</li>
+</ul>
+
+<h4>User Outcomes & Benefits (Resultados y Beneficios para el Usuario):</h4>
+
+<p>Estos son los beneficios inmediatos que los usuarios obtendrán con nuestra solución:</p>
+
+<ul>
+  <li><strong>Acceso Conveniente a la Plataforma:</strong> Los usuarios pueden acceder fácilmente a todas las herramientas necesarias para la gestión de tareas desde una sola plataforma.</li>
+  <li><strong>Toma de Decisiones Basada en Datos en Tiempo Real:</strong> La disponibilidad de información actualizada permite a los usuarios tomar decisiones informadas y estratégicas en el momento adecuado.</li>
+  <li><strong>Reducción del Estrés y la Carga de Trabajo:</strong> Al automatizar procesos y simplificar tareas, Workflow ayuda a reducir la carga de trabajo y el estrés asociado con la gestión manual de tareas.</li>
+  <li><strong>Facilitación de Tareas Específicas:</strong> Como el seguimiento de proyectos, la comunicación y la gestión de recursos mediante herramientas especializadas.</li>
+  <li><strong>Mayor Eficiencia y Comunicación:</strong> Al contar con sistemas integrados que agilizan los procesos de las tareas y un sistema de comunicación directa, se optimiza la coordinación operativa.</li>
+  <li><strong>Transparencia de Acciones y Mayor Confianza:</strong> Generando una experiencia sin contratiempos que satisface a los usuarios, especialmente en la asignación de tareas y el seguimiento de proyectos.</li>
+</ul>
+
+<h4>Business Assumptions (Suposiciones de Negocio):</h4>
+
+<p>Estos son los puntos que podemos asumir sobre nuestro negocio:</p>
+
+<ul>
+  <li>Creemos que los equipos y estudiantes tienen una necesidad creciente de soluciones tecnológicas que mejoren la eficiencia del trabajo y el cumplimiento de metas.</li>
+  <li>Esta necesidad puede ser abordada con éxito mediante Workflow, que ofrece una plataforma integral y fácil de usar para la gestión de tareas.</li>
+  <li>El principal valor que nuestros clientes buscan es una solución que simplifique la gestión diaria de tareas y mejore la colaboración y la productividad del equipo.</li>
+  <li>Prevemos adquirir la mayoría de nuestros clientes a través de estrategias de marketing dirigidas a estudiantes y equipos de trabajo remoto, así como mediante asociaciones con instituciones educativas y organizaciones corporativas.</li>
+  <li>Generaremos ingresos principalmente a través de modelos de suscripción y servicios premium, así como mediante la oferta de integraciones con otros sistemas y herramientas adicionales.</li>
+  <li>Si bien enfrentamos la competencia de otras soluciones de gestión de tareas, confiamos en que podemos destacarnos mediante la calidad del servicio, la facilidad de uso y la capacidad de adaptación a las necesidades específicas de cada equipo.</li>
+  <li>El principal riesgo que enfrentamos es no cumplir con las expectativas del cliente en cuanto a funcionalidad, rendimiento y soporte técnico.</li>
+  <li>Planeamos mitigar este riesgo manteniendo un enfoque centrado en el cliente, brindando soporte continuo y actualizaciones regulares de nuestra plataforma para satisfacer las necesidades cambiantes del mercado de gestión de tareas.</li>
+</ul>
+
+<h3>1.2.2.3 Lean UX Hypothesis Statements</h3>
+
+<p>Usando la información recolectada en los Business Outcomes, Usuarios, Beneficios y Features, podemos formular nuestras hipótesis, cada una centrada en una característica a desarrollar.</p>
+
+<ul>
+  <li><strong>Hipótesis 1:</strong> Creemos que podemos ser reconocidos como un referente de soluciones tecnológicas para la gestión de tareas, cuando los estudiantes y equipos de trabajo remoto obtengan una experiencia de usuario fluida y personalizada mediante nuestra interfaz intuitiva y personalizable.</li>
+  <li><strong>Hipótesis 2:</strong> Creemos que lograremos un aumento en la eficiencia operativa si los líderes de equipo y estudiantes reciben actualizaciones precisas y en tiempo real sobre los proyectos a través de la funcionalidad de seguimiento de tareas en tiempo real.</li>
+  <li><strong>Hipótesis 3:</strong> Creemos que se logrará una mejora en el cumplimiento de metas si los líderes de equipo pueden optimizar la coordinación de tareas y la comunicación a través de las características de coordinación de tareas y comunicación en equipo de Workflow.</li>
+  <li><strong>Hipótesis 4:</strong> Creemos que se logrará una mayor satisfacción del usuario si los líderes de equipo pueden gestionar las tareas de manera más eficiente, lo que podría lograrse a través de nuestras herramientas de gestión de prioridades y seguimiento de plazos.</li>
+  <li><strong>Hipótesis 5:</strong> Creemos que se logrará la retención de clientes si los líderes de equipo y estudiantes experimentan un mejor sistema de gestión de tareas centralizado y eficiente mediante la integración fluida con sistemas de gestión de proyectos existentes.</li>
+  <li><strong>Hipótesis 6:</strong> Creemos que se logrará la reducción de costos si los líderes de equipo pueden coordinar y controlar las tareas de manera más eficiente a través de las características de coordinación de tareas y comunicación de Workflow.</li>
+  <li><strong>Hipótesis 7:</strong> Creemos que se logrará la expansión de nuestra presencia en el mercado si equipos de diversos tamaños pueden acceder a una solución adaptable a sus necesidades específicas con la interfaz intuitiva y personalizable.</li>
+</ul>
 
 ## 2: Needfinding
 En esta sección se presentarán los métodos que hemos utilizado para conocer más acerca de los potenciales clientes, así como el mercado actual.
