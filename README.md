@@ -916,23 +916,29 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
 
 Entrevista 1:
 
-    Nombre:
-    Sexo:
-    Residencia
+    Nombre: Kevin Tumbalobos cubas
+    Sexo: Masculino
+    Residencia: San Miguel
     Inicio:
     Fin:
 
-Descripción Básica de la entrevista
+Descripción
+
+<p>Kevin Tumbalobos es líder de equipo en el área de Gestión y Sistemas. Durante la entrevista, mencionó que enfrenta dificultades al asignar tareas a los miembros de su equipo, ya que este proceso a veces resulta complejo y poco fluido. Actualmente, utiliza Trello como herramienta principal para la gestión de proyectos y organiza el trabajo en "sprints" para hacer seguimiento al progreso de las tareas.</p>
+<p> Kevin considera que una aplicación de gestión de tareas ideal debería permitir la creación y asignación de tareas a los miembros del equipo, así como establecer fechas límite para su cumplimiento. Prefiere comunicarse con su equipo a través de llamadas telefónicas o mensajes de texto para mantener la coordinación. Además, le gustaría recibir notificaciones sobre el progreso de las tareas tanto por correo electrónico como a través de notificaciones en su dispositivo móvil. Finalmente, evalúa la eficiencia de su equipo basándose en la cantidad de tareas completadas y el tiempo en que estas son entregadas.</p>
+
 
 Entrevista 2:
 
-    Nombre:
-    Sexo:
-    Residencia
+    Nombre: Francis Daniel Mamani Silva
+    Sexo: Masculino
+    Residencia: Pueblo Libre
     Inicio:
     Fin:
     
-Descripción Básica de la entrevista
+Descripción
+<p>Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.</p>
+<p>Francis considera que las características más importantes en una aplicación de gestión de proyectos serían la capacidad de asignar tareas, dar seguimiento, y ofrecer una visualización clara del progreso. Prefiere coordinarse con su equipo a través de correos electrónicos y reuniones, y valora la posibilidad de personalizar las herramientas que utiliza para ajustarlas a las necesidades específicas de su equipo. Además, le gustaría recibir notificaciones sobre el progreso de las tareas directamente en su celular. A la hora de distribuir la carga de trabajo, Francis tiene en cuenta el esfuerzo y la eficiencia de los miembros del equipo.</p>
 
 Entrevista 3:
 
@@ -948,19 +954,21 @@ Descripción Básica de la entrevista
 
 Entrevista 1:
 
-    Nombre:
-    Sexo:
-    Residencia
+    Nombre: Cynthia Santa Cruz Vargas
+    Sexo: Femenino
+    Residencia: Peru, Lima
     Inicio:
     Fin:
 
-Descripción Básica de la entrevista
+Descripción
+<p>Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.</p>
+<p>Cynthia considera que una herramienta de gestión de proyectos debe incluir un sistema eficaz para el seguimiento del progreso de las tareas, así como la capacidad de enviar notificaciones automáticas. Prefiere comunicarse con sus colegas cara a cara o por correo electrónico. En una aplicación de gestión, le gustaría contar con una función que permita registrar el tiempo que una persona tarda en completar una tarea. Además, prefiere recibir notificaciones sobre las tareas a través de su celular o por correo electrónico.</p>
 
 Entrevista 2:
 
     Nombre:
     Sexo:
-    Residencia
+    Residencia: 
     Inicio:
     Fin:
     
