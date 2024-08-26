@@ -87,12 +87,12 @@
 ## Contenido
 
 ### [1. Capítulo 1: Presentación](#cap1)
-#### [1.1 Startup Profile](#start-up)
+#### [1.1. Startup Profile](#start-up)
     1.1.1 Descripción de la Startup
     1.1.2 Perfiles de los integrantes
-#### [1.2 Solution Profile](#solution-profile)
-    1.2.1 Antecedentes y problemática
-    1.2.2 Lean UX Process
+#### [1.2. Solution Profile](#solution-profile)
+    1.2.1. Antecedentes y problemática
+    1.2.2. Lean UX Process
         1.2.2.1. Lean UX Problem Statements
         1.2.2.2. Lean UX Assumptions
         1.2.2.3. Lean UX Hypothesis Statements
@@ -117,21 +117,21 @@
     2.3.5. As-is Scenario Mapping
 #### [2.4. Requirements Specification](#requirements-specification)
     2.4.1. To-Be Scenario Mapping
-    2.4.2 User Stories
-    2.4.3 Impact Mapping
-    2.4.4 Product Backlog
+    2.4.2. User Stories
+    2.4.3. Impact Mapping
+    2.4.4. Product Backlog
 ---
 
 ### [3. Capítulo 3: Arquitectura](#cap3)
-#### [3.1 Product Design](#product-design)
+#### [3.1. Product Design](#product-design)
     3.1.1. Style Guidelines
-        3.1.1.1 General Style Guidelines
+        3.1.1.1. General Style Guidelines
     3.1.2 Information Architecture
-        3.1.2.1 Organization Systems
-        3.1.2.2 Labeling Systems
-        3.1.2.3 SEO Tags and Meta Tags
-        3.1.2.4 Searching Systems
-        3.1.2.5 Navigation Systems
+        3.1.2.1. Organization Systems
+        3.1.2.2. Labeling Systems
+        3.1.2.3. SEO Tags and Meta Tags
+        3.1.2.4. Searching Systems
+        3.1.2.5. Navigation Systems
     3.1.3 Landing Page UI Design
         3.1.3.1. Landing Page Wireframe
         3.1.3.2. Landing Page Mock-up
@@ -141,7 +141,7 @@
         3.1.4.3. Mobile Applications Mock-ups
         3.1.4.4. Mobile Applications User Flow Diagrams
         3.1.4.5. Mobile Applications Prototyping
-#### [3.2 Architecture Overview](#architecture-overview)
+#### [3.2. Architecture Overview](#architecture-overview)
     3.2.1. Domain-Driven Software Architecture
         3.2.1.1. Software Architecture Context Level Diagram
         3.2.1.2. Software Architecture Container Level Diagram
@@ -656,7 +656,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     <!-- BUSINESS PROBLEM -->
     <td>
         <p style="color: blue"> LA SITUACIÓN: <p> 
-        <p> Ofrecemos un apoyo de gestión a los estudiantes y equipos de teletrabajo </p>
+        <p> Ofrecemos un apoyo de gestión a los equipos de trabajo </p>
         <p style="color: blue"> LOS PROBLEMAS COMUNES: </p> 
         <div style="text-align: justify">
             <p> Falta de herramientas para las reuniones virtuales </p> 
@@ -696,10 +696,10 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 <!-- Equipos de teletrabajo -->
 <tr style="text-align: justify">
     <td colspan="2">
-         <p> Líder de equipo de teletrabajo que necesite ayuda en la gestión de su equipo de teletrabajo asignado <p>
+         <p> Líder de equipo de trabajo que necesite ayuda en la gestión de su equipo de teletrabajo asignado <p>
     </td>
     <td>
-         <p> Miembro de equipo de teletrabajo que actualmente esté insatisfecho con la comunicación con su equipo <p>
+         <p> Miembro de equipo de trabajo que actualmente esté insatisfecho con la comunicación con su equipo <p>
     </td>
 </tr>
 <tr>
@@ -709,7 +709,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 </tr>
 <tr style="text-align: justify">
     <td>
-        <p> Creemos que implementar funcionalidades diseñadas para fomentar la organización será la clave del éxito de nuestra aplicación en la gestión y organización de un equipo de teletrabajo.</p>
+        <p> Creemos que implementar funcionalidades diseñadas para fomentar la organización será la clave del éxito de nuestra aplicación en la gestión y organización de un equipo de trabajo.</p>
         <p>Sabremos que hemos tenido éxito. </p>
         <p>Cuando las ventas de nuestro plan de suscripción aumenten en un 50%</p>
     </td>
@@ -785,7 +785,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <th>Overview</th>
         <!-- Workflow -->
         <td>
-                Plataforma de gestión de tareas y proyectos dirigida a los equipos de teletrabajo y estudiantes. Ofrece herramientas como calendario o barra de progreso para la eficiente organización
+                Plataforma de gestión de tareas y proyectos dirigida a los equipos de trabajo. Ofrece herramientas como calendario o barra de progreso para la eficiente organización
         </td>
         <!-- Trello -->
         <td>
@@ -824,7 +824,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <th>Mercado Objetivo</th>
         <!-- Workflow -->
         <td>
-            Equipos de teletrabajo y estudiantes con problemas de organización
+            Equipos de trabajo con problemas de organización
         </td>
         <!-- Trello -->
         <td> 
@@ -843,7 +843,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <th>Estrategias de Marketing</th>
         <!-- Workflow -->
         <td>
-            Marketing digital, primordialmente redes sociales
+            Marketing digital, principalmente redes sociales
         </td>
         <!-- Trello -->
         <td> 
@@ -863,7 +863,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <th>Productos y Servicios</th>
         <!-- Workflow -->
         <td>
-            Herramientas de comunicación, colaboración y planificación que les permita a los usuarios tener un mejor flujo de trabajo y organización
+            Herramientas de colaboración y planificación que les permita a los usuarios tener un mejor flujo de trabajo y organización
         </td>
         <!-- Trello -->
         <td> 
@@ -887,7 +887,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <td>
             <ul>
                 <li>
-                    Plan de pago por $7 mensual con características, como chat IA y almacenamiento extra
+                    Plan de pago por $7 mensual con características, como almacenamiento extra
                 </li>
                 <li>
                     Plan empresarial personalizado
@@ -934,7 +934,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
         <th>Fortalezas</th>
         <!--Workflow-->
         <td>
-            La herramienta es sencilla de entender, incluso para estudiantes escolares sin experiencia previa. Es escalable para equipos de cualquier tamaño y proyecto.
+            La herramienta es sencilla de entender. Es escalable para equipos de cualquier tamaño y proyecto.
         </td>
         <!-- Trello -->
         <td>
@@ -1150,3 +1150,1544 @@ Descripción Básica de la entrevista
 #### 2.2.3 Análisis de entrevistas
 
 ### <a name="needfinding"></a> 2.3 Needfinding
+
+
+### <a name="requirements-specification"></a> 2.4 Requirements Specification
+
+#### 2.4.1 To-be Scenario Mapping
+Los cuadros del To-Be Scenario Mapping los desarrollamos para indicar cómo es que la experiencia de los usuarios mejorará cuando utilicen nuestra aplicación móvil.
+
+Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
+
+1. Líder de equipo de trabajo
+<img src="images/to-be-renzo.jpg" alt="TO-BE Scenario Mapping: Renzo">
+
+2. Miembro de equipo de trabajo
+<img src="images/to-be-cielo.jpg" alt="TO-BE Scenario  Mapping: Cielo">
+
+### 2.4 User Stories
+<table>
+    <tr>
+        <th>Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>EPIC ID</th>
+    </tr>
+    <!--EPIC 1-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 1: LANDING PAGE</h5>
+            <p>
+                Como visitante, quiero contar con una landing page para visualizar todas las funcionalidades que tiene la aplicación móvil que ofrece la empresa
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Implementación de Barra de navegación</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero tener la opción de atravesar todas las secciones de la landing page a través de una barra de navegación </p>
+            <p> Para facilitar el acceso a la información </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado de una sección a otra</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario seleccione una de las secciones de la barra de navegación </p>
+                <p> Entonces se trasladará a la sección seleccionada </p>
+            <h5>Escenario 2: Selección de la misma sección de la landing page</h5>
+                <p> Dado que el usuario se encuentra en una sección específica de la landing page </p>
+                <p> Cuando el usuario seleccione la misma sección en la barra de navegación </p>
+                <p> Entonces la pantalla no se moverá a otra sección diferente </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th> US02 </th>
+        <th> Logo y Descripción de la empresa </th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero visualizar el logo y descripción de la empresa </p>
+            <p> Para verificar que estoy en la landing page oficial de la empresa </p>
+        </td>
+        <td>
+            <h5> Escenario 1: Visualización del Logo </h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario seleccione “Inicio” en la barra de navegación </p>
+                <p> Entonces se trasladará al usuario a la sección del logo y descripción de la empresa </p>
+            <h5>Escenario 2: El logo no aparece</h5>
+                <p> Dado que el usuario se encuentra en una sección específica de la landing page </p>
+                <p> Cuando el usuario seleccione “Inicio” en la barra de navegación </p>
+                <p> Y el logo de la empresa no haya cargado </p>
+                <p> Entonces se trasladará al usuario a la sección del logo y descripción de la empresa </p>
+                <p> Y aparecerá solo la descripción </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>US03</th>
+        <th>Detalles y Servicios de la empresa</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero visualizar los detalles y servicios de la empresa </p>
+            <p> Para conocer de qué manera se puede utilizar la aplicación </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado a la sección servicios</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario seleccione “Servicios” en la barra de navegación </p>
+                <p> Entonces se trasladará al usuario a la sección de detalles de servicios </p>
+            <h5>Escenario 2: El usuario ya se encuentra en la sección servicios</h5>
+                <p> Dado que el usuario se encuentra en la sección “servicios” </p>
+                <p> Cuando el usuario seleccione “Servicios” en la barra de navegación </p>
+                <p> Entonces el sistema mantendrá al usuario en la sección seleccionada </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>US04</th>
+        <th>Clientes de la empresa</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero visualizar las experiencias de clientes previos de la empresa </p>
+            <p> Para es que la vida de los usuarios cambió al utilizar la aplicación </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado a la sección clientes</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario seleccione “Clientes” en la barra de navegación </p>
+                <p> Entonces se trasladará al usuario a la sección de experiencia de clientes </p>
+            <h5>Escenario 2: El usuario ya se encuentra en la sección clientes</h5>
+                <p> Dado que el usuario se encuentra en la sección “clientes” </p>
+                <p> Cuando el usuario seleccione “Clientes” en la barra de navegación </p>
+                <p> Entonces el sistema mantendrá al usuario en la sección seleccionada </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>US05</th>
+        <th>Acerca de nosotros</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero visualizar la misión y visión de la empresa </p>
+            <p> Para conocer qué planes tienen a futuro </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado a la sección Nosotros</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario seleccione “Acerca de Nosotros” en la barra de navegación </p>
+                <p> Entonces se trasladará al usuario a la sección de experiencia de clientes </p>
+            <h5>Escenario 2: El usuario ya se encuentra en la sección nosotros</h5>
+                <p> Dado que el usuario se encuentra en la sección “Nosotros” </p>
+                <p> Cuando el usuario seleccione “Acerca de Nosotros” en la barra de navegación </p>
+                <p> Entonces el sistema mantendrá al usuario en la sección seleccionada </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>US06</th>
+        <th>Implementación de un Footer</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero visualizar un Footer al final de la página </p>
+            <p> Para ver las redes sociales asociadas a la empresa </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado a la sección de footer</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario se dirija al final de la landing page </p>
+                <p> Entonces el usuario visualizará las redes sociales asociadas a la empresa </p>
+            <h5>Escenario 2: Traslado al usuario de la red social seleccionada</h5>
+                <p> Dado que el usuario se encuentra en el footer </p>
+                <p> Cuando el usuario seleccione una de íconos de las redes sociales que aparecen la sección del footer </p>
+                <p> Entonces el sistema redirigirá al usuario a la red social indicada </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>US07</th>
+        <th>Translación a la aplicación móvil</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero contar con un botón que me redirija a la aplicación móvil </p>
+            <p> Para tener un acceso directo y rápido a ella </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado a la aplicación móvil</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el dé click en el botón "Probar ahora" </p>
+                <p> Entonces el sistema redirigirá al usuario a la aplicación móvil </p>
+            <h5>Escenario 2: Aplicación actualmente en mantenimiento</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el dé click en el botón "Probar ahora" </p>
+                <p> Y lo servicios de la aplicación móvil estén actualmente en mantenimiento </p>
+                <p> Entonces aparecerá un mensaje, indicando que actualmente la aplicación móvil está en mantenimiento </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Traslado a un entorno diferente</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el usuario pueda trasladarse libremente entre todos los entornos de la landing page </p>
+            <p> Para que el usuario pueda ver todo lo que la aplicación ofrece </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Traslado exitoso</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar el botón "Probar ahora" </p>
+                <p> Entonces se recibe una respuesta con el estado 200 </p>
+                <p> Y el mensaje “Traslado Exitoso” es mostrado </p>
+                <p> Y se redirige al usuario al entorno seleccionado </p>
+            <h5>Escenario 2: Error del servidor</h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando una solicitud GET sea enviada al presionar el botón "Probar ahora" </p>
+                <p> Y lo servicios de la aplicación móvil estén actualmente en mantenimiento </p>
+                <p> Entonces se recibe una respuesta con el estado 500 </p>
+                <p> Y el mensaje “ERROR EN EL SERVIDOR” es mostrado </p>
+        </td>
+        <td>1</td>
+    </tr>
+    <!--EPIC 2-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 2: REGISTRO DE USUARIOS</h5>
+            <p>
+                Como usuario, quiero poder registrarme e iniciar sesión para acceder a todas las herramientas que Task Management me ofrece
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Registro de usuario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos sin una cuenta en el sistema </p>
+            <p> Quiero poder registrarme en la aplicación </p>
+            <p> Para acceder a todas sus funcionalidades </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso a la página "Crear una cuenta"</h5>
+                <p> Dado que el usuario se encuentra en la página "Inicio Sesión" </p>
+                <p> Cuando el usuario seleccione el botón "Crear nueva cuenta" </p>
+                <p> Entonces se redirige al usuario a la página "Crear nueva cuenta" </p>
+            <h5>Escenario 2: Registro exitoso</h5>
+                <p> Dado que el usuario se encuentra en la página “Crear nueva cuenta” </p>
+                <p> Cuando el usuario ingrese todos sus datos de registro </p>
+                <p> Entonces el sistema crea una nueva cuenta, incluyendo los datos de registro proporcionados por el usuario </p>
+                <p> Y se redirige al usuario a la página principal </p>
+            <h5>Escenario 3: Registro con datos incompletos</h5>
+                <p> Dado que el usuario se encuentra en la página “Crear nueva cuenta” </p>
+                <p> Cuando el usuario intente registrar una cuenta sin proporcionar todos los datos de registro requeridos </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no puede crearse una cuenta sin haber completado todos los campos </p>
+            <h5>Escenario 4: Registro con correo electrónico ya registrado</h5>
+                <p> Dado que el usuario se encuentra en la página “Crear nueva cuenta” </p>
+                <p> Cuando el usuario ingrese una dirección de correo electrónico ya está registrada en el sistema </p>
+                <p> Entonces se muestra un mensaje de error, indicando que la dirección de correo electrónico ya está en uso </p>
+             <h5>Escenario 5: Registro con un nombre inválido</h5>
+                <p> Dado que el usuario se encuentra en la página “Crear nueva cuenta” </p>
+                <p> Cuando el usuario ingrese un nombre inválido </p>
+                <p> Entonces se muestra un mensaje de error, indicando que el nombre escrito no puede ser utilizado para crear una cuenta </p>
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Acceso de usuario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos sin una cuenta en el sistema </p>
+            <p> Quiero poder iniciar sesión en la aplicación utilizando mi dirección de correo electrónico y contraseña </p>
+            <p> Para acceder a mi cuenta y utilizar todas las funcionalidades de la aplicación </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Inicio de sesión exitoso</h5>
+                <p> Dado que el usuario se encuentra en la página "Inicio Sesión" </p>
+                <p> Cuando el usuario ingrese una dirección de correo electrónico que tenga una cuenta registrada en el sistema </p>
+                <p>Y el usuario ingrese la contraseña asociada al correo electrónico proporcionado</p>
+                <p> Entonces se redirige al usuario a la página principal de la aplicación </p>
+            <h5>Escenario 2: Inicio de sesión con un correo electrónico no registrado en el sistema</h5>
+                <p> Dado que el usuario se encuentra en la página “Inicio Sesión” </p>
+                <p> Cuando el usuario ingrese una dirección de correo electrónico que no tenga una cuenta registrada en el sistema </p>
+                <p> Entonces se muestra un mensaje de error, indicando que el correo o contraseña es incorrecto </p>
+            <h5>Escenario 3: Inicio de sesión con una contraseña inválida</h5>
+                <p> Dado que el usuario se encuentra en la página “Inicio Sesión” </p>
+                <p> Cuando el usuario ingrese una dirección de correo electrónico </p>
+                <p> Y una contraseña inválida</p>
+                <p> Entonces se muestra un mensaje de 1error, indicando que el correo o contraseña es incorrecto </p>
+            <h5>Escenario 4: Inicio de sesión con una cuenta desactivada</h5>
+                <p> Dado que el usuario se encuentra en la página de “Inicio Sesión” </p>
+                <p> Cuando el usuario intente iniciar sesión con una cuenta desactivada </p>
+                <p> Entonces el sistema activa automáticamente la cuenta</p>
+                <p> Y se redirige al usuario a la página principal de la aplicación</p>
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Registrar Usuario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero agregar usuarios a la base de datos </p>
+            <p> Para que puedan utilizar mi aplicación </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Registro de usuario exitoso</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y un recurso de usuario es incluido en el campo de respuestas con un nuevo ID y los datos ofrecidos por el usuario </p>
+            <h5>Escenario 2: Registro con correo electrónico ya registrado</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Y la dirección de correo electrónico ingresada ya está registrada en el sistema </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Correo ya registrado” es mostrado </p>
+            <h5>Escenario 3: Registro con datos incompletos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con solo algunos de los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Faltan datos” es mostrado </p>
+            <h5>Escenario 4: Registro con un nombre de usuario prohibido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Y el dato nombre sea una palabra inválida </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Nombre Prohibido” es mostrado </p>
+            <h5>Escenario 5: Registro con una edad inválida</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Y el dato edad menor o igual a 0 o mayor que 130 </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “La edad no es número entero positivo menor a 130” es mostrado </p>
+            <h5>Escenario 6: Registro con una contraseña débil</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de nombre, edad, sexo, correo electrónico, contraseña </p>
+                <p> Y la contraseña sea muy débil (sin al menos una letra mayúscula, una letra minúscula, un número y un carácter especial) </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor de “La contraseña no incluye al menos una letra mayúscula, una letra minúscula, un número y un carácter especial” es mostrado </p>
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Acceder Usuarios</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero poder permitir el acceso a los usuarios a la aplicación móvil </p>
+            <p> Para que puedan utilizar los servicios ofrecidos por nuestra empresa </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Inicio de sesión exitoso</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de dirección de correo electrónico y contraseña que se encuentren guardados dentro de la base de datos</p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el sistema permite el acceso al usuario a la página principal </p>
+            <h5>Escenario 2: Registro con correo electrónico ya registrado</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de dirección de correo electrónico y contraseña </p>
+                <p> Y la dirección de correo electrónico no esté guardada en la base de datos </p>
+                <p> Entonces se recibe una respuesta con el status 404 </p>
+                <p> Y un mensaje con el valor de “No existe una cuenta asociada a el correo electrónico proporcionado” es mostrado </p>
+            <h5>Escenario 3: Inicio de sesión con contraseña incorrecta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los datos de dirección de correo electrónico y contraseña </p>
+                <p> Y la contraseña sea incorrecta </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Datos incorrectos” es mostrado </p>
+            <h5>Escenario 4: Inicio de sesión con datos incompletos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con solo uno de los datos de dirección de correo electrónico y contraseña </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Faltan Datos” es mostrado </p>
+        </td>
+        <td>2</td>
+    </tr>
+    <!--EPIC 3-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 3: RECUPERACIÓN DE CONTRASEÑA</h5>
+            <p>
+                Como usuario, quiero poder recuperar mi contraseña para poder volver a ingresar a la aplicación si es que me olvido de ella
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Recuperación de Contraseña</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla </p>
+            <p> Para así poder acceder nuevamente a mi cuenta </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso al entorno “Recuperar Contraseña”</h5>
+                <p> Dado que el usuario se encuentra en la página “Inicio sesión” </p>
+                <p> Cuando el usuario dé clic en "Olvidé mi contraseña" </p>
+                <p> Entonces se redirige al usuario al entorno “Recuperar Contraseña” </p>
+            <h5>Escenario 2: Recuperación con dirección de correo electrónico válido</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
+                <p> Cuando el usuario escriba una dirección de correo electrónico registrada en el sistema </p>
+                <p> Entonces se muestra el entorno “Nueva Contraseña” </p>
+            <h5>Escenario 3: Recuperación con dirección de correo electrónico inválido</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
+                <p> Cuando el usuario proporcione una dirección de correo electrónico que no se encuentra actualmente registrada en el sistema </p>
+                <p> Entonces se muestra un mensaje de error, indicando que la dirección de correo electrónico no está registrada en el sistema </p>
+            <h5>Escenario 4: Restablecimiento de contraseña exitoso</h5>
+                <p> Dado que el usuario se encuentra en la página “Nueva Contraseña” </p>
+                <p> Cuando el usuario ingresa una nueva contraseña </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que la contraseña se ha restablecido correctamente </p>
+                <p> Y se redirige al usuario a la página “Inicio Sesión”</p>
+            <h5>Escenario 5: Restablecimiento de contraseña con la misma contraseña que la original</h5>
+                <p> Dado que el usuario se encuentra en la página “Recuperar Contraseña” </p>
+                <p> Cuando el usuario ingresa una contraseña igual a la que actualmente está utilizando </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no puede cambiarse a la misma contraseña que está actualmente en uso </p>
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Recuperar Contraseña</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el sistema permita a los usuarios recuperar su contraseña </p>
+            <p> Para permitir que los usuarios tengan un método para acceder de nuevo a la aplicación si es que se han olvidado de su contraseña </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Recuperación con dirección de correo electrónico válido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
+                <p> Y la dirección de correo electrónico ingresada esté registrada en el sistema </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el sistema permite el acceso al usuario al entorno “Nueva Contraseña” </p>
+            <h5>Escenario 2: Recuperación con dirección de correo electrónico inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
+                <p> Y la dirección de correo electrónico ingresada no se encuentre registrada en el sistema </p>
+                <p> Entonces se recibe una respuesta con el status 401 </p>
+                <p> Y un mensaje con el valor “El correo electrónico es incorrecto” es mostrado </p>
+            <h5>Escenario 3: Restablecimiento de contraseña exitoso </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de una nueva contraseña </p>
+                <p> Entonces se recibe una respuesta con el status 202</p>
+                <p> Y el sistema redirige al usuario a la página principal </p>
+            <h5>Escenario 4: Restablecimiento de contraseña con la misma contraseña que la original</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de una contraseña</p>
+                <p> Y la contraseña sea la misma que la contraseña actual </p>
+                <p> Entonces se recibe una respuesta con el status 406 </p>
+                <p> Y un mensaje con el valor “La nueva contraseña coincide con la actual” es mostrado </p>
+            <h5>Escenario 5: Restablecimiento de contraseña sin proporcionar una contraseña</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada sin datos</p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Contraseña no proporcionada” es mostrado </p>
+        </td>
+        <td>3</td>
+    </tr>
+    <!--EPIC 4-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 4: ELIMINACIÓN DE CUENTAS DE USUARIO</h5>
+            <p>
+                Como usuario, quiero poder eliminar mi cuenta para dejar de utilizar la aplicación de manera definitiva
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Eliminación de cuenta</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder eliminar mi cuenta </p>
+            <p> Para asegurarme que ningún tipo de información personal se quede en la aplicación cuando desee dejar de utilizarla </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso al entorno “Eliminar Cuenta”</h5>
+                <p> Dado que el usuario se encuentra en la página de “Configuración” </p>
+                <p> Cuando el usuario dé clic en “Eliminar Cuenta” </p>
+                <p> Entonces se redirige al usuario al entorno “Eliminar Cuenta” </p>
+            <h5>Escenario 2: Eliminación de Cuenta</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Eliminar Cuenta” </p>
+                <p> Cuando el usuario seleccione el botón “Eliminar Cuenta” </p>
+                <p> Entonces se muestra la ventana “Eliminación Definitiva de Cuenta”, indicando que la acción no podrá ser deshecha </p>
+            <h5>Escenario 3: Confirmación de Eliminación de Cuenta</h5>
+                <p> Dado que el usuario se encuentra en la ventana “Eliminación Definitiva de Cuenta” </p>
+                <p> Cuando el usuario seleccione el botón “Eliminar Definitivamente” </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que la cuenta ha sido eliminada </p>
+                <p> Y se redirige al usuario a la Página Principal </p>
+        </td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Eliminar Cuenta</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario eliminar su cuenta definitivamente mediante un solo entorno </p>
+            <p> Para que sea sencillo administrar la eliminación de las cuentas </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Eliminación de Cuenta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el sistema redirige al usuario a la Página Principal </p>
+            <h5>Escenario 2: Error al eliminar la cuenta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
+                <p> Y algún problema con el servidor ocurra </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor de "Error al eliminar la cuenta" aparece </p>
+        </td>
+        <td>4</td>
+    </tr>
+    <!--EPIC 5-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 5: CREACIÓN DE PROYECTOS</h5>
+            <p>
+                Como jefe de equipo, quiero poder crear un proyecto bajo mi mando y para poder encargar a los miembros de equipo sus respectivos trabajos
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Creación de un Proyecto Nuevo</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero poder crear un nuevo proyecto en la aplicación </p>
+            <p> Para administrar y gestionar mis labores </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Acceder al entorno “Crear Proyecto”</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Proyectos” </p>
+                <p> Cuando el jefe de equipo seleccione el botón “Crear Proyecto” </p>
+                <p> Entonces se le redirige al entorno “Crear Proyecto” </p>
+            <h5>Escenario 2: Creación de proyecto exitosa</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Proyecto” </p>
+                <p> Cuando el jefe de equipo ingrese los detalles del proyecto </p>
+                <p>Y seleccione el botón "Crear"</p>
+                <p> Entonces se crea un nuevo proyecto con los detalles proporcionados </p>
+                <p> Y se muestra un mensaje de confirmación, indicando que el proyecto fue creado satisfactoriamente </p>
+            <h5>Escenario 3: Creación de proyecto con datos incompletos</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Proyecto” </p>
+                <p> Cuando el jefe de equipo intenta crear un proyecto sin proporcionar todos los datos requeridos </p>
+                <p> Entonces se muestra un mensaje de error, indicando que todos los campos obligatorios deben ser completados </p>
+            <h5>Escenario 4: Creación de proyecto con nombre duplicado</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Proyecto” </p>
+                <p> Cuando el jefe de equipo intenta crear un proyecto con un nombre que ya existe en la aplicación </p>
+                <p> Entonces se muestra un mensaje de error, indicando que ya existe un proyecto con ese nombre </p>
+            <h5>Escenario 5: Creación de proyecto con nombre inválido</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Proyecto” </p>
+                <p> Cuando el jefe de equipo intente crear un nuevo proyecto con un nombre inválido </p>
+                <p> Entonces se muestra un mensaje de error, indicando que el nombre es inválido </p>
+            <h5>Escenario 6: Creación de un proyecto con duración indefinida</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Proyecto” </p>
+                <p> Cuando el jefe de equipo intente crear un nuevo proyecto sin fecha de inicio ni fecha de límite </p>
+                <p> Entonces se creará un nuevo proyecto, indicando en la descripción que tiene “Duración Indefinida” </p>
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Asignación de un Miembro a un Proyecto</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero poder asignar miembros a un proyecto </p>
+            <p> Para trabajar colaborativamente en el proyecto </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso al entorno “Detalles de Proyecto”</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Proyectos” </p>
+                <p> Cuando el jefe de equipo presione un proyecto existe </p>
+                <p> Entonces se redirige al usuario al entorno “Detalles de Proyecto” </p>
+            <h5>Escenario 2: Miembros disponibles para asignar a un proyecto</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Detalles de Proyecto” </p>
+                <p> Cuando el jefe de equipo presiona el botón "Asignar miembros" </p>
+                <p>Entonces se muestra la lista “Usuarios Disponibles”, indicando cada usuario que puede ser asignado al proyecto seleccionado</p>
+            <h5>Escenario 3: Asignación de miembros exitosa</h5>
+                <p> Dado que el jefe de equipo se encuentra en la lista “Usuarios Disponibles” </p>
+                <p> Cuando el jefe de equipo seleccione uno o más usuarios </p>
+                <p> Y dé clic en el botón “Agregar” </p>
+                <p> Entonces los miembros seleccionados se asignan al proyecto </p>
+                <p> Y se muestra un mensaje de confirmación, indicando que los usuarios fueron agregados al proyecto satisfactoriamente </p>
+            <h5>Escenario 4: Asignación de miembro recientemente eliminado</h5>
+                <p> Dado que el jefe de equipo se encuentra en la lista “Usuarios Disponibles” </p>
+                <p> Cuando el jefe de equipo seleccione uno o más usuarios que hayan sido eliminados mientras se estaban agregando al proyecto </p>
+                <p> Y dé clic en el botón “Agregar” </p>
+                <p> Entonces aparecerá un mensaje de error, indicando que los miembros no están disponibles </p>
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Crear Proyecto</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al jefe de equipo crear un proyecto </p>
+            <p> Para que pueda colaborar con sus amigos y compañeros </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Escenario 1: Crear Proyecto</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los detalles del proyecto (nombre, descripción, fecha de inicio, fecha de finalización) </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje “Proyecto Creado” es mostrado </p>
+                <p> Y el sistema crea un proyecto </p>
+            <h5>Escenario 2: Crear proyecto con datos incompletos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con solo algunos de los datos requeridos </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “Datos incompletos” es mostrado </p>
+            <h5>Escenario 3: Creación de proyecto con nombre duplicado</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles del proyecto </p>
+                <p> Y ya existe un proyecto con el mismo nombre </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “NOMBRE DUPLICADO” es mostrado </p>
+            <h5>Escenario 4: Creación de proyecto con nombre inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles del proyecto </p>
+                <p> Y el nombre es inválido </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “NOMBRE INVÁLIDO” es mostrado </p>
+            <h5>Escenario 5: Creación de un proyecto con duración indefinida</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles del proyecto excepto el de la duración </p>
+                <p> Entonces se recibe una respuesta con status 200 </p>
+                <p> Y el mensaje “Proyecto Creado con duración indefinida” es mostrado </p>
+                <p> Y el sistema crea un proyecto con duración indefinida </p>
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Agregar miembros al proyecto</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir a los usuarios agregar a otros usuarios a un proyecto </p>
+            <p> Para que los usuarios puedan expandir su equipo de trabajo </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualizar Miembros disponibles</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar botón "Asignar miembros" </p>
+                <p> Entonces se recibe una respuesta con estatus 200 </p>
+                <p> Y el mensaje “Usuarios disponibles” es mostrado </p>
+                <p> Y el sistema muestra a todos los usuarios disponibles para la asignación del proyecto </p>
+            <h5>Escenario 2: Asignación de miembros exitosa</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el mensaje “Usuarios Agregados” es mostrado </p>
+                <p> Y el sistema asigna al proyecto a los miembros seleccionados </p>
+            <h5>Escenario 3: Asignación de miembro recientemente eliminado </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Y ya existe cualquiera de los usuarios que se estaban agregando fueron eliminados </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
+        </td>
+        <td>5</td>
+    </tr>
+    <!--EPIC 6-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 6: CREACIÓN DE TAREAS LABORALES</h5>
+            <p>
+                Como jefe de equipo, quiero poder crear tareas para que mis miembros de equipo conozcan qué trabajo deben realizar
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Creación de un Proyecto Nuevo</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero poder crear tareas </p>
+            <p> Para asignar a los miembros de equipo el trabajo que debe completar cada uno </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Entrada al entorno “Crear tarea”</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Detalles de Proyecto” </p>
+                <p> Cuando el jefe de equipo dé clic en el botón "Crear tarea" </p>
+                <p> Entonces el sistema redirige al jefe de equipo al entorno “Crear Tarea” </p>
+            <h5>Escenario 2: Creación de tarea exitosa</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Tarea” </p>
+                <p> Cuando el jefe de equipo llene todos los campos obligatorios de la tarea  </p>
+                <p>Y hace clic en el botón de "Crear tarea"</p>
+                <p> Entonces se crea una nueva tarea con los detalles proporcionados </p>
+                <p> Y se muestra un mensaje de confirmación, indicando que la tarea fue creada satisfactoriamente </p>
+            <h5>Escenario 3: Creación de tarea con datos incompletos</h5>
+                <p> Dado que el jefe de equipo se ubica en el entorno “Crear Tarea” </p>
+                <p> Cuando el jefe de equipo intente crear una tarea sin llenar todos los campos obligatorios </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no puede crearse una tarea sin haber llenado todos los campos obligatorios </p>
+            <h5>Escenario 4: Creación de tarea con nombre duplicado</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Tarea” </p>
+                <p> Cuando el jefe de equipo intente crear una tarea con un nombre que ya existe en el proyecto </p>
+                <p> Entonces se muestra un mensaje de error, indicando que ya existe una tarea con ese nombre </p>
+            <h5>Escenario 5: Creación de tarea con un nombre inválido</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Crear Tarea” </p>
+                <p> Cuando el jefe de equipo intente crear una tarea con un nombre inválido </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no se puede crear una tarea con un nombre inválido </p>
+        </td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Asignación de Responsabilidades a una Tarea</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero poder asignar responsables a las tareas </p>
+            <p> Para definir el encargado de completar cada tarea del proyecto</p>
+        </td>
+        <td>
+            <h5>Escenario 1: Entrada al entorno “Tareas”</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Detalles de Proyecto” </p>
+                <p> Cuando el jefe de equipo seleccione el botón “Tareas” </p>
+                <p> Entonces se redirige al jefe de equipo al entorno “Tareas” </p>
+            <h5>Escenario 2: Entrada al entorno “Detalles de tarea”</h5>
+                <p> Dado que el jefe de equipo está en el entorno “Tareas” </p>
+                <p> Cuando el jefe de equipo seleccione la opción de "Editar" </p>
+                <p>Entonces se redirige al jefe de equipo al entorno “Detalles de tarea”</p>
+            <h5>Escenario 3: Asignación de Responsable</h5>
+                <p> Dado que el jefe de equipo se encuentra en el entorno “Detalles de tarea” </p>
+                <p> Cuando el jefe de equipo seleccione el botón “Responsable” </p>
+                <p> Entonces aparecerá la lista “Responsable”, indicando todos los usuarios disponibles </p>
+            <h5>Escenario 4: Confirmación de Responsable</h5>
+                <p> Dado que el jefe de equipo se encuentra en la lista “Responsable” </p>
+                <p> Cuando el jefe de equipo elija un usuario como “Responsable” </p>
+                <p> Y de clic en “Confirmar” </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que se ha asignado un responsable satisfactoriamente </p>
+        </td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Crear Tarea Laboral</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que los jefes de equipo puedan crear tareas </p>
+            <p> Para que los miembros de equipo puedan conocer qué parte del trabajo les toca </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Crear Tarea</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los detalles de la tarea (nombre, descripción, fecha límite) </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje “Tarea Creada” es mostrado </p>
+                <p> Y el sistema crea una tarea </p>
+            <h5>Escenario 2: Crear tarea con datos incompletos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con solo algunos de los datos requeridos </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “Datos incompletos” es mostrado </p>
+            <h5>Escenario 3: Creación de tarea con nombre duplicado</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles de la tarea </p>
+                <p> Y ya existe una tarea con el mismo nombre </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “NOMBRE DUPLICADO” es mostrado </p>
+            <h5>Escenario 4: Creación de tarea con nombre inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles de la tarea </p>
+                <p> Y el nombre es inválido </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “NOMBRE INVÁLIDO” es mostrado </p>
+        </td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Asignar Responsable a la tarea</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero el usuario pueda asignar responsables a cada una de las tareas de un proyecto </p>
+            <p> Para que puedan los usuarios conozcan qué le toca a cada uno </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualizar Miembros disponibles</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar botón "Asignar miembros" </p>
+                <p> Entonces se recibe una respuesta con estatus 200 </p>
+                <p> Y el mensaje “Usuarios disponibles” es mostrado </p>
+                <p> Y el sistema muestra a todos los usuarios disponibles para la asignación de la tarea</p>
+            <h5>Escenario 2: Asignación de miembros exitosa</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el mensaje “Usuarios Agregados” es mostrado </p>
+                <p> Y el sistema asigna a la tarea los miembros seleccionados </p>
+            <h5>Escenario 3: Asignación de miembro recientemente eliminado </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Y ya existe cualquiera de los usuarios que se estaban agregando fueron eliminados </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
+        </td>
+        <td>6</td>
+    </tr>
+    <!--EPIC 7-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 7: CREACIÓN DE TAREAS ACADÉMICAS</h5>
+            <p>
+                Como estudiante, quiero tener una forma de seguir las tareas que tengo pendiente para mejorar la forma en la que me ordeno para hacer las tareas diarias
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Creación de tarea estudiantil</th>
+        <td>
+            <p> Como usuario del segmento objetivo de estudiante </p>
+            <p> Quiero  poder crear una tarea en la aplicación </p>
+            <p> Para saber qué tareas tengo pendientes </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Entrada al entorno “Crear tarea”</h5>
+                <p> Dado que el estudiante se encuentra en la página del calendario </p>
+                <p> Cuando el estudiante seleccione un día dentro del calendario </p>
+                <p> Y presione la opción de "Crear tarea" </p>
+                <p> Entonces el sistema debe redirigirlo al entorno “Crear Tarea” </p>
+            <h5>Escenario 2: Creación de tarea exitosa</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Crear Tarea” </p>
+                <p> Cuando el estudiante complete todos los detalles de la tarea  </p>
+                <p>Y hace clic en el botón de "Crear tarea"</p>
+                <p> Entonces se crea una nueva tarea con los detalles proporcionados </p>
+                <p> Y se muestra un mensaje de confirmación, indicando que la tarea fue creada satisfactoriamente </p>
+            <h5>Escenario 3: Creación de tarea con datos incompletos</h5>
+                <p> Dado que el estudiante se ubica en el entorno “Crear Tarea” </p>
+                <p> Cuando el estudiante intente crear una tarea sin llenar todos los campos obligatorios </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no puede crearse una tarea sin haber llenado todos los campos obligatorios </p>
+            <h5>Escenario 4: Creación de tarea con nombre duplicado en un mismo día</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Crear Tarea” </p>
+                <p> Cuando el estudiante intente crear una tarea con un nombre que ya existe en el mismo día </p>
+                <p> Entonces se muestra un mensaje de error, indicando que ya existe una tarea con ese nombre para ese día</p>
+        </td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Actualización del progreso diario de tareas</th>
+        <td>
+            <p> Como usuario del segmento objetivo de estudiante </p>
+            <p> Quiero poder actualizar la cantidad diaria de tareas que voy completando </p>
+            <p> Para conocer mi progreso </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Actualización del estado de tarea exitosa</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Tareas del día” </p>
+                <p> Cuando el estudiante cambia el estado de la tarea de "Por completar" a "Completada" </p>
+                <p> Entonces se actualiza correctamente el estado de la tarea </p>
+            <h5>Escenario 2: Entrada al entorno “Aplazar Tarea”</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Tareas del día” </p>
+                <p> Cuando el estudiante seleccione una tarea </p>
+                <p> Y presione el botón “Aplazar para otro día” </p>
+                <p> Entonces se le redirige al entorno “Aplazar Tarea” </p>
+            <h5>Escenario 3: Aplazo de Tarea</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Aplazar Tarea” </p>
+                <p> Cuando el estudiante seleccione una fecha y hora válida en la que se aplazará la tarea </p>
+                <p> Entonces saldrá un mensaje de confirmación, indicando que se aplazó la tarea </p>
+            <h5>Escenario 4: Aplazo de Tarea a una fecha inválida</h5>
+                <p> Dado que el estudiante se encuentra en el entorno “Aplazar Tarea” </p>
+                <p> Cuando el estudiante seleccione una fecha y hora menor a la fecha actual para aplazar la tarea </p>
+                <p> Entonces saldrá un mensaje de error, indicando que no es posible cambiar a una fecha pasada </p>
+        </td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Crear Tarea Estudiantil</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que los estudiantes puedan crear tareas </p>
+            <p> Para que puedan conocer qué tareas deberían completar primero para que no se les acumule </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Crear Tarea</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con los detalles de la tarea (nombre, descripción, fecha límite) </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje “Tarea Creada” es mostrado </p>
+                <p> Y el sistema crea una tarea </p>
+            <h5>Escenario 2: Crear tarea con datos incompletos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con solo algunos de los datos requeridos </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “Datos incompletos” es mostrado </p>
+            <h5>Escenario 3: Creación de tarea con nombre duplicado en un mismo día</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con todos los detalles de la tarea </p>
+                <p> Y ya existe una tarea con el mismo nombre en el mismo día </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje “NOMBRE DUPLICADO” es mostrado </p>
+        </td>
+        <td>7</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Asignar Responsable a la tarea</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero el usuario pueda asignar responsables a cada una de las tareas de un proyecto </p>
+            <p> Para que puedan los usuarios conozcan qué le toca a cada uno </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualizar Miembros disponibles</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar botón "Asignar miembros" </p>
+                <p> Entonces se recibe una respuesta con estatus 200 </p>
+                <p> Y el mensaje “Usuarios disponibles” es mostrado </p>
+                <p> Y el sistema muestra a todos los usuarios disponibles para la asignación de la tarea</p>
+            <h5>Escenario 2: Asignación de miembros exitosa</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el mensaje “Usuarios Agregados” es mostrado </p>
+                <p> Y el sistema asigna a la tarea los miembros seleccionados </p>
+            <h5>Escenario 3: Asignación de miembro recientemente eliminado </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
+                <p> Y ya existe cualquiera de los usuarios que se estaban agregando fueron eliminados </p>
+                <p> Entonces se recibe una respuesta con status 400 </p>
+                <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
+        </td>
+        <td>7</td>
+    </tr>
+    <!--EPIC 8-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 8: GESTIÓN DE AVANCE DE PROYECTO</h5>
+            <p>
+                Como jefe de equipo, quiero poder gestionar todos los proyectos a mi cargo y supervisar el trabajo de los miembros para conocer su progreso
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Actualización del estado de las tareas</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero actualizar el estado de las tareas </p>
+            <p> Para reflejar su progreso </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Actualización del estado de tarea exitosa</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Detalles de tarea” </p>
+                <p> Cuando el usuario cambia el estado de la tarea de "En progreso" a "Completada" </p>
+                <p> Entonces muestra un mensaje, indicando el estado de la tarea se ha actualizado </p>
+            <h5>Escenario 2: Actualización del estado de tarea sin permisos</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Detalles de tarea” de una tarea asignada a otro usuario </p>
+                <p> Cuando el usuario intente cambiar el estado de la tarea  </p>
+                <p> Entonces se muestra un mensaje, indicando que el usuario no tiene permisos para actualizar el proceso de la tarea </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Gestión de Avance del Proyecto</th>
+        <td>
+            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Quiero visualizar el avance del proyecto </p>
+            <p> Para verificar que se está desarrollando los proyectos del trabajo a una velocidad adecuada </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualización del progreso del proyecto</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Detalles de Proyecto” </p>
+                <p> Cuando el usuario dé clic en el botón “Progreso” </p>
+                <p> Entonces se muestra el entorno “Progreso”, indicando las tareas pendientes y el porcentaje de avance general del proyecto </p>
+            <h5>Escenario 2: Actualización del progreso del proyecto</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Progreso” </p>
+                <p> Cuando el usuario realice cambios en el estado de las tareas del proyecto </p>
+                <p>Entonces el sistema actualiza el entorno “Progreso”, mostrando los nuevos cambios realizados</p>
+            <h5>Escenario 3: Notificaciones de progreso del proyecto</h5>
+                <p> Dado que el usuario se encuentra inscrito en un proyecto </p>
+                <p> Cuando otro usuario realice algún avance importante en el progreso del proyecto </p>
+                <p> Entonces el usuario recibe una notificación, indicando que se han realizado un avance importante en el progreso del proyecto </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Actualizar Estado de Tarea</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que los los miembros de equipo puedan actualizar el estado de desarrollo de una tarea </p>
+            <p> Para que puedan mostrarle el avance de sus partes al jefe de equipo </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Actualización de Tarea exitosa</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con los detalles de una tarea (nombre, descripción, fecha límite) </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje “Tarea Actualizada” es mostrado </p>
+                <p> Y el sistema actualiza la tarea seleccionada </p>
+            <h5>Escenario 2: Actualización de Tarea sin permisos</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada por un usuario sin permisos para la edición de una tarea </p>
+                <p> Entonces se recibe una respuesta con status 401 </p>
+                <p> Y el mensaje “No tiene permisos para actualizar la tarea” es mostrado </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Gestionar avance del proyecto</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que los usuarios del segmento objetivo de equipo de teletrabajo puedan visualizar y modificar el avance del proyecto </p>
+            <p> Para que puedan los usuarios conozcan cuánto se va avanzando del proyecto en cualquier momento </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualizar progreso del Proyecto</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar botón "Detalles de Proyecto" </p>
+                <p> Entonces se recibe una respuesta con estatus 200 </p>
+                <p> Y el sistema muestra a todos las tareas pendientes </p>
+                <p> Y el sistema también muestra el porcentaje de avance general del proyecto</p>
+            <h5>Escenario 2: Actualizar el progreso del proyecto</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al presionar al cambiar cualquiera de los elementos de un proyecto (marcar una tarea como completada, actualizar el porcentaje de avance) </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el sistema actualiza el entorno "Progreso", mostrando los nuevos cambios realizados </p>
+            <h5>Escenario 3: Notificaciones de progreso del proyecto </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada al cambiar cualquiera de los elementos de un proyecto (marcar una tarea como completada, actualizar el porcentaje de avance) </p>
+                <p> Entonces se recibe una respuesta con status 200 </p>
+                <p> Y el mensaje "Cambios realizado en el proyecto: {proyecto}" se muestra </p>
+                <p> Y el sistema envia una notificación al usuario, indicando que se han realizado un avance importante en el progreso del proyecto </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <!--EPIC 9-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 9: VISUALIZACIÓN DE TAREAS ACADÉMICAS EN EL CALENDARIO</h5>
+            <p>
+                Como usuario del segmento objetivo de estudiantes, quiero tener un calendario para tener un seguimiento de las tareas académicas pendientes
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Visualización de tareas en el calendario</th>
+        <td>
+            <p> Como usuario del segmento objetivo de estudiante </p>
+            <p> Quiero poder visualizar las tareas pendientes en el calendario </p>
+            <p> Para saber cuáles son las tareas más próximas que debo completar </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ver tareas programadas en el calendario</h5>
+                <p> Dado que el estudiante se ubica en el entorno “Calendario” </p>
+                <p> Cuando el estudiante seleccione el botón “Marcar Tareas” </p>
+                <p> Entonces los días marcados en el calendario con tareas pendientes cambiarán de color, indicando que esos días se presentan las tareas </p>
+            <h5>Escenario 2: No hay tareas programadas en el calendario</h5>
+                <p> Dado que el estudiante se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione el botón “Marcar Tareas” </p>
+                <p> Y no haya ninguna tarea en el calendario </p>
+                <p> Entonces aparecerá un mensaje, indicando que no hay tareas marcadas en el calendario </p>
+        </td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Visualizar tareas en el calendario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que los usuarios del segmento objetivo de estudiantes cuenten con una manera que puedan visualizar las tareas académicas que tengan pendientes en el calendario </p>
+            <p> Para que puedan conocer cuáles son las tareas más próximas que deben completar </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ver tareas programadas en el calendario</h5>
+                <p> Dado que ENDPOINT/ usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar el botón "Marcar Tareas" </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p> 
+                <p> Y el sistema marca con un color diferente todos los días que tengan al menos una tarea pendiente </p>
+            <h5>Escenario 2: No hay tareas programadas en el calendario</h5>
+                <p> Dado que ENDPOINT/ usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada al presionar el botón "Marcar Tareas" </p>
+                <p> Y el sistema no detecte ninguna tarea pendiente </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p> 
+                <p> Y el mensaje "No hay tareas pendientes" es mostrado </p>
+        </td>
+        <td>9</td>
+    </tr>
+    <!--EPIC 10-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 10: EVENTOS DE CALENDARIO</h5>
+            <p>
+                Como usuario, quiero tener un calendario para tener un seguimiento de los eventos  pendientes
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Creación de eventos de calendario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p>Quiero poder crear eventos en el calendario </p>
+            <p> Para programar reuniones y otros eventos relevantes para seguir correctamente el proyecto </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingresar al entorno “Crear Evento”</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione el botón “Crear Evento” </p>
+                <p> Entonces se redirige al usuario al entorno “Crear Evento” </p>
+            <h5>Escenario 2: Creación exitosa de evento en el calendario</h5>
+                <p> Dado que el usuario se ubica en el entorno “Crear Evento” </p>
+                <p> Cuando el usuario ingrese los campos obligatorios </p>
+                <p> Entonces se visualizará en el calendario el evento creado </p>
+            <h5>Escenario 3: Creación de evento de calendario con título inválido</h5>
+                <p> Dado que el usuario se ubica en el entorno "Crear evento" </p>
+                <p> Cuando el usuario ingrese los campos obligatorios </p>
+                <p> Y el título contenga una palabra inválida </p>
+                <p> Entonces aparecerá un mensaje de error, indicando que el título es inválido </p>
+            <h5> Escenario 4: Creación de evento de calendario con fecha inválida </h5>
+                <p> Dado que el usuario se ubica en el entorno "Crear evento" </p>
+                <p> Cuando el usuario ingrese los campos obligatorios </p>
+                <p> Y la fecha de cierre sea menor a la actual </p>
+                <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Edición de eventos de calendario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p>Quiero poder editar eventos ya creados en el calendario </p>
+            <p> Para que los eventos estén siempre con la información actual </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingresar al entorno “Editar Evento”</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario dé clic en el botón “Editar Evento” </p>
+                <p> Entonces se redirige al usuario al entorno “Editar Evento” </p>
+            <h5>Escenario 2: Editar un evento existente en el calendario</h5>
+                <p> Dado que el usuario se ubica en el entorno “Editar Evento” </p>
+                <p> Cuando el usuario seleccione un evento existente en el calendario </p>
+                <p> Y el usuario cambie cualquiera de los campos obligatorios </p>
+                <p> Y de clic en "Guardar cambios" </p>
+                <p> Entonces los detalles del evento modificado se visualizarán en el calendario </p>
+            <h5>Escenario 3: Edición de evento de calendario a un título inválido</h5>
+                <p> Dado que el usuario se ubica en el entorno "Editar evento" </p>
+                <p> Cuando el usuario modifique alguno de los campos obligatorios </p>
+                <p> Y el título contenga una palabra inválida </p>
+                <p> Entonces aparecerá un mensaje de error, indicando que el título es inválido </p>
+            <h5> Escenario 4: Edición de evento de calendario con fecha inválida </h5>
+                <p> Dado que el usuario se ubica en el entorno "Editar evento" </p>
+                <p> Cuando el usuario modifique alguno de los campos obligatorios </p>
+                <p> Y la fecha de cierre sea menor a la actual </p>
+                <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>US03</th>
+        <th>Eliminación de eventos de calendario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivo </p>
+            <p>Quiero poder eliminar eventos de calendario </p>
+            <p> Para que ya no se visualize un evento en el calendario si es que fue cancelado </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingresar al entorno “Editar Evento”</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione un evento existente en el calendario</p>
+                <p> Y el usuario haga clic en “Eliminar Evento” </p>
+                <p> Entonces el evento ya no se mostrará en el calendario </p>
+            <h5>Escenario 2: Eliminar un evento en progreso</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione un evento existente en el calendario que esté en progreso </p>
+                <p> Y el usuario haga clic en “Eliminar Evento” </p>
+                <p> Entonces el evento ya no se mostrará en el calendario </p>
+                <p> Y a toda persona que estaba participando en el evento le aparecerá un mensaje, indicando que el evento terminó antes </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Crear evento de calendario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario crear un evento en el calendario </p>
+            <p> Para que otros usuarios puedan visualizar los días donde se tiene un evento importante </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Crear un nuevo evento en el calendario</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje con el valor de “Evento Creado” es mostrado </p>
+                <p> Y el sistema creará un evento en el calendario en la fecha indicada </p>
+                <p> Y el sistema permitirá visualizar en el calendario el evento creado </p>
+            <h5>Escenario 2: Crear un nuevo evento en el calendario con título inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Y el título contenga una palabra inválida </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje con el valor de “Título inválido” es mostrado </p>
+            <h5>Escenario 3: Crear un nuevo evento en el calendario con una fecha inválida</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Y la fecha de cierre es menor a la actual </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Editar evento de calendario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario editar un evento en el calendario </p>
+            <p> Para que otros usuarios puedan visualizar la información más actualizada del evento de calendario </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Editar un evento de calendario</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “Evento Modificado” es mostrado </p>
+                <p> Y el sistema cambiará el evento el inicio y fin del evento a la fecha indicada </p>
+            <h5>Escenario 2: Editar un nuevo evento en el calendario con título inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Y el título contenga una palabra inválida </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje con el valor de “Título inválido” es mostrado </p>
+            <h5>Escenario 3: Editar un nuevo evento en el calendario con una fecha inválida</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con la información de los campos de fecha, hora, título y descripción </p>
+                <p> Y la fecha de cierre es menor a la actual </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <th>TS03</th>
+        <th>Eliminar evento de calendario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario eliminar un evento en el calendario </p>
+            <p> Para que los otros usuarios ya no puedan visualizar el evento de calendario cuando este se cancele </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Eliminar un evento del calendario</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE se enviada al dar clic en “ELIMINAR EVENTO” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “EVENTO ELIMINADO” es mostrado </p>
+                <p> Y el sistema elimina el evento seleccionado </p>
+                <p> Y el sistema ya no muestra el evento borrado en el calendario </p>
+            <h5>Escenario 2: Eliminar un evento del calendario en progreso</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE se enviada al dar clic en “ELIMINAR EVENTO” </p>
+                <p> Y el evento seleccionado estaba en progreso </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “EVENTO TERMINADO Y BORRADO ANTES DE TIEMPO” es mostrado </p>
+                <p> Y el sistema elimina el evento seleccionado </p>
+                <p> Y el sistema ya no muestra el evento borrado en el calendario </p>
+        </td>
+        <td>10</td>
+    </tr>
+    <!--EPIC 11-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 11: RECORDATORIOS DE CALENDARIO</h5>
+            <p>
+                Como usuario, quiero tener un calendario para tener un seguimiento de los eventos y tareas pendientes
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Recordatorios de Eventos de Calendario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero recibir recordatorios de eventos de calendario </p>
+            <p> Para no olvidarme cuándo ocurren </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingresar al entorno “Recordatorio”</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario haga clic en “Recordatorio”</p>
+                <p> Entonces se le redirige al usuario al entorno “Recordatorio”</p>
+            <h5>Escenario 2: Configurar un recordatorio para un evento</h5>
+                <p> Dado que el usuario se ubica en el entorno “Recordatorio” </p>
+                <p> Cuando el usuario establezca un recordatorio con un intervalo de tiempo antes del evento </p>
+                <p> Entonces el usuario recibirá una notificación o recordatorio en el momento especificado </p>
+            <h5>Escenario 3: Desactivar o eliminar un recordatorio para un evento</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione un recordatorio </p>
+                <p> Y el usuario haga clic en “Eliminar” </p>
+                <p> Entonces el usuario no recibirá ninguna notificación o recordatorio para ese evento </p>
+        </td>
+        <td>11</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Crear Recordatorio de Evento de Calendario</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el usuario cuente con un sistema de eventos de calendario </p>
+            <p> Para que no se olvide de los eventos que están por ocurrir </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Crear un recordatorio para un evento</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información del campo “Intervalo”, que puede ser 30 minutos, 1 hora, 12 horas, 24 horas, al presionar el botón “Crear” </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje con el valor de “Recordatorio creado” es mostrado </p>
+                <p> Y el sistema crea el recordatorio </p>
+            <h5>Escenario 2: Eliminar un recordatorio para un evento</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “Borrar recordatorio” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “RECORDATORIO BORRADO” es mostrado </p>
+                <p> Y el sistema borra el recordatorio </p>
+        </td>
+        <td>11</td>
+    </tr>
+    <!--EPIC 12-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 12: SISTEMA DE ETIQUETADO</h5>
+            <p>
+                Como miembro del equipo, quiero tener un buscador con filtros para separar las tareas de los diferentes proyectos
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Etiquetado de tareas y proyectos</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder etiquetar tareas y proyectos con etiquetas descriptivas </p>
+            <p> Para una mejor organización y búsqueda </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Etiquetar una tarea con una etiqueta descriptiva</h5>
+                <p> Dado que el usuario está ubicado en “Detalles de tarea” </p>
+                <p> Cuando el usuario seleccione el botón “Etiquetar”</p>
+                <p> Y el usuario escriba una etiqueta descriptiva </p>
+                <p> Entonces el usuario puede visualizar la etiqueta asociada a la tarea </p>
+            <h5>Escenario 2: Etiquetar un proyecto con una etiqueta descriptiva</h5>
+                <p> Dado que el usuario está ubicado en “Detalles de proyecto” </p>
+                <p> Cuando el usuario seleccione el botón “Etiquetar” </p>
+                <p> Y el usuario elija una etiqueta descriptiva </p>
+                <p> Entonces el usuario ver la etiqueta asociada al proyecto </p>
+        </td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Filtrado por Etiquetas</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder filtrar tareas y proyectos basándome en etiquetas </p>
+            <p> Para acceder rápidamente a los elementos relacionados </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Filtrar tareas por una etiqueta específica</h5>
+                <p> Dado que el usuario está ubicado en “Detalles de tarea” </p>
+                <p> Cuando el usuario seleccione una etiqueta específica para filtrar las tareas</p>
+                <p> Entonces se muestran solo las tareas que están etiquetadas con la etiqueta seleccionada </p>
+            <h5>Escenario 2: Filtrar proyectos por una etiqueta específica</h5>
+                <p> Dado que el usuario está ubicado en “Detalles de proyecto” </p>
+                <p> Cuando el usuario seleccione una etiqueta específica para filtrar los proyectos </p>
+                <p> Entonces se muestran solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
+        </td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Etiquetar tareas y proyectos</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el usuario pueda etiquetar tareas y proyectos </p>
+            <p> Para que pueda diferenciar la importancia de ellos </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Etiquetar una tarea con una etiqueta descriptiva</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información del campo “Etiqueta”, que puede tener la información de nuevo, próximo, pendiente, destacado, al presionar el botón “Etiquetar” </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje con el valor de “Etiqueta de tarea creada” </p>
+                <p> Y el sistema crea una etiqueta con la información dada </p>
+            <h5>Escenario 2: Etiquetar un proyecto con una etiqueta descriptiva</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información del campo “Etiqueta”, que puede tener la información de nuevo, próximo, pendiente, destacado, al presionar el botón “Etiquetar” </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje con el valor de “Etiqueta de proyecto creada” </p>
+                <p> Y el sistema crea una etiqueta con la información dada </p>
+        </td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Filtrar por Etiqueta</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el usuario pueda filtrar por etiquetas las tareas y proyectos </p>
+            <p> Para que se le facilite conocer qué tareas son las más importantes </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Filtrar tareas por una etiqueta específica</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada con la información del campo “Filtrar por Etiqueta” al presionar el botón “Filtrar” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “Mostrando solo las tareas que coinciden” es mostrado </p>
+                <p> Y el sistema muestra solo las tareas que están etiquetadas con la etiqueta seleccionada </p>
+            <h5>Escenario 2: Filtrar proyectos por una etiqueta específica</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud GET sea enviada con la información del campo “Filtrar por Etiqueta” al presionar el botón “Filtrar” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el mensaje con el valor de “Mostrando solo las tareas que coinciden” es mostrado </p>
+                <p> Y el sistema muestra solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
+        </td>
+        <td>12</td>
+    </tr>
+    <!--EPIC 13-->
+    <tr>
+        <td colspan="5">
+            <h5 style="text-align: center">EPIC 13: CONFIGURACIÓN PERSONAL</h5>
+            <p>
+                Como usuario registrado, poder configurar mis datos personales para que se adecuen a la información real
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US01</th>
+        <th>Ajuste de Datos Personales</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder ajustar mis datos personales </p>
+            <p> Para asegurarme que estén actualizados </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Entrar en el entorno “Datos Personales”</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Configuración” </p>
+                <p> Cuando el usuario de clic en el botón "Datos Personales” </p>
+                <p> Entonces se redirige al usuario al entorno “Datos Personales” </p>
+            <h5>Escenario 2: Configuración de Datos Personales exitosa</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Datos Personales” </p>
+                <p> Cuando el usuario cambie cualquiera de los campos de los datos personales </p>
+                <p> Y hace clic en “Guardar Cambios” </p>
+                <p> Entonces aparecerá un mensaje de confirmación, indicando que se ha guardado correctamente los cambios </p>
+            <h5>Escenario 3: Cambio a un nombre de usuario prohibido</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Datos Personales” </p>
+                <p> Cuando el usuario intente cambiar su nombre de usuario a un nombre de usuario prohibido </p>
+                <p> Entonces se muestra un mensaje de error, indicando que el nombre de usuario no está disponible </p>
+            <h5>Escenario 4: Cambio a una edad inválida</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Datos Personales” </p>
+                <p> Cuando el usuario intente cambiar su edad a una edad menor a 0 o mayor a 130 </p>
+                <p> Entonces se muestra un mensaje de error, indicando que la edad es inválida </p>
+            <h5>Escenario 5: Guardar cambios</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Datos Personales” </p>
+                <p> Cuando el usuario seleccione el botón “Guardar Cambios” </p>
+                <p> Entonces aparecerá un mensaje, indicando que se han guardado los cambios realizados </p>
+            <h5>Escenario 6: Salir sin guardar cambios</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Datos Personales” </p>
+                <p> Y ha realizado algún cambio en alguna de las funciones </p>
+                <p> Cuando el usuario intente salir del entorno “Datos personales” </p>
+                <p> Entonces aparecerá un mensaje, indicando si quiere guardar o no los cambios</p>
+        </td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <th>US02</th>
+        <th>Cambio de Contraseña</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder cambiar mi contraseña </p>
+            <p> Para mantener mi cuenta segura </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Entrar en el entorno “Contraseña”</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Configuración” </p>
+                <p> Cuando el usuario seleccione el botón "Contraseña”</p>
+                <p> Entonces se redirige al usuario al entorno “Contraseña” </p>
+            <h5>Escenario 2: Ingreso al entorno “Cambiar Contraseña”</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Contraseña” </p>
+                <p> Cuando el usuario complete el campo mostrado con la contraseña actual </p>
+                <p> Entonces se redirige al usuario al entorno “Cambiar contraseña” </p>
+            <h5>Escenario 3: Contraseña incorrecta</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Contraseña” </p>
+                <p> Cuando el usuario complete el campo mostrado con una contraseña diferente a la actual </p>
+                <p> Entonces se muestra un mensaje de error, indicando que la contraseña escrita no coincide con la contraseña actual </p>
+            <h5>Escenario 4: Cambio de contraseña exitoso</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Cambiar contraseña” </p>
+                <p> Cuando el usuario ingrese la nueva contraseña </p>
+                <p> Y da clic en “Cambiar” </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que se cambió la contraseña </p>
+        </td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <th>TS01</th>
+        <th>Ajustar Datos Personales</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el usuario pueda editar sus datos personales  </p>
+            <p> Para que pueda cambiar la información de su perfil en cualquier momento </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Configuración de Datos Personales exitosa</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información del campo los campos "Nombre", "Edad" y "Sexo", al presionar el botón “Guardar” </p>
+                <p> Entonces se recibe una respuesta con el status 201 </p>
+                <p> Y el mensaje con el valor de “Datos guardados” es mostrado </p>
+                <p> Y el sistema guarda la información cambiada </p>
+            <h5>Escenario 2: Cambio de información inválida</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con la información del campo los campos "Nombre", "Edad" y "Sexo", al presionar el botón “Guardar” </p>
+                <p> Y alguno de los campos presente información inválida (edad < 0, edad > 130, nombre inválido) </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje con el valor de “Datos inválidos” es mostrado </p>
+        </td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <th>TS02</th>
+        <th>Cambiar contraseña</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario cambiar su contraseña actual mediante un entorno aislado del resto de los entornos </p>
+            <p> Para mantener el cambio de contraseña como un método aislado del resto que no pueda afectar ninguna de las otras funcionalidades de la aplicación </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Contraseña actual incorrecta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con los datos del campo “Contraseña Actual” al presionar el botón “Comprobar” </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y el mensaje “La contraseña escrita no coincide con la actual” es mostrado </p>
+                <p> Y el sistema muestra solo las tareas que están etiquetadas con la etiqueta seleccionada </p>
+            <h5>Escenario 2: Cambio de contraseña exitoso</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud PUT sea enviada con los datos de los campos “Nueva Contraseña” y “Confirmar Contraseña” al presionar el botón “Cambiar” </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el mensaje “La contraseña ha sido cambiada” es mostrado </p>
+                <p> Y el sistema cambia la contraseña actual por la proporcionada </p>
+        </td>
+        <td>13</td>
+    </tr>
+</table>
+
+### 2.4.3 Impact Mapping
+Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
+
+1. Líder de equipo de teletrabajo
+<img src="images/impact-mapping-renzo.jpg" alt="Impact Mapping: Renzo">
+
+2. Miembro de equipo de teletrabajo
+<img src="images/impact-mapping-cielo.jpg" alt="Impact Mapping: Cielo">
+
+### 2.4.4 Product Backlog
+Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
+
