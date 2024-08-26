@@ -2505,6 +2505,250 @@ Impact Mapping es un método colaborativo para planificar y facilitar el desarro
 
 ### 2.4.4 Product Backlog
 Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
+Imagen del product backlog desarrollado en Trello:
 
 <img src="images/product-backlog.jpg" alt="product backlog">
 
+<table>
+    <tr>
+        <th>Orden</th>
+        <th> User Story ID </th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Story Points</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>EP3 / US1 </td>
+        <td> Creación de un Proyecto Nuevo </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero poder crear un nuevo proyecto en la aplicación para administrar y gestionar mis labores
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>EP4 / US1 </td>
+        <td> Creación de tarea laboral </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero poder crear tareas para asignar a los miembros de equipo el trabajo que debe completar cada uno
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>EP3 / US2 </td>
+        <td> Asignación de un Miembro a un Proyecto </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero poder asignar miembros a un proyecto para trabajar colaborativamente en el proyecto
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>EP4 / US2 </td>
+        <td> Asignación de Responsabilidades a una tarea </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero poder asignar responsables a las tareas para definir el encargado de completar cada tarea del proyecto
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>EP5 / US1 </td>
+        <td> Actualización del estado de las tareas </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero actualizar el estado de las tareas para reflejar su progreso
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>EP5 / US2 </td>
+        <td> Gestión de Avance del Proyecto </td>
+        <td>
+            Como usuario del segmento objetivo de equipos de trabajo quiero visualizar el avance del proyecto para verificar que se está desarrollando los proyectos del trabajo a una velocidad adecuada
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>EP6 / US1 </td>
+        <td> Creación de eventos de calendario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder crear eventos en el calendario para programar reuniones y otros eventos relevantes para seguir correctamente el proyecto
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>EP7 / US1 </td>
+        <td> Etiquetado de tareas y proyectos </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder etiquetar tareas y proyectos con etiquetas descriptivas para una mejor organización y búsqueda
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>EP6 / US2 </td>
+        <td> Edición de eventos de calendario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder editar eventos ya creados en el calendario para que los eventos estén siempre con la información actual
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>EP6 / US3 </td>
+        <td> Eliminación de eventos de calendario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivo quiero poder eliminar eventos de calendario para que ya no se visualize un evento en el calendario si es que fue cancelado
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>EP6 / US4 </td>
+        <td> Recordatorios de Eventos de Calendario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivo quiero recibir recordatorios de eventos de calendario para no olvidarme cuándo ocurren
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>EP7 / US2 </td>
+        <td> Filtrado por Etiquetas </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivo quiero poder etiquetar tareas y proyectos con etiquetas descriptivas para una mejor organización y búsqueda
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>EP2 / US1 </td>
+        <td> Registro de usuario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivo quiero poder registrarme en la aplicación para acceder a todas sus funcionalidades
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>EP2 / US2 </td>
+        <td> Acceso de usuario </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos sin una cuenta en el sistema quiero poder iniciar sesión en la aplicación utilizando mi dirección de correo electrónico y contraseña para acceder a mi cuenta y utilizar todas las funcionalidades de la aplicación
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>EP8 / US1 </td>
+        <td> Ajuste de Datos Personales </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder ajustar mis datos personales para asegurarme que estén actualizados
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>EP8 / US2 </td>
+        <td> Cambio de Contraseña </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder cambiar mi contraseña para mantener mi cuenta segura
+        </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>EP8 / US3 </td>
+        <td> Recuperación de Contraseña </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla para así poder acceder nuevamente a mi cuenta
+        </td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>EP8 / US4 </td>
+        <td> Eliminación de cuenta </td>
+        <td>
+            Como usuario de cualquiera de los segmentos objetivos quiero poder eliminar mi cuenta para asegurarme que ningún tipo de información personal se quede en la aplicación cuando desee dejar de utilizarla
+        </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>EP1 / US1 </td>
+        <td> Implementación de Barra de navegación </td>
+        <td>
+            Como visitante quiero tener la opción de atravesar todas las secciones de la landing page a través de una barra de navegación para facilitar el acceso a la información
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>EP1 / US2 </td>
+        <td> Implementación de Barra de navegación </td>
+        <td>
+            Como visitante quiero visualizar el logo y descripción de la empresa para verificar que estoy en la landing page oficial de la empresa
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>EP1 / US3 </td>
+        <td> Detalles y Servicios de la empresa </td>
+        <td>
+            Como visitante quiero visualizar los detalles y servicios de la empresa para conocer de qué manera se puede utilizar la aplicación
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>EP1 / US4 </td>
+        <td> Clientes de la empresa </td>
+        <td>
+            Como visitante quiero visualizar las experiencias de clientes previos de la empresa para es que la vida de los usuarios cambió al utilizar la aplicación
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>EP1 / US5 </td>
+        <td> Acerca de nosotros </td>
+        <td>
+            Como visitante quiero visualizar la misión y visión de la empresa para conocer qué planes tienen a futuro
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>EP1 / US6 </td>
+        <td> Implementación de un Footer </td>
+        <td>
+            Como visitante quiero visualizar un Footer al final de la página para ver las redes sociales asociadas a la empresa
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>EP1 / US8 </td>
+        <td> Translación a la aplicación móvil </td>
+        <td>
+            Como visitante quiero contar con un botón que me redirija a la aplicación móvil para tener un acceso directo y rápido a ella
+        </td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>EP1 / US7 </td>
+        <td> Cambio de temática de colores de la página </td>
+        <td>
+            Como visitante quiero contar con un botón que me permita cambiar la temática de colores de la landing page para que se adecúe más a mis preferencias
+        </td>
+        <td>2</td>
+    </tr>
+</table>
