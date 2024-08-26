@@ -1327,6 +1327,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario de click en algún espacio fuera de la ventana "Theme" </p>
                 <p> Entonces la ventana desaparecerá lentamente </p>
         </td>
+        <td>1</td>
     </tr>
     <tr>
         <th>US08</th>
