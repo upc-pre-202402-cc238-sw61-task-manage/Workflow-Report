@@ -1529,146 +1529,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
     <!--EPIC 3-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 3: RECUPERACIÓN DE CONTRASEÑA</h5>
-            <p>
-                Como usuario, quiero poder recuperar mi contraseña para poder volver a ingresar a la aplicación si es que me olvido de ella
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th>US01</th>
-        <th>Recuperación de Contraseña</th>
-        <td>
-            <p> Como usuario de cualquiera de los segmentos objetivos </p>
-            <p> Quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla </p>
-            <p> Para así poder acceder nuevamente a mi cuenta </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Ingreso al entorno “Recuperar Contraseña”</h5>
-                <p> Dado que el usuario se encuentra en la página “Inicio sesión” </p>
-                <p> Cuando el usuario dé clic en "Olvidé mi contraseña" </p>
-                <p> Entonces se redirige al usuario al entorno “Recuperar Contraseña” </p>
-            <h5>Escenario 2: Recuperación con dirección de correo electrónico válido</h5>
-                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
-                <p> Cuando el usuario escriba una dirección de correo electrónico registrada en el sistema </p>
-                <p> Entonces se muestra el entorno “Nueva Contraseña” </p>
-            <h5>Escenario 3: Recuperación con dirección de correo electrónico inválido</h5>
-                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
-                <p> Cuando el usuario proporcione una dirección de correo electrónico que no se encuentra actualmente registrada en el sistema </p>
-                <p> Entonces se muestra un mensaje de error, indicando que la dirección de correo electrónico no está registrada en el sistema </p>
-            <h5>Escenario 4: Restablecimiento de contraseña exitoso</h5>
-                <p> Dado que el usuario se encuentra en la página “Nueva Contraseña” </p>
-                <p> Cuando el usuario ingresa una nueva contraseña </p>
-                <p> Entonces se muestra un mensaje de confirmación, indicando que la contraseña se ha restablecido correctamente </p>
-                <p> Y se redirige al usuario a la página “Inicio Sesión”</p>
-            <h5>Escenario 5: Restablecimiento de contraseña con la misma contraseña que la original</h5>
-                <p> Dado que el usuario se encuentra en la página “Recuperar Contraseña” </p>
-                <p> Cuando el usuario ingresa una contraseña igual a la que actualmente está utilizando </p>
-                <p> Entonces se muestra un mensaje de error, indicando que no puede cambiarse a la misma contraseña que está actualmente en uso </p>
-        </td>
-        <td>3</td>
-    </tr>
-    <tr>
-        <th>TS01</th>
-        <th>Recuperar Contraseña</th>
-        <td>
-            <p> Como desarrollador </p>
-            <p> Quiero que el sistema permita a los usuarios recuperar su contraseña </p>
-            <p> Para permitir que los usuarios tengan un método para acceder de nuevo a la aplicación si es que se han olvidado de su contraseña </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Recuperación con dirección de correo electrónico válido</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
-                <p> Y la dirección de correo electrónico ingresada esté registrada en el sistema </p>
-                <p> Entonces se recibe una respuesta con el status 202 </p>
-                <p> Y el sistema permite el acceso al usuario al entorno “Nueva Contraseña” </p>
-            <h5>Escenario 2: Recuperación con dirección de correo electrónico inválido</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
-                <p> Y la dirección de correo electrónico ingresada no se encuentre registrada en el sistema </p>
-                <p> Entonces se recibe una respuesta con el status 401 </p>
-                <p> Y un mensaje con el valor “El correo electrónico es incorrecto” es mostrado </p>
-            <h5>Escenario 3: Restablecimiento de contraseña exitoso </h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con el dato de una nueva contraseña </p>
-                <p> Entonces se recibe una respuesta con el status 202</p>
-                <p> Y el sistema redirige al usuario a la página principal </p>
-            <h5>Escenario 4: Restablecimiento de contraseña con la misma contraseña que la original</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con el dato de una contraseña</p>
-                <p> Y la contraseña sea la misma que la contraseña actual </p>
-                <p> Entonces se recibe una respuesta con el status 406 </p>
-                <p> Y un mensaje con el valor “La nueva contraseña coincide con la actual” es mostrado </p>
-            <h5>Escenario 5: Restablecimiento de contraseña sin proporcionar una contraseña</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada sin datos</p>
-                <p> Entonces se recibe una respuesta con el status 400 </p>
-                <p> Y un mensaje con el valor “Contraseña no proporcionada” es mostrado </p>
-        </td>
-        <td>3</td>
-    </tr>
-    <!--EPIC 4-->
-    <tr>
-        <td colspan="5">
-            <h5 style="text-align: center">EPIC 4: ELIMINACIÓN DE CUENTAS DE USUARIO</h5>
-            <p>
-                Como usuario, quiero poder eliminar mi cuenta para dejar de utilizar la aplicación de manera definitiva
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th>US01</th>
-        <th>Eliminación de cuenta</th>
-        <td>
-            <p> Como usuario de cualquiera de los segmentos objetivos </p>
-            <p> Quiero poder eliminar mi cuenta </p>
-            <p> Para asegurarme que ningún tipo de información personal se quede en la aplicación cuando desee dejar de utilizarla </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Ingreso al entorno “Eliminar Cuenta”</h5>
-                <p> Dado que el usuario se encuentra en la página de “Configuración” </p>
-                <p> Cuando el usuario dé clic en “Eliminar Cuenta” </p>
-                <p> Entonces se redirige al usuario al entorno “Eliminar Cuenta” </p>
-            <h5>Escenario 2: Eliminación de Cuenta</h5>
-                <p> Dado que el usuario se encuentra en el entorno “Eliminar Cuenta” </p>
-                <p> Cuando el usuario seleccione el botón “Eliminar Cuenta” </p>
-                <p> Entonces se muestra la ventana “Eliminación Definitiva de Cuenta”, indicando que la acción no podrá ser deshecha </p>
-            <h5>Escenario 3: Confirmación de Eliminación de Cuenta</h5>
-                <p> Dado que el usuario se encuentra en la ventana “Eliminación Definitiva de Cuenta” </p>
-                <p> Cuando el usuario seleccione el botón “Eliminar Definitivamente” </p>
-                <p> Entonces se muestra un mensaje de confirmación, indicando que la cuenta ha sido eliminada </p>
-                <p> Y se redirige al usuario a la Página Principal </p>
-        </td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <th>TS01</th>
-        <th>Eliminar Cuenta</th>
-        <td>
-            <p> Como desarrollador </p>
-            <p> Quiero permitir al usuario eliminar su cuenta definitivamente mediante un solo entorno </p>
-            <p> Para que sea sencillo administrar la eliminación de las cuentas </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Eliminación de Cuenta</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
-                <p> Entonces se recibe una respuesta con el status 200 </p>
-                <p> Y el sistema redirige al usuario a la Página Principal </p>
-            <h5>Escenario 2: Error al eliminar la cuenta</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
-                <p> Y algún problema con el servidor ocurra </p>
-                <p> Entonces se recibe una respuesta con el status 400 </p>
-                <p> Y un mensaje con el valor de "Error al eliminar la cuenta" aparece </p>
-        </td>
-        <td>4</td>
-    </tr>
-    <!--EPIC 5-->
-    <tr>
-        <td colspan="5">
-            <h5 style="text-align: center">EPIC 5: CREACIÓN DE PROYECTOS</h5>
+            <h5 style="text-align: center">EPIC 3: CREACIÓN DE PROYECTOS</h5>
             <p>
                 Como jefe de equipo, quiero poder crear un proyecto bajo mi mando y para poder encargar a los miembros de equipo sus respectivos trabajos
             </p>
@@ -1710,7 +1571,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el jefe de equipo intente crear un nuevo proyecto sin fecha de inicio ni fecha de límite </p>
                 <p> Entonces se creará un nuevo proyecto, indicando en la descripción que tiene “Duración Indefinida” </p>
         </td>
-        <td>5</td>
+        <td>3</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -1741,7 +1602,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y dé clic en el botón “Agregar” </p>
                 <p> Entonces aparecerá un mensaje de error, indicando que los miembros no están disponibles </p>
         </td>
-        <td>5</td>
+        <td>3</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -1782,7 +1643,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje “Proyecto Creado con duración indefinida” es mostrado </p>
                 <p> Y el sistema crea un proyecto con duración indefinida </p>
         </td>
-        <td>5</td>
+        <td>3</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -1812,12 +1673,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con status 400 </p>
                 <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
         </td>
-        <td>5</td>
+        <td>3</td>
     </tr>
-    <!--EPIC 6-->
+    <!--EPIC 4-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 6: CREACIÓN DE TAREAS LABORALES</h5>
+            <h5 style="text-align: center">EPIC 4: CREACIÓN DE TAREAS LABORALES</h5>
             <p>
                 Como jefe de equipo, quiero poder crear tareas para que mis miembros de equipo conozcan qué trabajo deben realizar
             </p>
@@ -1855,7 +1716,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el jefe de equipo intente crear una tarea con un nombre inválido </p>
                 <p> Entonces se muestra un mensaje de error, indicando que no se puede crear una tarea con un nombre inválido </p>
         </td>
-        <td>6</td>
+        <td>4</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -1884,7 +1745,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y de clic en “Confirmar” </p>
                 <p> Entonces se muestra un mensaje de confirmación, indicando que se ha asignado un responsable satisfactoriamente </p>
         </td>
-        <td>6</td>
+        <td>4</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -1919,7 +1780,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con status 400 </p>
                 <p> Y el mensaje “NOMBRE INVÁLIDO” es mostrado </p>
         </td>
-        <td>6</td>
+        <td>4</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -1949,12 +1810,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con status 400 </p>
                 <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
         </td>
-        <td>6</td>
+        <td>4</td>
     </tr>
-    <!--EPIC 7-->
+    <!--EPIC 5-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 7: GESTIÓN DE AVANCE DE PROYECTO</h5>
+            <h5 style="text-align: center">EPIC 5: GESTIÓN DE AVANCE DE PROYECTO</h5>
             <p>
                 Como jefe de equipo, quiero poder gestionar todos los proyectos a mi cargo y supervisar el trabajo de los miembros para conocer su progreso
             </p>
@@ -1978,7 +1839,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario intente cambiar el estado de la tarea  </p>
                 <p> Entonces se muestra un mensaje, indicando que el usuario no tiene permisos para actualizar el proceso de la tarea </p>
         </td>
-        <td>7</td>
+        <td>5</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2002,7 +1863,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando otro usuario realice algún avance importante en el progreso del proyecto </p>
                 <p> Entonces el usuario recibe una notificación, indicando que se han realizado un avance importante en el progreso del proyecto </p>
         </td>
-        <td>7</td>
+        <td>5</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2025,7 +1886,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con status 401 </p>
                 <p> Y el mensaje “No tiene permisos para actualizar la tarea” es mostrado </p>
         </td>
-        <td>7</td>
+        <td>5</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2054,12 +1915,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje "Cambios realizado en el proyecto: {proyecto}" se muestra </p>
                 <p> Y el sistema envia una notificación al usuario, indicando que se han realizado un avance importante en el progreso del proyecto </p>
         </td>
-        <td>7</td>
+        <td>5</td>
     </tr>
-    <!--EPIC 8-->
+    <!--EPIC 6-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 8: EVENTOS DE CALENDARIO</h5>
+            <h5 style="text-align: center">EPIC 6: EVENTOS DE CALENDARIO</h5>
             <p>
                 Como usuario, quiero tener un calendario para tener un seguimiento de los eventos  pendientes
             </p>
@@ -2093,7 +1954,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y la fecha de cierre sea menor a la actual </p>
                 <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
         </td>
-        <td>8</td>
+        <td>6</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2125,7 +1986,32 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y la fecha de cierre sea menor a la actual </p>
                 <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
         </td>
-        <td>8</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <th>US04</th>
+        <th>Recordatorios de Eventos de Calendario</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero recibir recordatorios de eventos de calendario </p>
+            <p> Para no olvidarme cuándo ocurren </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingresar al entorno “Recordatorio”</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario haga clic en “Recordatorio”</p>
+                <p> Entonces se le redirige al usuario al entorno “Recordatorio”</p>
+            <h5>Escenario 2: Configurar un recordatorio para un evento</h5>
+                <p> Dado que el usuario se ubica en el entorno “Recordatorio” </p>
+                <p> Cuando el usuario establezca un recordatorio con un intervalo de tiempo antes del evento </p>
+                <p> Entonces el usuario recibirá una notificación o recordatorio en el momento especificado </p>
+            <h5>Escenario 3: Desactivar o eliminar un recordatorio para un evento</h5>
+                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
+                <p> Cuando el usuario seleccione un recordatorio </p>
+                <p> Y el usuario haga clic en “Eliminar” </p>
+                <p> Entonces el usuario no recibirá ninguna notificación o recordatorio para ese evento </p>
+        </td>
+        <td>6</td>
     </tr>
     <tr>
         <th>US03</th>
@@ -2148,7 +2034,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces el evento ya no se mostrará en el calendario </p>
                 <p> Y a toda persona que estaba participando en el evento le aparecerá un mensaje, indicando que el evento terminó antes </p>
         </td>
-        <td>8</td>
+        <td>6</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2179,7 +2065,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
         </td>
-        <td>8</td>
+        <td>6</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2209,7 +2095,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
         </td>
-        <td>8</td>
+        <td>6</td>
     </tr>
     <tr>
         <th>TS03</th>
@@ -2236,44 +2122,10 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el sistema elimina el evento seleccionado </p>
                 <p> Y el sistema ya no muestra el evento borrado en el calendario </p>
         </td>
-        <td>8</td>
-    </tr>
-    <!--EPIC 9-->
-    <tr>
-        <td colspan="5">
-            <h5 style="text-align: center">EPIC 9: RECORDATORIOS DE CALENDARIO</h5>
-            <p>
-                Como usuario, quiero tener un calendario para tener un seguimiento de los eventos y tareas pendientes
-            </p>
-        </td>
+        <td>6</td>
     </tr>
     <tr>
-        <th>US01</th>
-        <th>Recordatorios de Eventos de Calendario</th>
-        <td>
-            <p> Como usuario de cualquiera de los segmentos objetivos </p>
-            <p> Quiero recibir recordatorios de eventos de calendario </p>
-            <p> Para no olvidarme cuándo ocurren </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Ingresar al entorno “Recordatorio”</h5>
-                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
-                <p> Cuando el usuario haga clic en “Recordatorio”</p>
-                <p> Entonces se le redirige al usuario al entorno “Recordatorio”</p>
-            <h5>Escenario 2: Configurar un recordatorio para un evento</h5>
-                <p> Dado que el usuario se ubica en el entorno “Recordatorio” </p>
-                <p> Cuando el usuario establezca un recordatorio con un intervalo de tiempo antes del evento </p>
-                <p> Entonces el usuario recibirá una notificación o recordatorio en el momento especificado </p>
-            <h5>Escenario 3: Desactivar o eliminar un recordatorio para un evento</h5>
-                <p> Dado que el usuario se ubica en el entorno “Calendario” </p>
-                <p> Cuando el usuario seleccione un recordatorio </p>
-                <p> Y el usuario haga clic en “Eliminar” </p>
-                <p> Entonces el usuario no recibirá ninguna notificación o recordatorio para ese evento </p>
-        </td>
-        <td>9</td>
-    </tr>
-    <tr>
-        <th>TS01</th>
+        <th>TS04</th>
         <th>Crear Recordatorio de Evento de Calendario</th>
         <td>
             <p> Como desarrollador </p>
@@ -2294,12 +2146,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “RECORDATORIO BORRADO” es mostrado </p>
                 <p> Y el sistema borra el recordatorio </p>
         </td>
-        <td>9</td>
+        <td>6</td>
     </tr>
-    <!--EPIC 10-->
+    <!--EPIC 7-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 10: SISTEMA DE ETIQUETADO</h5>
+            <h5 style="text-align: center">EPIC 7: SISTEMA DE ETIQUETADO</h5>
             <p>
                 Como miembro del equipo, quiero tener un buscador con filtros para separar las tareas de los diferentes proyectos
             </p>
@@ -2325,7 +2177,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el usuario elija una etiqueta descriptiva </p>
                 <p> Entonces el usuario ver la etiqueta asociada al proyecto </p>
         </td>
-        <td>10</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2345,7 +2197,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario seleccione una etiqueta específica para filtrar los proyectos </p>
                 <p> Entonces se muestran solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
         </td>
-        <td>10</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2369,7 +2221,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “Etiqueta de proyecto creada” </p>
                 <p> Y el sistema crea una etiqueta con la información dada </p>
         </td>
-        <td>10</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2393,12 +2245,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “Mostrando solo las tareas que coinciden” es mostrado </p>
                 <p> Y el sistema muestra solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
         </td>
-        <td>10</td>
+        <td>7</td>
     </tr>
-    <!--EPIC 11-->
+    <!--EPIC 8-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 11: CONFIGURACIÓN PERSONAL</h5>
+            <h5 style="text-align: center">EPIC 8: CONFIGURACIÓN PERSONAL</h5>
             <p>
                 Como usuario registrado, poder configurar mis datos personales para que se adecuen a la información real
             </p>
@@ -2440,7 +2292,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario intente salir del entorno “Datos personales” </p>
                 <p> Entonces aparecerá un mensaje, indicando si quiere guardar o no los cambios</p>
         </td>
-        <td>11</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2469,7 +2321,65 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y da clic en “Cambiar” </p>
                 <p> Entonces se muestra un mensaje de confirmación, indicando que se cambió la contraseña </p>
         </td>
-        <td>11</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>US03</th>
+        <th>Recuperación de Contraseña</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero tener la capacidad de restablecer mi contraseña en caso de olvidarla </p>
+            <p> Para así poder acceder nuevamente a mi cuenta </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso al entorno “Recuperar Contraseña”</h5>
+                <p> Dado que el usuario se encuentra en la página “Inicio sesión” </p>
+                <p> Cuando el usuario dé clic en "Olvidé mi contraseña" </p>
+                <p> Entonces se redirige al usuario al entorno “Recuperar Contraseña” </p>
+            <h5>Escenario 2: Recuperación con dirección de correo electrónico válido</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
+                <p> Cuando el usuario escriba una dirección de correo electrónico registrada en el sistema </p>
+                <p> Entonces se muestra el entorno “Nueva Contraseña” </p>
+            <h5>Escenario 3: Recuperación con dirección de correo electrónico inválido</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Recuperar Contraseña” </p>
+                <p> Cuando el usuario proporcione una dirección de correo electrónico que no se encuentra actualmente registrada en el sistema </p>
+                <p> Entonces se muestra un mensaje de error, indicando que la dirección de correo electrónico no está registrada en el sistema </p>
+            <h5>Escenario 4: Restablecimiento de contraseña exitoso</h5>
+                <p> Dado que el usuario se encuentra en la página “Nueva Contraseña” </p>
+                <p> Cuando el usuario ingresa una nueva contraseña </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que la contraseña se ha restablecido correctamente </p>
+                <p> Y se redirige al usuario a la página “Inicio Sesión”</p>
+            <h5>Escenario 5: Restablecimiento de contraseña con la misma contraseña que la original</h5>
+                <p> Dado que el usuario se encuentra en la página “Recuperar Contraseña” </p>
+                <p> Cuando el usuario ingresa una contraseña igual a la que actualmente está utilizando </p>
+                <p> Entonces se muestra un mensaje de error, indicando que no puede cambiarse a la misma contraseña que está actualmente en uso </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>US04</th>
+        <th>Eliminación de cuenta</th>
+        <td>
+            <p> Como usuario de cualquiera de los segmentos objetivos </p>
+            <p> Quiero poder eliminar mi cuenta </p>
+            <p> Para asegurarme que ningún tipo de información personal se quede en la aplicación cuando desee dejar de utilizarla </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Ingreso al entorno “Eliminar Cuenta”</h5>
+                <p> Dado que el usuario se encuentra en la página de “Configuración” </p>
+                <p> Cuando el usuario dé clic en “Eliminar Cuenta” </p>
+                <p> Entonces se redirige al usuario al entorno “Eliminar Cuenta” </p>
+            <h5>Escenario 2: Eliminación de Cuenta</h5>
+                <p> Dado que el usuario se encuentra en el entorno “Eliminar Cuenta” </p>
+                <p> Cuando el usuario seleccione el botón “Eliminar Cuenta” </p>
+                <p> Entonces se muestra la ventana “Eliminación Definitiva de Cuenta”, indicando que la acción no podrá ser deshecha </p>
+            <h5>Escenario 3: Confirmación de Eliminación de Cuenta</h5>
+                <p> Dado que el usuario se encuentra en la ventana “Eliminación Definitiva de Cuenta” </p>
+                <p> Cuando el usuario seleccione el botón “Eliminar Definitivamente” </p>
+                <p> Entonces se muestra un mensaje de confirmación, indicando que la cuenta ha sido eliminada </p>
+                <p> Y se redirige al usuario a la Página Principal </p>
+        </td>
+        <td>8</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2493,7 +2403,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Datos inválidos” es mostrado </p>
         </td>
-        <td>11</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2517,7 +2427,70 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje “La contraseña ha sido cambiada” es mostrado </p>
                 <p> Y el sistema cambia la contraseña actual por la proporcionada </p>
         </td>
-        <td>11</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>TS03</th>
+        <th>Recuperar Contraseña</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero que el sistema permita a los usuarios recuperar su contraseña </p>
+            <p> Para permitir que los usuarios tengan un método para acceder de nuevo a la aplicación si es que se han olvidado de su contraseña </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Recuperación con dirección de correo electrónico válido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
+                <p> Y la dirección de correo electrónico ingresada esté registrada en el sistema </p>
+                <p> Entonces se recibe una respuesta con el status 202 </p>
+                <p> Y el sistema permite el acceso al usuario al entorno “Nueva Contraseña” </p>
+            <h5>Escenario 2: Recuperación con dirección de correo electrónico inválido</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de dirección de correo electrónico </p>
+                <p> Y la dirección de correo electrónico ingresada no se encuentre registrada en el sistema </p>
+                <p> Entonces se recibe una respuesta con el status 401 </p>
+                <p> Y un mensaje con el valor “El correo electrónico es incorrecto” es mostrado </p>
+            <h5>Escenario 3: Restablecimiento de contraseña exitoso </h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de una nueva contraseña </p>
+                <p> Entonces se recibe una respuesta con el status 202</p>
+                <p> Y el sistema redirige al usuario a la página principal </p>
+            <h5>Escenario 4: Restablecimiento de contraseña con la misma contraseña que la original</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada con el dato de una contraseña</p>
+                <p> Y la contraseña sea la misma que la contraseña actual </p>
+                <p> Entonces se recibe una respuesta con el status 406 </p>
+                <p> Y un mensaje con el valor “La nueva contraseña coincide con la actual” es mostrado </p>
+            <h5>Escenario 5: Restablecimiento de contraseña sin proporcionar una contraseña</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud POST sea enviada sin datos</p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor “Contraseña no proporcionada” es mostrado </p>
+        </td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <th>TS04</th>
+        <th>Eliminar Cuenta</th>
+        <td>
+            <p> Como desarrollador </p>
+            <p> Quiero permitir al usuario eliminar su cuenta definitivamente mediante un solo entorno </p>
+            <p> Para que sea sencillo administrar la eliminación de las cuentas </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Eliminación de Cuenta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
+                <p> Entonces se recibe una respuesta con el status 200 </p>
+                <p> Y el sistema redirige al usuario a la Página Principal </p>
+            <h5>Escenario 2: Error al eliminar la cuenta</h5>
+                <p> Dado que el ENDPOINT/usuario está disponible </p>
+                <p> Cuando una solicitud DELETE sea enviada al presionar el botón “ELIMINAR DEFINITVAMENTE” </p>
+                <p> Y algún problema con el servidor ocurra </p>
+                <p> Entonces se recibe una respuesta con el status 400 </p>
+                <p> Y un mensaje con el valor de "Error al eliminar la cuenta" aparece </p>
+        </td>
+        <td>8</td>
     </tr>
 </table>
 
@@ -2532,4 +2505,6 @@ Impact Mapping es un método colaborativo para planificar y facilitar el desarro
 
 ### 2.4.4 Product Backlog
 Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
+
+<img src="images/product-backlog.jpg" alt="product backlog">
 
