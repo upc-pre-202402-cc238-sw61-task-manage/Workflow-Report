@@ -390,7 +390,7 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
 
 #### Visión
 <p style="text-align: justify">
-    Destacar como la plataforma líder que revoluciona la gestión eficiente de proyectos y tareas en el mercado. En Task Management, nuestro propósito es garantizar la eficiencia de la organización. Buscamos obtener el reconocimiento como el proveedor soluciones innovadoras y confiables para los estudiantes y equipos de teletrabajo en toda Lima.
+    Destacar como la plataforma líder que revoluciona la gestión eficiente de proyectos y tareas en el mercado. En Task Management, nuestro propósito es garantizar la eficiencia de la organización. Buscamos obtener el reconocimiento como el proveedor soluciones innovadoras y confiables para los estudiantes y equipos de trabajo en toda Lima.
 </p>
 
 #### Perfiles de los estudiantes
@@ -444,19 +444,19 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 ##### 5W (What?, Why?, Who?, When?, Where?)
 
 ###### 1. What? (¿Qué?):
-<p><strong>Workflow</strong> es una aplicación móvil diseñada para mejorar la gestión de tareas y la productividad en equipos de trabajo, estudiantes y PYMES. La plataforma centraliza la organización de tareas, seguimiento de proyectos, y comunicación en equipo en una interfaz intuitiva y personalizable.</p>
+<p><strong>Workflow</strong> es una aplicación móvil diseñada para mejorar la gestión de tareas y la productividad en equipos de trabajo y PYMES. La plataforma centraliza la organización de tareas, seguimiento de proyectos, y comunicación en equipo en una interfaz intuitiva y personalizable.</p>
 
 ###### 2. Why? (¿Por qué?):
 <p>La necesidad de una solución integrada para la gestión eficiente de tareas surge debido a los desafíos que enfrentan los equipos al coordinarse, cumplir plazos y hacer un seguimiento efectivo de sus proyectos. <strong>Workflow</strong> responde a esta necesidad proporcionando herramientas que simplifican estos procesos, mejoran la productividad y facilitan el cumplimiento de metas.</p>
 
 ###### 3. Who? (¿Quién?):
-<p><strong>Workflow</strong> está dirigida principalmente a estudiantes, equipos de trabajo remoto, y pequeñas y medianas empresas (PYMES). Estos grupos buscan soluciones tecnológicas que optimicen su organización y gestión de tareas, permitiéndoles trabajar de manera más eficiente y coordinada.</p>
+<p><strong>Workflow</strong> está dirigida principalmente a equipos de trabajo, y pequeñas y medianas empresas (PYMES). Estos grupos buscan soluciones tecnológicas que optimicen su organización y gestión de tareas, permitiéndoles trabajar de manera más eficiente y coordinada.</p>
 
 ###### 4. When? (¿Cuándo?): 
 <p><strong>Workflow</strong> es relevante en cualquier momento en que los equipos necesiten organizar sus tareas y proyectos, ya sea en entornos académicos durante el ciclo de estudios, o en entornos laborales para gestionar proyectos en curso y mejorar la productividad del equipo. Se espera que los beneficios se vean reflejados a corto y mediano plazo, con mejoras en la eficiencia operativa y el cumplimiento de metas.</p>
 
 ###### 5. Where? (¿Dónde?): 
-<p>La aplicación <strong>Workflow</strong> es accesible desde cualquier lugar con conexión a internet, lo que la hace ideal para equipos de trabajo remoto y estudiantes que operan en diferentes ubicaciones. Esto incluye oficinas, hogares, universidades, o cualquier otro lugar donde los usuarios necesiten gestionar tareas de manera efectiva.</p>
+<p>La aplicación <strong>Workflow</strong> es accesible desde cualquier lugar con conexión a internet, lo que la hace ideal para equipos de trabajo que operan en diferentes ubicaciones. Esto incluye oficinas, hogares o cualquier otro lugar donde los usuarios necesiten gestionar tareas de manera efectiva.</p>
 
 ##### 2H (How?, How Much?)
 
@@ -473,19 +473,19 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
 - **Problem Statement 1**
 
-    Nuestra aplicación “Task Management” fue diseñada para lograr una mejor organización y coordinación en los proyectos desarrollados en línea. A través de nuestro servicio, los equipos de teletrabajo podrán crear y visualizar proyectos y tareas para tener seguimiento de los trabajos que deben realizar.
+    Nuestra aplicación “Task Management” fue diseñada para lograr una mejor organización y coordinación en los proyectos desarrollados en línea. A través de nuestro servicio, los equipos de trabajo podrán crear y visualizar proyectos y tareas para tener seguimiento de los trabajos que deben realizar.
 
     Hemos observado que muchos de nuestros clientes tienen problemas para darle seguimiento a las tareas que se realizan en el equipo. Actualmente, los usuarios están utilizando herramientas externas que les permita llevar el seguimiento de los trabajos.
 
-    ¿Cómo podemos mejorar el seguimiento de tareas para que los equipos de teletrabajo tengan una mejor eficacia en el desarrollo de su trabajo?
+    ¿Cómo podemos mejorar el seguimiento de tareas para que los equipos de trabajo tengan una mejor eficacia en el desarrollo de su trabajo?
 
 - **Problem Statement 2**
 
-    Nuestra aplicación Workflow fue diseñada para brindar apoyo en la gestión de tareas y asignaciones para los estudiantes. A través de nuestro servicio, los estudiantes pueden administrar las tareas utilizando un sencillo calendario que puede configurar en cualquier momento.
+    Nuestra aplicación Workflow fue diseñada para brindar apoyo en la gestión de tareas y proyectos para los equipos de trabajo. A través de nuestro servicio, los jefes de equipo pueden administrar las tareas utilizando un sencillo calendario que puede configurar en cualquier momento.
 
-    Hemos notado que muchos de nuestros clientes tienen problemas para recordar la presentación de las tareas que fueron agregadas al calendario. Actualmente, los usuarios están utilizando herramientas externas que les permita recordar sobre una tarea que está en el calendario.
+    Hemos notado que muchos de nuestros clientes tienen problemas para recordar la fecha de entrega de los trabajos a los que fueron asignados. Actualmente, los usuarios están utilizando herramientas externas que les permita recordar sobre una tarea que está en el calendario.
 
-    ¿Cómo podemos mejorar el calendario para que los estudiantes puedan recordar con mayor facilidad la fecha de entrega de las tareas?
+    ¿Cómo podemos mejorar el calendario para que los miembros de equipo puedan recordar con mayor facilidad la fecha de entrega de las tareas?
 
 ----
 
@@ -493,7 +493,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
 #### Dominio:
 
-<p>Nos centramos en el sector de la gestión de tareas y la productividad, reconociendo la diversidad y complejidad de los entornos de trabajo, desde grupos de estudiantes hasta equipos profesionales, cada uno con sus necesidades y desafíos únicos en la organización de tareas y proyectos.</p>
+<p>Nos centramos en el sector de la gestión de tareas y la productividad, reconociendo la diversidad y complejidad de los entornos de trabajo, cada uno con sus necesidades y desafíos únicos en la organización de tareas y proyectos.</p>
 
 #### Segmentos de Clientes:
 
@@ -516,11 +516,11 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
     1. **¿Quién es el usuario?**
 
-        Los usuarios de Task Management constituyen en estudiantes escolares y universitarios y líderes y miembros de equipos de teletrabajo que buscan una solución que les permita gestionar sus tareas proyectos de manera eficiente y colaborativa.
+        Los usuarios de Task Management constituyen en líderes y miembros de equipos de trabajo que buscan una solución que les permita gestionar sus tareas proyectos de manera eficiente y colaborativa.
 
     2. **¿Dónde encaja nuestro producto, en su trabajo o vida?**
 
-        Este producto se adapta perfectamente a la dinámica laboral para los equipos de teletrabajo y la dinámica escolar para los estudiantes escolares y universitarios que están en la búsqueda de una plataforma en línea. Esta plataforma les permite no solo administrar sus proyectos o tareas de manera efectiva, sino también mejorar significativamente la comunicación y la coordinación entre todos los miembros del equipo. Además, facilita un seguimiento preciso del progreso y una asignación de tareas altamente eficiente.
+        Este producto se adapta perfectamente a la dinámica laboral para los equipos de trabajo que están en la búsqueda de una plataforma en línea. Esta plataforma les permite no solo administrar sus proyectos o tareas de manera efectiva, sino también mejorar significativamente la comunicación y la coordinación entre todos los miembros del equipo. Además, facilita un seguimiento preciso del progreso y una asignación de tareas altamente eficiente.
 
     3. **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
@@ -528,7 +528,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
     4. **¿Cuándo y cómo es usado nuestro producto?**
 
-        Nuestra aplicación tiene un uso diario. Sea el usuario un estudiante, un miembro o líder de equipo, Task Management puede utilizarse diariamente para asegurarse de contar con un eficiente flujo de trabajo y mantener una buena organización con los trabajos y las tareas asignadas.
+        Nuestra aplicación tiene un uso diario. Sea el usuario un miembro o líder de equipo, Task Management puede utilizarse diariamente para asegurarse de contar con un eficiente flujo de trabajo y mantener una buena organización con los trabajos y las tareas asignadas.
 
     5. **¿Qué características son importantes?**
 
@@ -682,7 +682,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     <td>
         <div style="text-align: justify">
             <p> Mejorar periódicamente el software para ofrecer una mejor experiencia al usuario </p>
-            <p> Ayudar a los equipos de teletrabajo a ser más productivos y eficientes </p>
+            <p> Ayudar a los equipos de trabajo a ser más productivos y eficientes </p>
             <p> Alcanzar mejores reseñas de los usuarios </p>
         </div>
     </td>
@@ -691,12 +691,12 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     <th colspan="3"> Usuario y clientes </th>
 </tr>
 <tr style="text-align: center">
-    <td colspan="3"> Equipos de teletrabajo </td>
+    <td colspan="3"> Equipos de trabajo </td>
 </tr>
-<!-- Equipos de teletrabajo -->
+<!-- Equipos de trabajo -->
 <tr style="text-align: justify">
     <td colspan="2">
-         <p> Líder de equipo de trabajo que necesite ayuda en la gestión de su equipo de teletrabajo asignado <p>
+         <p> Líder de equipo de trabajo que necesite ayuda en la gestión de su equipo de trabajo asignado <p>
     </td>
     <td>
          <p> Miembro de equipo de trabajo que actualmente esté insatisfecho con la comunicación con su equipo <p>
@@ -721,7 +721,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     </td>
     <td>
         <ul>
-            <li> Entrevistar a los miembros y líderes de equipo de teletrabajo de distintas empresas para comprender sus necesidades </li>
+            <li> Entrevistar a los miembros y líderes de equipo de trabajo de distintas empresas para comprender sus necesidades </li>
             <li> Hacer un análisis de mercado para conocer a nuestra competencia </li>
         </ul>
     </td>
@@ -1307,6 +1307,29 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
     </tr>
     <tr>
         <th>US07</th>
+        <th>Cambio de temática de colores de la página</th>
+        <td>
+            <p> Como visitante </p>
+            <p> Quiero contar con un botón que me permita cambiar la temática de colores de la landing page </p>
+            <p> Para que se adecúe más a mis preferencias </p>
+        </td>
+        <td>
+            <h5>Escenario 1: Visualizar los temas disponibles </h5>
+                <p> Dado que el usuario se encuentra en la landing page </p>
+                <p> Cuando el usuario dé click en el botón "Theme" </p>
+                <p> Entonces aparecerán en pantalla una ventana con los dos temas de colores disponibles </p>
+            <h5>Escenario 2: Cambio de temática satisfactorio </h5>
+                <p> Dado que el usuario se encuentra en la venta de "Theme" </p>
+                <p> Cuando el usuario presione cualquiera de los dos temas disponibles </p>
+                <p> Entonces los colores de la página se cambiarán al seleccionado </p>
+            <h5>Escenario 3: Selección fuera de la ventana </h5>
+                <p> Dado que el usuario se encuentra en la venta de "Theme" </p>
+                <p> Cuando el usuario de click en algún espacio fuera de la ventana "Theme" </p>
+                <p> Entonces la ventana desaparecerá lentamente </p>
+        </td>
+    </tr>
+    <tr>
+        <th>US08</th>
         <th>Translación a la aplicación móvil</th>
         <td>
             <p> Como visitante </p>
@@ -1316,7 +1339,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
         <td>
             <h5>Escenario 1: Traslado a la aplicación móvil</h5>
                 <p> Dado que el usuario se encuentra en la landing page </p>
-                <p> Cuando el dé click en el botón "Probar ahora" </p>
+                <p> Cuando el dé click en el botón "Open App" </p>
                 <p> Entonces el sistema redirigirá al usuario a la aplicación móvil </p>
             <h5>Escenario 2: Aplicación actualmente en mantenimiento</h5>
                 <p> Dado que el usuario se encuentra en la landing page </p>
@@ -1655,7 +1678,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
         <th>US01</th>
         <th>Creación de un Proyecto Nuevo</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero poder crear un nuevo proyecto en la aplicación </p>
             <p> Para administrar y gestionar mis labores </p>
         </td>
@@ -1693,7 +1716,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
         <th>US02</th>
         <th>Asignación de un Miembro a un Proyecto</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero poder asignar miembros a un proyecto </p>
             <p> Para trabajar colaborativamente en el proyecto </p>
         </td>
@@ -1802,9 +1825,9 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
     </tr>
     <tr>
         <th>US01</th>
-        <th>Creación de un Proyecto Nuevo</th>
+        <th>Creación de tarea laboral</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero poder crear tareas </p>
             <p> Para asignar a los miembros de equipo el trabajo que debe completar cada uno </p>
         </td>
@@ -1838,7 +1861,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
         <th>US02</th>
         <th>Asignación de Responsabilidades a una Tarea</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero poder asignar responsables a las tareas </p>
             <p> Para definir el encargado de completar cada tarea del proyecto</p>
         </td>
@@ -1931,135 +1954,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
     <!--EPIC 7-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 7: CREACIÓN DE TAREAS ACADÉMICAS</h5>
-            <p>
-                Como estudiante, quiero tener una forma de seguir las tareas que tengo pendiente para mejorar la forma en la que me ordeno para hacer las tareas diarias
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th>US01</th>
-        <th>Creación de tarea estudiantil</th>
-        <td>
-            <p> Como usuario del segmento objetivo de estudiante </p>
-            <p> Quiero  poder crear una tarea en la aplicación </p>
-            <p> Para saber qué tareas tengo pendientes </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Entrada al entorno “Crear tarea”</h5>
-                <p> Dado que el estudiante se encuentra en la página del calendario </p>
-                <p> Cuando el estudiante seleccione un día dentro del calendario </p>
-                <p> Y presione la opción de "Crear tarea" </p>
-                <p> Entonces el sistema debe redirigirlo al entorno “Crear Tarea” </p>
-            <h5>Escenario 2: Creación de tarea exitosa</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Crear Tarea” </p>
-                <p> Cuando el estudiante complete todos los detalles de la tarea  </p>
-                <p>Y hace clic en el botón de "Crear tarea"</p>
-                <p> Entonces se crea una nueva tarea con los detalles proporcionados </p>
-                <p> Y se muestra un mensaje de confirmación, indicando que la tarea fue creada satisfactoriamente </p>
-            <h5>Escenario 3: Creación de tarea con datos incompletos</h5>
-                <p> Dado que el estudiante se ubica en el entorno “Crear Tarea” </p>
-                <p> Cuando el estudiante intente crear una tarea sin llenar todos los campos obligatorios </p>
-                <p> Entonces se muestra un mensaje de error, indicando que no puede crearse una tarea sin haber llenado todos los campos obligatorios </p>
-            <h5>Escenario 4: Creación de tarea con nombre duplicado en un mismo día</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Crear Tarea” </p>
-                <p> Cuando el estudiante intente crear una tarea con un nombre que ya existe en el mismo día </p>
-                <p> Entonces se muestra un mensaje de error, indicando que ya existe una tarea con ese nombre para ese día</p>
-        </td>
-        <td>7</td>
-    </tr>
-    <tr>
-        <th>US02</th>
-        <th>Actualización del progreso diario de tareas</th>
-        <td>
-            <p> Como usuario del segmento objetivo de estudiante </p>
-            <p> Quiero poder actualizar la cantidad diaria de tareas que voy completando </p>
-            <p> Para conocer mi progreso </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Actualización del estado de tarea exitosa</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Tareas del día” </p>
-                <p> Cuando el estudiante cambia el estado de la tarea de "Por completar" a "Completada" </p>
-                <p> Entonces se actualiza correctamente el estado de la tarea </p>
-            <h5>Escenario 2: Entrada al entorno “Aplazar Tarea”</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Tareas del día” </p>
-                <p> Cuando el estudiante seleccione una tarea </p>
-                <p> Y presione el botón “Aplazar para otro día” </p>
-                <p> Entonces se le redirige al entorno “Aplazar Tarea” </p>
-            <h5>Escenario 3: Aplazo de Tarea</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Aplazar Tarea” </p>
-                <p> Cuando el estudiante seleccione una fecha y hora válida en la que se aplazará la tarea </p>
-                <p> Entonces saldrá un mensaje de confirmación, indicando que se aplazó la tarea </p>
-            <h5>Escenario 4: Aplazo de Tarea a una fecha inválida</h5>
-                <p> Dado que el estudiante se encuentra en el entorno “Aplazar Tarea” </p>
-                <p> Cuando el estudiante seleccione una fecha y hora menor a la fecha actual para aplazar la tarea </p>
-                <p> Entonces saldrá un mensaje de error, indicando que no es posible cambiar a una fecha pasada </p>
-        </td>
-        <td>7</td>
-    </tr>
-    <tr>
-        <th>TS01</th>
-        <th>Crear Tarea Estudiantil</th>
-        <td>
-            <p> Como desarrollador </p>
-            <p> Quiero que los estudiantes puedan crear tareas </p>
-            <p> Para que puedan conocer qué tareas deberían completar primero para que no se les acumule </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Crear Tarea</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con los detalles de la tarea (nombre, descripción, fecha límite) </p>
-                <p> Entonces se recibe una respuesta con el status 201 </p>
-                <p> Y el mensaje “Tarea Creada” es mostrado </p>
-                <p> Y el sistema crea una tarea </p>
-            <h5>Escenario 2: Crear tarea con datos incompletos</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con solo algunos de los datos requeridos </p>
-                <p> Entonces se recibe una respuesta con status 400 </p>
-                <p> Y el mensaje “Datos incompletos” es mostrado </p>
-            <h5>Escenario 3: Creación de tarea con nombre duplicado en un mismo día</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada con todos los detalles de la tarea </p>
-                <p> Y ya existe una tarea con el mismo nombre en el mismo día </p>
-                <p> Entonces se recibe una respuesta con status 400 </p>
-                <p> Y el mensaje “NOMBRE DUPLICADO” es mostrado </p>
-        </td>
-        <td>7</td>
-    </tr>
-    <tr>
-        <th>TS02</th>
-        <th>Asignar Responsable a la tarea</th>
-        <td>
-            <p> Como desarrollador </p>
-            <p> Quiero el usuario pueda asignar responsables a cada una de las tareas de un proyecto </p>
-            <p> Para que puedan los usuarios conozcan qué le toca a cada uno </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Visualizar Miembros disponibles</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud GET sea enviada al presionar botón "Asignar miembros" </p>
-                <p> Entonces se recibe una respuesta con estatus 200 </p>
-                <p> Y el mensaje “Usuarios disponibles” es mostrado </p>
-                <p> Y el sistema muestra a todos los usuarios disponibles para la asignación de la tarea</p>
-            <h5>Escenario 2: Asignación de miembros exitosa</h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
-                <p> Entonces se recibe una respuesta con el status 202 </p>
-                <p> Y el mensaje “Usuarios Agregados” es mostrado </p>
-                <p> Y el sistema asigna a la tarea los miembros seleccionados </p>
-            <h5>Escenario 3: Asignación de miembro recientemente eliminado </h5>
-                <p> Dado que el ENDPOINT/usuario está disponible </p>
-                <p> Cuando una solicitud POST sea enviada al presionar el botón “Agregar” </p>
-                <p> Y ya existe cualquiera de los usuarios que se estaban agregando fueron eliminados </p>
-                <p> Entonces se recibe una respuesta con status 400 </p>
-                <p> Y el mensaje "Uno o más usuarios no está disponible" se muestra </p>
-        </td>
-        <td>7</td>
-    </tr>
-    <!--EPIC 8-->
-    <tr>
-        <td colspan="5">
-            <h5 style="text-align: center">EPIC 8: GESTIÓN DE AVANCE DE PROYECTO</h5>
+            <h5 style="text-align: center">EPIC 7: GESTIÓN DE AVANCE DE PROYECTO</h5>
             <p>
                 Como jefe de equipo, quiero poder gestionar todos los proyectos a mi cargo y supervisar el trabajo de los miembros para conocer su progreso
             </p>
@@ -2069,7 +1964,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
         <th>US01</th>
         <th>Actualización del estado de las tareas</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero actualizar el estado de las tareas </p>
             <p> Para reflejar su progreso </p>
         </td>
@@ -2083,13 +1978,13 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario intente cambiar el estado de la tarea  </p>
                 <p> Entonces se muestra un mensaje, indicando que el usuario no tiene permisos para actualizar el proceso de la tarea </p>
         </td>
-        <td>8</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>US02</th>
         <th>Gestión de Avance del Proyecto</th>
         <td>
-            <p> Como usuario del segmento objetivo de equipos de teletrabajo </p>
+            <p> Como usuario del segmento objetivo de equipos de trabajo </p>
             <p> Quiero visualizar el avance del proyecto </p>
             <p> Para verificar que se está desarrollando los proyectos del trabajo a una velocidad adecuada </p>
         </td>
@@ -2107,7 +2002,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando otro usuario realice algún avance importante en el progreso del proyecto </p>
                 <p> Entonces el usuario recibe una notificación, indicando que se han realizado un avance importante en el progreso del proyecto </p>
         </td>
-        <td>8</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2130,14 +2025,14 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con status 401 </p>
                 <p> Y el mensaje “No tiene permisos para actualizar la tarea” es mostrado </p>
         </td>
-        <td>8</td>
+        <td>7</td>
     </tr>
     <tr>
         <th>TS02</th>
         <th>Gestionar avance del proyecto</th>
         <td>
             <p> Como desarrollador </p>
-            <p> Quiero que los usuarios del segmento objetivo de equipo de teletrabajo puedan visualizar y modificar el avance del proyecto </p>
+            <p> Quiero que los usuarios del segmento objetivo de equipo de trabajo puedan visualizar y modificar el avance del proyecto </p>
             <p> Para que puedan los usuarios conozcan cuánto se va avanzando del proyecto en cualquier momento </p>
         </td>
         <td>
@@ -2159,65 +2054,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje "Cambios realizado en el proyecto: {proyecto}" se muestra </p>
                 <p> Y el sistema envia una notificación al usuario, indicando que se han realizado un avance importante en el progreso del proyecto </p>
         </td>
-        <td>8</td>
+        <td>7</td>
     </tr>
-    <!--EPIC 9-->
+    <!--EPIC 8-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 9: VISUALIZACIÓN DE TAREAS ACADÉMICAS EN EL CALENDARIO</h5>
-            <p>
-                Como usuario del segmento objetivo de estudiantes, quiero tener un calendario para tener un seguimiento de las tareas académicas pendientes
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <th>US01</th>
-        <th>Visualización de tareas en el calendario</th>
-        <td>
-            <p> Como usuario del segmento objetivo de estudiante </p>
-            <p> Quiero poder visualizar las tareas pendientes en el calendario </p>
-            <p> Para saber cuáles son las tareas más próximas que debo completar </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Ver tareas programadas en el calendario</h5>
-                <p> Dado que el estudiante se ubica en el entorno “Calendario” </p>
-                <p> Cuando el estudiante seleccione el botón “Marcar Tareas” </p>
-                <p> Entonces los días marcados en el calendario con tareas pendientes cambiarán de color, indicando que esos días se presentan las tareas </p>
-            <h5>Escenario 2: No hay tareas programadas en el calendario</h5>
-                <p> Dado que el estudiante se ubica en el entorno “Calendario” </p>
-                <p> Cuando el usuario seleccione el botón “Marcar Tareas” </p>
-                <p> Y no haya ninguna tarea en el calendario </p>
-                <p> Entonces aparecerá un mensaje, indicando que no hay tareas marcadas en el calendario </p>
-        </td>
-        <td>9</td>
-    </tr>
-    <tr>
-        <th>TS01</th>
-        <th>Visualizar tareas en el calendario</th>
-        <td>
-            <p> Como desarrollador </p>
-            <p> Quiero que los usuarios del segmento objetivo de estudiantes cuenten con una manera que puedan visualizar las tareas académicas que tengan pendientes en el calendario </p>
-            <p> Para que puedan conocer cuáles son las tareas más próximas que deben completar </p>
-        </td>
-        <td>
-            <h5>Escenario 1: Ver tareas programadas en el calendario</h5>
-                <p> Dado que ENDPOINT/ usuario está disponible </p>
-                <p> Cuando una solicitud GET sea enviada al presionar el botón "Marcar Tareas" </p>
-                <p> Entonces se recibe una respuesta con el status 200 </p> 
-                <p> Y el sistema marca con un color diferente todos los días que tengan al menos una tarea pendiente </p>
-            <h5>Escenario 2: No hay tareas programadas en el calendario</h5>
-                <p> Dado que ENDPOINT/ usuario está disponible </p>
-                <p> Cuando una solicitud GET sea enviada al presionar el botón "Marcar Tareas" </p>
-                <p> Y el sistema no detecte ninguna tarea pendiente </p>
-                <p> Entonces se recibe una respuesta con el status 400 </p> 
-                <p> Y el mensaje "No hay tareas pendientes" es mostrado </p>
-        </td>
-        <td>9</td>
-    </tr>
-    <!--EPIC 10-->
-    <tr>
-        <td colspan="5">
-            <h5 style="text-align: center">EPIC 10: EVENTOS DE CALENDARIO</h5>
+            <h5 style="text-align: center">EPIC 8: EVENTOS DE CALENDARIO</h5>
             <p>
                 Como usuario, quiero tener un calendario para tener un seguimiento de los eventos  pendientes
             </p>
@@ -2251,7 +2093,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y la fecha de cierre sea menor a la actual </p>
                 <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2283,7 +2125,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y la fecha de cierre sea menor a la actual </p>
                 <p> Entonces aparecerá un mensaje de error, indicando la fecha es inválida </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>US03</th>
@@ -2306,7 +2148,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces el evento ya no se mostrará en el calendario </p>
                 <p> Y a toda persona que estaba participando en el evento le aparecerá un mensaje, indicando que el evento terminó antes </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2337,7 +2179,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2367,7 +2209,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Fecha inválida” es mostrado </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
     <tr>
         <th>TS03</th>
@@ -2394,12 +2236,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el sistema elimina el evento seleccionado </p>
                 <p> Y el sistema ya no muestra el evento borrado en el calendario </p>
         </td>
-        <td>10</td>
+        <td>8</td>
     </tr>
-    <!--EPIC 11-->
+    <!--EPIC 9-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 11: RECORDATORIOS DE CALENDARIO</h5>
+            <h5 style="text-align: center">EPIC 9: RECORDATORIOS DE CALENDARIO</h5>
             <p>
                 Como usuario, quiero tener un calendario para tener un seguimiento de los eventos y tareas pendientes
             </p>
@@ -2428,7 +2270,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el usuario haga clic en “Eliminar” </p>
                 <p> Entonces el usuario no recibirá ninguna notificación o recordatorio para ese evento </p>
         </td>
-        <td>11</td>
+        <td>9</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2452,12 +2294,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “RECORDATORIO BORRADO” es mostrado </p>
                 <p> Y el sistema borra el recordatorio </p>
         </td>
-        <td>11</td>
+        <td>9</td>
     </tr>
-    <!--EPIC 12-->
+    <!--EPIC 10-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 12: SISTEMA DE ETIQUETADO</h5>
+            <h5 style="text-align: center">EPIC 10: SISTEMA DE ETIQUETADO</h5>
             <p>
                 Como miembro del equipo, quiero tener un buscador con filtros para separar las tareas de los diferentes proyectos
             </p>
@@ -2483,7 +2325,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el usuario elija una etiqueta descriptiva </p>
                 <p> Entonces el usuario ver la etiqueta asociada al proyecto </p>
         </td>
-        <td>12</td>
+        <td>10</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2503,7 +2345,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario seleccione una etiqueta específica para filtrar los proyectos </p>
                 <p> Entonces se muestran solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
         </td>
-        <td>12</td>
+        <td>10</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2527,7 +2369,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “Etiqueta de proyecto creada” </p>
                 <p> Y el sistema crea una etiqueta con la información dada </p>
         </td>
-        <td>12</td>
+        <td>10</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2551,12 +2393,12 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje con el valor de “Mostrando solo las tareas que coinciden” es mostrado </p>
                 <p> Y el sistema muestra solo los proyectos que están etiquetados con la etiqueta seleccionada </p>
         </td>
-        <td>12</td>
+        <td>10</td>
     </tr>
-    <!--EPIC 13-->
+    <!--EPIC 11-->
     <tr>
         <td colspan="5">
-            <h5 style="text-align: center">EPIC 13: CONFIGURACIÓN PERSONAL</h5>
+            <h5 style="text-align: center">EPIC 11: CONFIGURACIÓN PERSONAL</h5>
             <p>
                 Como usuario registrado, poder configurar mis datos personales para que se adecuen a la información real
             </p>
@@ -2598,7 +2440,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Cuando el usuario intente salir del entorno “Datos personales” </p>
                 <p> Entonces aparecerá un mensaje, indicando si quiere guardar o no los cambios</p>
         </td>
-        <td>13</td>
+        <td>11</td>
     </tr>
     <tr>
         <th>US02</th>
@@ -2627,7 +2469,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y da clic en “Cambiar” </p>
                 <p> Entonces se muestra un mensaje de confirmación, indicando que se cambió la contraseña </p>
         </td>
-        <td>13</td>
+        <td>11</td>
     </tr>
     <tr>
         <th>TS01</th>
@@ -2651,7 +2493,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Entonces se recibe una respuesta con el status 400 </p>
                 <p> Y el mensaje con el valor de “Datos inválidos” es mostrado </p>
         </td>
-        <td>13</td>
+        <td>11</td>
     </tr>
     <tr>
         <th>TS02</th>
@@ -2675,17 +2517,17 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
                 <p> Y el mensaje “La contraseña ha sido cambiada” es mostrado </p>
                 <p> Y el sistema cambia la contraseña actual por la proporcionada </p>
         </td>
-        <td>13</td>
+        <td>11</td>
     </tr>
 </table>
 
 ### 2.4.3 Impact Mapping
 Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
 
-1. Líder de equipo de teletrabajo
+1. Líder de equipo de trabajo
 <img src="images/impact-mapping-renzo.jpg" alt="Impact Mapping: Renzo">
 
-2. Miembro de equipo de teletrabajo
+2. Miembro de equipo de trabajo
 <img src="images/impact-mapping-cielo.jpg" alt="Impact Mapping: Cielo">
 
 ### 2.4.4 Product Backlog
