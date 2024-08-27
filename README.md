@@ -210,7 +210,7 @@
             <p>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</p>
         </td>
         <td>
-            <p><strong>Alfaro Cumba, Leonel</strong></p>
+            <p><strong>Cisneros Tafur, Diego Rafael</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
             <p><strong>Ayquipa Ubaldo, Abraham Israel</strong></p>
@@ -225,7 +225,10 @@
             <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
-            <p><strong>Soto Salis, Natanael David</strong></p>
+            <p><strong>Periche Quiroga, Piero Fernando</strong></p>
+            <p><strong>TB1</strong></p>
+            <p>Escribe aquí lo que hiciste</p>
+            <p><strong>Silva Morales, Renzo Cesar</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
         </td>
@@ -238,7 +241,7 @@
             <p>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software</p>
         </td>
         <td>
-            <p><strong>Alfaro Cumba, Leonel</strong></p>
+            <p><strong>Cisneros Tafur, Diego Rafael</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
             <p><strong>Ayquipa Ubaldo, Abraham Israel</strong></p>
@@ -253,7 +256,10 @@
             <p><strong>Neyra Santa Cruz, Marcelo Sebastian</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
-            <p><strong>Soto Salis, Natanael David</strong></p>
+            <p><strong>Periche Quiroga, Piero Fernando</strong></p>
+            <p><strong>TB1</strong></p>
+            <p>Escribe aquí lo que hiciste</p>
+            <p><strong>Silva Morales, Renzo Cesar</strong></p>
             <p><strong>TB1</strong></p>
             <p>Escribe aquí lo que hiciste</p>
         </td>
