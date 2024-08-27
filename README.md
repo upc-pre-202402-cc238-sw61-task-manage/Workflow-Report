@@ -1105,13 +1105,15 @@ Descripción
 
 Entrevista 3:
 
-    Nombre:
-    Sexo:
-    Residencia
+    Nombre: Oscar Aranda
+    Sexo: Masculino
+    Residencia: Lima, Peru
     Inicio:
     Fin:
     
-Descripción Básica de la entrevista
+Descripción
+<p>Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.</p>
+<p>Oscar considera que las características imprescindibles en una herramienta de gestión de proyectos incluyen la capacidad de realizar un seguimiento efectivo de las actividades asignadas. Para él, es crucial contar con un seguimiento en tiempo real de las tareas de su equipo. Una mejora que sugiere para las herramientas de gestión que utiliza sería la incorporación de un calendario de actividades. Oscar evalúa la eficiencia de su equipo realizando reuniones en las que se exponen y analizan los puntos en los que se ha fallado.</p>
 
 **Segmento Objetivo:** Trabajadores del Equipo
 
@@ -1129,13 +1131,15 @@ Descripción
 
 Entrevista 2:
 
-    Nombre:
-    Sexo:
-    Residencia: 
+    Nombre: Carla Cordova
+    Sexo: Femenino
+    Residencia: Lima, Peru
     Inicio:
     Fin:
     
-Descripción Básica de la entrevista
+Descripción
+<p>Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.</p>
+<p>Carla prefiere recibir las tareas que se le asignan a través de mensajes o en reuniones por videollamada. Le gustaría ser notificada sobre el progreso de sus tareas mediante notificaciones de una aplicación móvil. Valora que una aplicación de gestión sea ordenada, intuitiva, y facilite la colaboración. Evalúa sus tareas asignadas de forma diaria y sugiere como mejora que las tareas asignadas se muestren y puedan editarse en tiempo real.</p>
 
 Entrevista 3:
 
@@ -1148,6 +1152,25 @@ Entrevista 3:
 Descripción Básica de la entrevista
 
 #### 2.2.3 Análisis de entrevistas
+
+**Segmento Objetivo: Lideres de equipo**
+- **Falta de Seguimiento y Colaboración:** El 75% de los líderes mencionaron que uno de los mayores desafíos es la falta de seguimiento y la colaboración dentro del equipo. Esto se traduce en dificultades para coordinar las tareas y asegurar que los proyectos avancen según lo planificado.
+- **Falta de Seguimiento y Colaboración:** Un 50% de los líderes destacaron la importancia de mantener una comunicación clara y efectiva entre los miembros del equipo, considerando esto crucial para el éxito de los proyectos.
+- **Trello y Asana:** El 100% de los líderes entrevistados utilizan Trello para asignar y organizar tareas. Un 50% también menciona Asana como una herramienta complementaria.
+- **Herramientas de Comunicación:** El 75% utiliza Discord o Google Meet para la comunicación dentro del equipo, indicando la preferencia por plataformas que permitan realizar videollamadas y coordinar en tiempo real.
+- **Asignación de Tareas y Seguimiento:** El 100% considera imprescindible que una herramienta de gestión permita la asignación de tareas y el seguimiento en tiempo real de las mismas.
+- **Personalización y Calendario:** Un 50% sugirió la necesidad de mejorar las herramientas actuales mediante la inclusión de opciones de personalización y la incorporación de un calendario de actividades para planificar de manera más eficiente.
+- **Reuniones de Retroalimentación:** El 50% de los líderes mencionan que evalúan la eficiencia de su equipo a través de reuniones periódicas, donde se discuten los puntos en los que se ha fallado y se busca mejorar.
+
+**Segmento Objetivo: Miembros de equipo**
+- **Organización de Tareas:** El 100% de los trabajadores mencionó que uno de los mayores desafíos es la organización de las tareas, especialmente cuando estas se acumulan y no logran priorizarlas de manera eficiente.
+- **Falta de Conocimiento del Equipo:** Un 25% señaló que la falta de conocimiento o habilidades de algunos compañeros puede complicar aún más la gestión del trabajo.
+- **Trello:** El 75% de los trabajadores utiliza Trello para gestionar su tiempo y responsabilidades.
+- **Sistemas Internos:** Un 25% utiliza sistemas internos de la empresa, como Sofia, para organizar el trabajo de manera específica según las necesidades de la organización.
+- **Interfaz Intuitiva y Colaborativa:** El 100% de los trabajadores valoran que una herramienta de gestión sea ordenada, intuitiva, y que facilite la colaboración entre los miembros del equipo.
+
+- **Notificaciones en Tiempo Real:** El 75% prefiere recibir notificaciones sobre sus tareas asignadas directamente en su dispositivo móvil para mantenerse al tanto de los avances y plazos.
+
 
 ### <a name="needfinding"></a> 2.3 Needfinding
 
