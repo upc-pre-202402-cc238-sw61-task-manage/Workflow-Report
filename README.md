@@ -1167,7 +1167,22 @@ Descripción Básica de la entrevista
 
 
 ### <a name="needfinding"></a> 2.3 Needfinding
+Con el propósito de desarrollar una app que satisfaga las necesidades particulares de los usuarios, Task Management llevará a cabo la identificación del User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
 
+#### 2.3.1 User Personas
+En esta sección se presentan personajes ficticios, uno para cada segmento objetivo. Los User Personas se han creado a partir de la información recopilada en entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue profundizar en el conocimiento sobre las personas a las que está destinada la aplicación. La información obtenida incluye aspectos como demografía, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación y los canales digitales que más utilizan, entre otros. Para el desarrollo de esta sección, se empleó la plataforma UXPressia.
+
+#### 2.3.2 User Task Matrix
+En esta sección se presenta la User Task Matrix, una herramienta enfocada en los segmentos objetivos (líder de equipo y miembro de equipo) que facilita la identificación de las tareas y objetivos clave de los usuarios. Esta matriz también ayuda a priorizar las características y funcionalidades al elaborar el Product Backlog. Para evaluar la frecuencia de las tareas, se han definido cinco opciones: nunca, casi nunca, a veces, a menudo y siempre; mientras que para la importancia se han establecido tres niveles: bajo, medio y alto.
+
+#### 2.3.3 User Journey Mapping
+En esta sección se presentan los User Journey Mapping para cada User Persona.
+
+#### 2.3.4 Empathy Mapping
+En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
+
+#### 2.3.5 As-is Scenario Mapping
+En esta sección se presenta el As-Is Scenario Mapping para los segmentos objetivo, en donde se identifican y comprenden los puntos de contacto del usuario.
 
 ### <a name="requirements-specification"></a> 2.4 Requirements Specification
 
