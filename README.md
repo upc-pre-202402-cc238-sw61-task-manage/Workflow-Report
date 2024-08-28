@@ -1184,29 +1184,53 @@ En esta sección se presentan personajes ficticios, uno para cada segmento objet
 #### 2.3.2 User Task Matrix
 En esta sección se presenta la User Task Matrix, una herramienta enfocada en los segmentos objetivos (líder de equipo y miembro de equipo) que facilita la identificación de las tareas y objetivos clave de los usuarios. Esta matriz también ayuda a priorizar las características y funcionalidades al elaborar el Product Backlog. Para evaluar la frecuencia de las tareas, se han definido cinco opciones: nunca, casi nunca, a veces, a menudo y siempre; mientras que para la importancia se han establecido tres niveles: bajo, medio y alto.
 
-<table><tr><th rowspan="2">Task Matrix</th><th colspan="2">Renzo Quispe Palomino</th><th colspan="3">Cielo Rodriguez Calderon</th></tr>
+<table><tr><th rowspan="2">Task Matrix</th><th colspan="2">Líder de equipo</th><th colspan="3">Miembro de equipo</th></tr>
 <tr><td>Frecuencia</td><td>Importancia</td><td colspan="2">Frecuencia</td><td>Importancia</td></tr>
-<tr><td valign="top">Crear Tareas</td><td>Siempre</td><td>Alta</td><td colspan="2">Siempre</td><td>Alta</td></tr>
+<tr><td valign="top">Crear tareas</td><td>Siempre</td><td>Alta</td><td colspan="2">Siempre</td><td>Alta</td></tr>
 <tr><td valign="top">Establecer eventos o tareas en el calendario</td><td>A veces</td><td>Media</td><td colspan="2">Raramente</td><td>Baja</td></tr>
-<tr><td valign="top">Establecer fechas límites de entregas de tareas</td><td>Siempre</td><td>Alta</td><td colspan="2">A veces</td><td>Media</td></tr>
-<tr><td valign="top">Hacer un seguimiento de una tarea o proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">A veces</td><td>Alta</td></tr>
+<tr><td valign="top">Establecer fechas límite para la entrega de tareas</td><td>Siempre</td><td>Alta</td><td colspan="2">A veces</td><td>Media</td></tr>
+<tr><td valign="top">Hacer un seguimiento a una tarea o proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">A veces</td><td>Alta</td></tr>
 <tr><td valign="top">Establecer la importancia de una tarea</td><td>A veces</td><td>Media</td><td colspan="2">A veces</td><td>Media</td></tr>
-<tr><td valign="top">Marcar como cumplida las tareas</td><td>A veces</td><td>Media</td><td colspan="2">A veces</td><td>Alta</td></tr>
+<tr><td valign="top">Marcar la tarea como realizada</td><td>A veces</td><td>Media</td><td colspan="2">A veces</td><td>Alta</td></tr>
 <tr><td valign="top">Aplazar la fecha límite de la tarea</td><td>A veces</td><td>Media</td><td colspan="2">Raramente</td><td>Baja</td></tr>
-<tr><td valign="top">Crear Proyecto</td><td>A veces</td><td>Muy Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
-<tr><td valign="top">Editar Detalles de Proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
+<tr><td valign="top">Crear proyectos</td><td>A veces</td><td>Muy Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
+<tr><td valign="top">Editar detalles de un proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
 <tr><td valign="top">Añadir miembros a un proyecto</td><td>A veces</td><td>Muy alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
-<tr><td valign="top">Visualizar Integrantes de una tarea asignada al proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
+<tr><td valign="top">Ver integrantes de una tarea asignada al proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
 </table>
 
 #### 2.3.3 User Journey Mapping
 En esta sección se presentan los User Journey Mapping para cada User Persona.
 
+**Segmento objetivo: Líder de equipo**
+
+![Journey Mapping Lider](/images/journey_lider.png)
+
+**Segmento objetivo: Miembro de equipo**
+
+![Journey Mapping Miembro](/images/journey_miembro.png)
+
 #### 2.3.4 Empathy Mapping
 En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
 
+**Segmento objetivo: Líder de equipo**
+
+![Empathy Mapping Lider](/images/empathy_lider.png)
+
+**Segmento objetivo: Miembro de equipo**
+
+![Empathy Mapping Miembro](/images/empathy_miembro.png)
+
 #### 2.3.5 As-is Scenario Mapping
 En esta sección se presenta el As-Is Scenario Mapping para los segmentos objetivo, en donde se identifican y comprenden los puntos de contacto del usuario.
+
+Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
+
+1. Líder de equipo de trabajo
+<img src="images/as-is-renzo.jpg" alt="AS-IS Scenario Mapping: Renzo">
+
+2. Miembro de equipo de trabajo
+<img src="images/as-is-cielo.jpg" alt="AS-IS Scenario  Mapping: Cielo">
 
 ### <a name="requirements-specification"></a> 2.4 Requirements Specification
 
