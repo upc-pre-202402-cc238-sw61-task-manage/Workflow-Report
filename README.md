@@ -2,8 +2,8 @@
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
     <h3>Carrera: Ingenieria de Software</h3>
     <h3>Ciclo: 2024-02</h3>
-    <h3> Aplicaciones para Dispositivos Móviles</h3>
-    <h4> Sección: SW61</h4>
+    <h3>Aplicaciones para Dispositivos Móviles</h3>
+    <h3>Sección: SW61</h3>
     <h3>Profesor: Mayta Guillermo, Jorge Luis</h3>
     <h3>Informe de Trabajo Final</h3>
     <h3>Startup: Task Management</h3>
@@ -24,7 +24,7 @@
         </tr>
         <tr>
             <td> Neyra Santa Cruz, Marcelo Sebastian </td>
-            <td> U202217241 </td>
+            <td> u202217241 </td>
         </tr>
         <tr>
             <td> Periche Quiroga, Piero Fernando </td>
@@ -423,8 +423,8 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
         <th colspan="2">Silva Morales, Renzo Cesar</th>
     </tr>
     <tr style="text-align: justify">
-        <td>Foto</td>
-        <td> Descripción 5</td>
+        <td><img src="images/perfiles-renzo.jpg" alt="Renzo Silva" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
+        <td> Mi nombre es Renzo Silva y soy un estudiante que actualmente está cursando el sexto ciclo de la carrera de Ingeniería de Software de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas. Entre mis habilidades, podemos destacar el buen uso de C++ y Python. Me considero como una persona responsable, amable y entusiasta de la tecnología. En mis tiempos libres me gusta investigar sobre las novedades del mundo de la tecnología.</td>
     </tr>
 
 </table>
