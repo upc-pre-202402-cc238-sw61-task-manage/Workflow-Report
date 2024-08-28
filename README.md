@@ -1204,11 +1204,11 @@ En esta sección se presentan los User Journey Mapping para cada User Persona.
 
 **Segmento objetivo: Líder de equipo**
 
-[![Journey-Map-Renzo.png](https://i.postimg.cc/438XhK2Z/Journey-Map-Renzo.png)](https://postimg.cc/d7Tbb0KS)
+[Journey-Map-Renzo.png](https://postimg.cc/d7Tbb0KS)
 
 **Segmento objetivo: Miembro de equipo**
 
-[![Journey-Map-Cielo.png](https://i.postimg.cc/htcny8Hc/Journey-Map-Cielo.png)](https://postimg.cc/bsC4dnyB)
+[Journey-Map-Cielo.png](https://postimg.cc/bsC4dnyB)
 
 #### 2.3.4 Empathy Mapping
 En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
