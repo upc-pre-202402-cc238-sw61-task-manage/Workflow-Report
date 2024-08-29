@@ -1067,7 +1067,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
 
 #### 2.2.2 Registro de entrevistas
 
-    Enlace del video de las entrevistas: Enlace
+Enlace del video de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ERy4AZSeh1dEpczjxwLeNRUB_WM5fG8o_DGLoWM-tBmgFw?e=8TziSF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Segmento Objetivo:** Team Líder
 
@@ -1079,11 +1079,12 @@ Entrevista 1:
     Inicio: 0:00
     Fin: 5:39
 
+![Entrevista Kevin](images\Kevin-Tumbalobos-Entrevista.png)
+
 Descripción
 
 <p>Kevin Tumbalobos es líder de equipo en el área de Gestión y Sistemas. Durante la entrevista, mencionó que enfrenta dificultades al asignar tareas a los miembros de su equipo, ya que este proceso a veces resulta complejo y poco fluido. Actualmente, utiliza Trello como herramienta principal para la gestión de proyectos y organiza el trabajo en "sprints" para hacer seguimiento al progreso de las tareas.</p>
 <p> Kevin considera que una aplicación de gestión de tareas ideal debería permitir la creación y asignación de tareas a los miembros del equipo, así como establecer fechas límite para su cumplimiento. Prefiere comunicarse con su equipo a través de llamadas telefónicas o mensajes de texto para mantener la coordinación. Además, le gustaría recibir notificaciones sobre el progreso de las tareas tanto por correo electrónico como a través de notificaciones en su dispositivo móvil. Finalmente, evalúa la eficiencia de su equipo basándose en la cantidad de tareas completadas y el tiempo en que estas son entregadas.</p>
-
 
 Entrevista 2:
 
@@ -1092,7 +1093,9 @@ Entrevista 2:
     Residencia: Pueblo Libre
     Inicio: 5:40
     Fin: 10:40
-    
+
+![Entrevista Francis](images\Francis-Entrevista.png)
+
 Descripción
 <p>Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.</p>
 <p>Francis considera que las características más importantes en una aplicación de gestión de proyectos serían la capacidad de asignar tareas, dar seguimiento, y ofrecer una visualización clara del progreso. Prefiere coordinarse con su equipo a través de correos electrónicos y reuniones, y valora la posibilidad de personalizar las herramientas que utiliza para ajustarlas a las necesidades específicas de su equipo. Además, le gustaría recibir notificaciones sobre el progreso de las tareas directamente en su celular. A la hora de distribuir la carga de trabajo, Francis tiene en cuenta el esfuerzo y la eficiencia de los miembros del equipo.</p>
@@ -1102,9 +1105,11 @@ Entrevista 3:
     Nombre: Oscar Aranda
     Sexo: Masculino
     Residencia: Lima, Peru
-    Inicio:
-    Fin:
+    Inicio: 10:41
+    Fin: 14:05
     
+![Entrevista Francis](images\Oscar-Entrevistas.png)
+
 Descripción
 <p>Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.</p>
 <p>Oscar considera que las características imprescindibles en una herramienta de gestión de proyectos incluyen la capacidad de realizar un seguimiento efectivo de las actividades asignadas. Para él, es crucial contar con un seguimiento en tiempo real de las tareas de su equipo. Una mejora que sugiere para las herramientas de gestión que utiliza sería la incorporación de un calendario de actividades. Oscar evalúa la eficiencia de su equipo realizando reuniones en las que se exponen y analizan los puntos en los que se ha fallado.</p>
@@ -1119,7 +1124,7 @@ Entrevista 1:
     Inicio: 14:06
     Fin: 20:35
 
-<img src="images/entrevista-cynthia-santa-cruz.jpg" alt="Entrevista Cynthia Santa Cruz">
+![Entrevista Francis](images\Cynthia-Entrevista.png)
 
 Descripción
 <p>Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.</p>
@@ -1130,22 +1135,28 @@ Entrevista 2:
     Nombre: Carla Cordova
     Sexo: Femenino
     Residencia: Lima, Peru
-    Inicio:
-    Fin:
-    
+    Inicio: 20:36
+    Fin: 25:47
+
+![Entrevista Francis](images\Carla-Entrevista.png)
+
 Descripción
 <p>Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.</p>
 <p>Carla prefiere recibir las tareas que se le asignan a través de mensajes o en reuniones por videollamada. Le gustaría ser notificada sobre el progreso de sus tareas mediante notificaciones de una aplicación móvil. Valora que una aplicación de gestión sea ordenada, intuitiva, y facilite la colaboración. Evalúa sus tareas asignadas de forma diaria y sugiere como mejora que las tareas asignadas se muestren y puedan editarse en tiempo real.</p>
 
 Entrevista 3:
 
-    Nombre:
-    Sexo:
+    Nombre: Mauricio Rojas
+    Sexo: Masculino
     Residencia
-    Inicio:
-    Fin:
-    
-Descripción Básica de la entrevista
+    Inicio: 25:50
+    Fin: 32:58
+
+![Entrevista Francis](images\Mauricio-Entrevista.png)
+
+Descripción
+<p>Mauricio Rojas es un miembro de equipo que enfrenta dificultades debido a la interfaz poco intuitiva de las herramientas que utiliza para la coordinación con su equipo. Para organizar su lista de tareas, Mauricio suele usar notas. Prefiere recibir sus tareas mediante notificaciones y mensajes por correo electrónico.</p>
+<p>Le parecería útil una herramienta que permita la colaboración en tiempo real con otros miembros del equipo. Las características que más valora en una herramienta de gestión de tareas incluyen la posibilidad de categorizar cada tarea. Evalúa su progreso en función del tiempo que le toma completar las tareas asignadas y aprecia poder gestionar todas sus tareas en un solo lugar. Mauricio equilibra el cumplimiento de sus tareas alternando entre tareas sencillas y complejas.</p>
 
 #### 2.2.3 Análisis de entrevistas
 
