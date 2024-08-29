@@ -1092,7 +1092,8 @@ Entrevista 2:
     Residencia: Pueblo Libre
     Inicio:
     Fin:
-    
+<img src="images/entrevista-francisco-mamani.jpg" alt="Entrevista Francisco Mamani">
+
 Descripción
 <p>Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.</p>
 <p>Francis considera que las características más importantes en una aplicación de gestión de proyectos serían la capacidad de asignar tareas, dar seguimiento, y ofrecer una visualización clara del progreso. Prefiere coordinarse con su equipo a través de correos electrónicos y reuniones, y valora la posibilidad de personalizar las herramientas que utiliza para ajustarlas a las necesidades específicas de su equipo. Además, le gustaría recibir notificaciones sobre el progreso de las tareas directamente en su celular. A la hora de distribuir la carga de trabajo, Francis tiene en cuenta el esfuerzo y la eficiencia de los miembros del equipo.</p>
@@ -1104,7 +1105,9 @@ Entrevista 3:
     Residencia: Lima, Peru
     Inicio:
     Fin:
-    
+
+<img src="images/entrevista-oscar-aranda.jpg" alt="Entrevista Oscar Aranda">
+
 Descripción
 <p>Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.</p>
 <p>Oscar considera que las características imprescindibles en una herramienta de gestión de proyectos incluyen la capacidad de realizar un seguimiento efectivo de las actividades asignadas. Para él, es crucial contar con un seguimiento en tiempo real de las tareas de su equipo. Una mejora que sugiere para las herramientas de gestión que utiliza sería la incorporación de un calendario de actividades. Oscar evalúa la eficiencia de su equipo realizando reuniones en las que se exponen y analizan los puntos en los que se ha fallado.</p>
@@ -1119,6 +1122,8 @@ Entrevista 1:
     Inicio:
     Fin:
 
+<img src="images/entrevista-cynthia-santa-cruz.jpg" alt="Entrevista Cynthia Santa Cruz">
+
 Descripción
 <p>Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.</p>
 <p>Cynthia considera que una herramienta de gestión de proyectos debe incluir un sistema eficaz para el seguimiento del progreso de las tareas, así como la capacidad de enviar notificaciones automáticas. Prefiere comunicarse con sus colegas cara a cara o por correo electrónico. En una aplicación de gestión, le gustaría contar con una función que permita registrar el tiempo que una persona tarda en completar una tarea. Además, prefiere recibir notificaciones sobre las tareas a través de su celular o por correo electrónico.</p>
@@ -1130,7 +1135,9 @@ Entrevista 2:
     Residencia: Lima, Peru
     Inicio:
     Fin:
-    
+
+<img src="images/entrevista-carla-cordova.jpg" alt="Entrevista Cynthia Santa Cruz">
+
 Descripción
 <p>Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.</p>
 <p>Carla prefiere recibir las tareas que se le asignan a través de mensajes o en reuniones por videollamada. Le gustaría ser notificada sobre el progreso de sus tareas mediante notificaciones de una aplicación móvil. Valora que una aplicación de gestión sea ordenada, intuitiva, y facilite la colaboración. Evalúa sus tareas asignadas de forma diaria y sugiere como mejora que las tareas asignadas se muestren y puedan editarse en tiempo real.</p>
