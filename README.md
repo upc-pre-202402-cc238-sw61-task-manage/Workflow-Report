@@ -1076,8 +1076,8 @@ Entrevista 1:
     Nombre: Kevin Tumbalobos cubas
     Sexo: Masculino
     Residencia: San Miguel
-    Inicio:
-    Fin:
+    Inicio: 0:00
+    Fin: 5:39
 
 Descripción
 
@@ -1090,8 +1090,8 @@ Entrevista 2:
     Nombre: Francis Daniel Mamani Silva
     Sexo: Masculino
     Residencia: Pueblo Libre
-    Inicio:
-    Fin:
+    Inicio: 5:40
+    Fin: 10:40
     
 Descripción
 <p>Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.</p>
@@ -1102,8 +1102,8 @@ Entrevista 3:
     Nombre: Oscar Aranda
     Sexo: Masculino
     Residencia: Lima, Peru
-    Inicio:
-    Fin:
+    Inicio: 10:41
+    Fin: 14:05
     
 Descripción
 <p>Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.</p>
@@ -1116,8 +1116,8 @@ Entrevista 1:
     Nombre: Cynthia Santa Cruz Vargas
     Sexo: Femenino
     Residencia: Peru, Lima
-    Inicio:
-    Fin:
+    Inicio: 14:06
+    Fin: 20:35
 
 Descripción
 <p>Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.</p>
@@ -1128,8 +1128,8 @@ Entrevista 2:
     Nombre: Carla Cordova
     Sexo: Femenino
     Residencia: Lima, Peru
-    Inicio:
-    Fin:
+    Inicio: 20:36
+    Fin: 25:47
     
 Descripción
 <p>Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.</p>
