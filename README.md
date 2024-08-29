@@ -48,39 +48,24 @@
     <tr>
     <tr>
         <th rowspan="6">#1 TB1</th>
-        <td>22/08/2024</td>
+        <td rowspan="6">29/08/2024</td>
         <td>Cisneros Tafur, Diego Rafael</td>
-        <td>
-            <p>TBD</p> 
+        <td rowspan="6">
+            <p>Capítulo 1</p>
+            <p>Capítulo 2</p> 
         </td>
     </tr>
     <tr>
-        <td>22/08/2024</td>
         <td>Mendoza Pimentel, Piero</td>
-        <td>
-            <p>TBD</p> 
-        </td>
     </tr>
     <tr>
-        <td>22/08/2024</td>
         <td>Neyra Santa Cruz, Marcelo Sebastian</td>
-        <td>
-            <p>TBD</p> 
-        </td>
     </tr>
     <tr>
-        <td>22/08/2024</td>
         <td>Periche Quiroga, Piero Fernando</td>
-        <td>
-            <p>TBD</p> 
-        </td>
     </tr>
     <tr>
-        <td>22/08/2024</td>
         <td>Silva Morales, Renzo Cesar</td>
-        <td>
-            <p>TBD</p> 
-        </td>
     </tr>
 </table>
 
@@ -212,22 +197,23 @@
         <td>
             <h5>Cisneros Tafur, Diego Rafael</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Sección de Competidores</p>
             <h5>Mendoza Pimentel, Piero</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Diseño y Análisis de entrevistas</p>
             <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Start Up Profile, Segmentos Objetivos y Requirements Especification</p>
             <h5>Periche Quiroga, Piero Fernando</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Solution Profile</p>
             <h5>Silva Morales, Renzo Cesar</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Needfinding</p>
         </td>
         <td>
-            <p>Aqui van las conclusiones</p>
+            <h5>TB1</h5>
+            <p>Hemos hecho la investigación necesaria para el desarrollo de la primera entrega del trabajo. Se actualizaron diversos puntos anteriores para que se adecúe más al tema seleccionado</p>
         </td>
     </tr>
     <tr>
@@ -237,22 +223,23 @@
         <td>
             <h5>Cisneros Tafur, Diego Rafael</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Desarrollo de 1 entrevista</p>
             <h5>Mendoza Pimentel, Piero</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Desarrollo de 1 entrevista</p>
             <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Desarrollo de 1 entrevista</p>
             <h5>Periche Quiroga, Piero Fernando</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Desarrollo de 2 entrevistas</p>
             <h5>Silva Morales, Renzo Cesar</h5>
             <h5>TB1</h5>
-            <p>Escribe aquí lo que hiciste</p>
+            <p>Desarrollo de 1 entrevista</p>
         </td>
         <td>
-            <p>Aqui van las conclusiones</p>
+            <h5>TB1</h5>
+            <p>Se realizaron diversas entrevistas para comprender más a los potenciales clientes. También, se desarrolló un completo análisis a todos los puntos de vista planteados por los clientes. Con toda la información obtenida, podremos realizar nuestra aplicación móvil</p>
         </td>
     </tr>
 </table>
