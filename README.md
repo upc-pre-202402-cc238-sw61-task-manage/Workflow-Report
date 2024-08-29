@@ -1185,11 +1185,12 @@ Con el propósito de desarrollar una app que satisfaga las necesidades particula
 En esta sección se presentan personajes ficticios, uno para cada segmento objetivo. Los User Personas se han creado a partir de la información recopilada en entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue profundizar en el conocimiento sobre las personas a las que está destinada la aplicación. La información obtenida incluye aspectos como demografía, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación y los canales digitales que más utilizan, entre otros. 
 
 **Segmento objetivo: Líder de equipo**
+**User Persona Principal**
 
 ![User Persona Lider](/images/user01.png)
 
 **Segmento objetivo: Miembro de equipo**
-
+**User Persona Secundaria**
 ![User Persona Miembro](/images/user02.png)
 
 
