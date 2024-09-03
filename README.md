@@ -1065,7 +1065,8 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 0:00
     Fin: 5:39
 
-<img src="images/entrevista-kevin-tumbalobos.jpg" alt="Kevin Tumbalobos">
+![Kevin Tumbalobos](images/entrevista-kevin-tumbalobos.jpg)
+
 
 - Descripción
     Kevin Tumbalobos es líder de equipo en el área de Gestión y Sistemas. Durante la entrevista, mencionó que enfrenta dificultades al asignar tareas a los miembros de su equipo, ya que este proceso a veces resulta complejo y poco fluido. Actualmente, utiliza Trello como herramienta principal para la gestión de proyectos y organiza el trabajo en "sprints" para hacer seguimiento al progreso de las tareas.
@@ -1080,7 +1081,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 5:40
     Fin: 10:40
 
-<img src="images/entrevista-francisco-mamani.jpg" alt="Francis Mamani">
+![Francis Mamani](images/entrevista-francisco-mamani.jpg)
 
 - Descripción
     Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.
@@ -1093,8 +1094,8 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Residencia: Lima, Peru
     Inicio: 10:41
     Fin: 14:05
-    
-<img src="images/entrevista-oscar-aranda.jpg" alt="Oscar Aranda">
+
+![Oscar Aranda](images/entrevista-oscar-aranda.jpg)
 
 - Descripción
     Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.
@@ -1110,7 +1111,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 14:06
     Fin: 20:35
 
-<img src="images/entrevista-cynthia-santa-cruz.jpg" alt="Cynthia Santa Cruz">
+![Cynthia Santa Cruz](images/entrevista-cynthia-santa-cruz.jpg)
 
 - Descripción
     Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.
@@ -1123,8 +1124,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Residencia: Lima, Peru
     Inicio: 20:36
     Fin: 25:47
-
-<img src="images/entrevista-carla-cordova.jpg" alt="Carla Cordova">
+![Carla Cordova](images/entrevista-carla-cordova.jpg)
 
 - Descripción
     Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.
@@ -1138,7 +1138,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 25:50
     Fin: 32:58
 
-<img src="images/entrevista-mauricio-rojas.jpg" alt="Mauricio Rojas">
+![Mauricio Rojas](images/entrevista-mauricio-rojas.jpg)
 
 - Descripción
     Mauricio Rojas es un miembro de equipo que enfrenta dificultades debido a la interfaz poco intuitiva de las herramientas que utiliza para la coordinación con su equipo. Para organizar su lista de tareas, Mauricio suele usar notas. Prefiere recibir sus tareas mediante notificaciones y mensajes por correo electrónico.
@@ -1217,11 +1217,10 @@ En esta sección se presentan los User Journey Mapping para cada User Persona.
 
 **Segmento objetivo: Líder de equipo**
 
-[![Journey-Map-Renzo.png](https://i.postimg.cc/438XhK2Z/Journey-Map-Renzo.png)](https://postimg.cc/d7Tbb0KS)
+![Journey Mapping: Renzo](images/journey-mapping-renzo.png)
 
 **Segmento objetivo: Miembro de equipo**
-
-[![Journey-Map-Cielo.png](https://i.postimg.cc/htcny8Hc/Journey-Map-Cielo.png)](https://postimg.cc/bsC4dnyB)
+![Journey Mapping: Cielo](images/journey-mapping-cielo.png)
 
 #### 2.3.4 Empathy Mapping
 En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
@@ -1240,10 +1239,10 @@ En esta sección se presenta el As-Is Scenario Mapping para los segmentos objeti
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
 
 1. Líder de equipo de trabajo
-<img src="images/as-is-renzo.jpg" alt="AS-IS Scenario Mapping: Renzo">
+![AS-IS Scenario Mapping: Renzo](images/as-is-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-<img src="images/as-is-cielo.jpg" alt="AS-IS Scenario  Mapping: Cielo">
+![AS-IS Scenario Mapping: Cielo](images/as-is-cielo.jpg)
 
 ### <a name="requirements-specification"></a> 2.4 Requirements Specification
 
@@ -1253,10 +1252,10 @@ Los cuadros del To-Be Scenario Mapping los desarrollamos para indicar cómo es q
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
 
 1. Líder de equipo de trabajo
-<img src="images/to-be-renzo.jpg" alt="TO-BE Scenario Mapping: Renzo">
+![TO-BE Scenario Mapping: Renzo](images/to-be-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-<img src="images/to-be-cielo.jpg" alt="TO-BE Scenario  Mapping: Cielo">
+![TO-BE Scenario  Mapping: Cielo](images/to-be-cielo.jpg)
 
 ### 2.4 User Stories
 <table>
@@ -2592,16 +2591,15 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
 Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
 
 1. Líder de equipo de trabajo
-<img src="images/impact-mapping-renzo.jpg" alt="Impact Mapping: Renzo">
+![Impact Mapping: Renzo](images/impact-mapping-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-<img src="images/impact-mapping-cielo.jpg" alt="Impact Mapping: Cielo">
+![Impact Mapping: Cielo](images/impact-mapping-cielo.jpg)
 
 ### 2.4.4 Product Backlog
 Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
 Imagen del product backlog desarrollado en Trello:
-
-<img src="images/product-backlog.jpg" alt="product backlog">
+![product backlog](images/product-backlog.jpg)
 
 <table>
     <tr>
