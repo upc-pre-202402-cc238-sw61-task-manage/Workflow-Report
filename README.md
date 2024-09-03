@@ -2845,3 +2845,54 @@ Imagen del product backlog desarrollado en Trello:
     </tr>
 </table>
 
+## <a name="cap3"></a> Capítulo 3: Arquitectura
+### <a name="product-design"></a> 3.1 Product Design
+#### 3.1.1 Style Guidelines
+##### 3.1.1.1 General Style Guidelines
+
+Los "General Style Guidelines" (Lineamientos Generales de Estilo) son un conjunto de principios que te ayudan a escribir de manera clara, concisa y efectiva.
+
+Nuestra aplicación Workflow tiene como objetivo facilitar la organización en el desarrollo del trabajo colaborativo empresarial. Para ello, nuestra compañía ha decidido elegir un conjunto de colores discretos que resalten el contenido importante para el usuario.
+
+- ### Tipografía
+
+    - **Tipo de letra:**
+
+        Para los títulos y subtítulos, se ha elegido la tipografía Source Sans Pro Black con tamaño 80 y 40, respectivamente. Por otro lado, la tipografía del texto utilizado en párrafos, mensajes y enunciados es Source Sans, con un tamaño 20.
+
+    - **Color de letra:**
+        
+        Los dos colores principales que se utilizarán son el blanco y negro. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
+
+        ![Style Guidelines: Color de Letra](images/style-color-letras.png)
+    
+    - **Espaciado:**
+
+        No se incluye ningún tipo de espaciado especial.
+        
+- ### Colores
+    Se ha escogido colores oscuros en la escala de azules para el fondo. La razón de elección es debido a que el color azul trasmite una sensación de serenidad, comunicación, reflexión y eficiencia; sentimientos los cuales son bastantes cercanos a lo que el equipo desea que el usuario logre conseguir al utilizar la aplicación, orden y calma.
+
+    - Colores Principales:
+        La escala principal utilizada es la colores azules. Estos colores serán utilizados principalmente para los fondos.
+
+        ![Styles: Main Colors](images/style-color-main.png)
+
+    - Colores Complementarios:
+        Como la aplicación está enfocada a mejorar la gestión, utilizar solo un color para organizar todo puede ser bastante confuso, por lo que el equipo ha decidido implementar colores secundarios, los cuales ayudarán al usuario a reconocer con mayor facilidad los puntos importantes de la aplicación, como las notificaciones o tareas
+         
+        ![Style: Complementary Colors](images/style-color-complementary.png)
+
+- ### Lenguaje Aplicado:
+
+    El tipo de lenguaje elegido es de caracter formal. Esta decisión se tomó debido a que, como nuestra aplicación está dirigida a un sector empresarial, es necesario que la aplicación no utilice lenguage coloquial, ya que este no es utilizado dentro de un entorno laboral formal. Además, el lenguaje formal es más sencillo de entender, ya que elimina todo tipo de discrepancias, lo que conlleva a un mejor entendimiento de la aplicación y, por lo tanto, una mejor organización del equipo.
+
+- ### Logotipo de la Aplicación:
+    El logotipo de la empresa fue diseñado con la intención de trasmitir prestigio. Por ello, cuenta con un diseño que se asemeja a un metal.
+    
+    ![Logotipo: Task Management](images/logo-task-management.png)
+
+- ### Logotipo de la Aplicación:
+    Del mismo modo que el logo de la empresa, el logo de la aplicación Workflow se asemeja a un metal precioso, siendo en esta ocasión el cobalto.
+
+    ![Logotipo: Workflow](images/logo-workflow.png)
