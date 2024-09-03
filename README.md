@@ -354,7 +354,7 @@
 </table>
 
 
-## <a name="cap1"></a> Capítulo 1: Presentación
+## [Capítulo 1: Presentación](/cap1)
 <p style="text-align: justify">
 Esta es la sección de presentación. Se mostrarán todos los puntos relacionados con la descripción básica de la empresa, como los integrantes y objetivos.
 </p>
@@ -2844,3 +2844,4 @@ Imagen del product backlog desarrollado en Trello:
         <td>2</td>
     </tr>
 </table>
+
