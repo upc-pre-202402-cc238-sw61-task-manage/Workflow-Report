@@ -2896,3 +2896,128 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
     Del mismo modo que el logo de la empresa, el logo de la aplicación Workflow se asemeja a un metal precioso, siendo en esta ocasión el cobalto.
 
     ![Logotipo: Workflow](images/logo-workflow.png)
+
+#### 3.2.2. Software Object-Oriented Design
+##### 3.2.2.1. Class Diagrams
+![Class Diagram](images/class-diagram.png)
+##### 3.2.2.2. Class Dictionary
+## Clase: User
+- **Tipo**: Entity
+- **Atributos**:
+  - `Calendar calendar`
+  - `Workteam workTeam`
+  - `Role role`
+  - `Suscription suscription`
+- **Descripción**: La clase `User` representa a un usuario en el sistema. Está asociada a un calendario, un equipo de trabajo, un rol y una suscripción, lo que sugiere que el usuario puede ser parte de un proyecto o equipo.
+
+---
+
+## Clase: BasicUserInfo
+- **Tipo**: ValueObject
+- **Atributos**:
+  - `String firstName`
+  - `String lastName`
+  - `String phoneNumber`
+- **Métodos**:
+  - `getFullName()`
+  - `validateUser()`
+- **Descripción**: `BasicUserInfo` es un objeto de valor que almacena la información básica del usuario, como el nombre, apellido y número de teléfono. Incluye métodos para obtener el nombre completo y validar la información del usuario.
+
+---
+
+## Clase: Password
+- **Tipo**: ValueObject
+- **Atributos**:
+  - `String password`
+  - `Date lastModified`
+- **Descripción**: Este objeto de valor almacena la contraseña del usuario junto con la fecha de su última modificación, lo que podría estar relacionado con la gestión de seguridad y autenticación.
+
+---
+
+## Clase: EmailAddress
+- **Tipo**: ValueObject
+- **Atributos**:
+  - `String email`
+  - `Date lastModified`
+- **Descripción**: Similar a la clase `Password`, esta clase representa una dirección de correo electrónico asociada al usuario y registra cuándo fue modificada por última vez.
+
+---
+
+## Clase: WorkTeam
+- **Tipo**: Entity
+- **Atributos**:
+  - `User user`
+  - `String name`
+  - `List<Project> projectsList`
+- **Descripción**: `WorkTeam` representa un equipo de trabajo que está compuesto por usuarios y una lista de proyectos. Sugiere una estructura organizativa donde los usuarios colaboran en diferentes proyectos.
+
+---
+
+## Clase: Project
+- **Tipo**: Entity
+- **Atributos**:
+  - `String projectName`
+  - `Task tasks`
+- **Descripción**: Esta clase modela un proyecto que tiene un nombre y una serie de tareas asociadas, lo que puede indicar la gestión de actividades o fases dentro del proyecto.
+
+---
+
+## Clase: Task
+- **Tipo**: Entity
+- **Atributos**:
+  - `String description`
+  - `Date dueDate`
+  - `User assignedUser`
+- **Descripción**: `Task` representa una tarea dentro de un proyecto. Tiene una descripción, una fecha de vencimiento y un usuario asignado. Podría referirse a la planificación y seguimiento de las actividades dentro de un proyecto.
+
+---
+
+## Clase: AuditableGroupOperation
+- **Tipo**: AggregateRoot
+- **Atributos**:
+  - `String uuid`
+  - `Date createdAt`
+  - `Date updatedAt`
+- **Descripción**: Esta clase almacena información auditada de operaciones de grupo, probablemente relacionada con acciones que deben ser rastreadas o verificadas en el tiempo.
+
+---
+
+## Clase: TypeRole
+- **Tipo**: ValueObject
+- **Atributos**:
+  - `Long id`
+  - `String description`
+- **Descripción**: `TypeRole` es un objeto de valor que describe el tipo de rol asociado a un usuario en el sistema, posiblemente determinando los permisos o accesos que tiene.
+
+---
+
+## Clase: Role
+- **Tipo**: Entity
+- **Atributos**:
+  - `Long id`
+  - `User user`
+  - `TypeRole role`
+- **Descripción**: `Role` define el rol de un usuario en el sistema, indicando qué tipo de permisos tiene y a qué equipo o función pertenece.
+
+---
+
+## Clase: Suscription
+- **Tipo**: Entity
+- **Atributos**:
+  - `String name`
+  - `Double price`
+  - `Bool isActive`
+- **Descripción**: `Suscription` modela una suscripción asociada a un usuario. Incluye el nombre de la suscripción, su precio y un indicador de si está activa o no.
+
+---
+
+## Clase: Receipt
+- **Tipo**: Entity
+- **Atributos**:
+  - `Double total`
+  - `Date dateGenerated`
+  - `Bool paid`
+- **Descripción**: `Receipt` representa un recibo que detalla el total de un pago, la fecha en la que fue generado y si ha sido pagado o no. Puede estar vinculado a la suscripción del usuario.
+
+##### 3.2.2.3. Database Design
+##### 3.2.2.4. Database Diagram
