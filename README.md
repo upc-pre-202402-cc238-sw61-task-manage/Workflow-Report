@@ -3020,4 +3020,6 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 - **Descripción**: `Receipt` representa un recibo que detalla el total de un pago, la fecha en la que fue generado y si ha sido pagado o no. Puede estar vinculado a la suscripción del usuario.
 
 ##### 3.2.2.3. Database Design
+
 ##### 3.2.2.4. Database Diagram
+![Database Diagram](images/database-diagram.png)
