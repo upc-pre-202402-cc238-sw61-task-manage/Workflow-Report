@@ -2897,6 +2897,135 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 
     ![Logotipo: Workflow](images/logo-workflow.png)
 
+
+#### 3.1.4. Mobile Applications UX/UI Design
+
+##### 3.1.4.1. Mobile Applications Wireframes
+
+- Iniciar sesión
+
+    ![alt text](<images/Wireframes/Sign In.png>)
+- Registrarse
+
+    ![alt text](images/Wireframes/Register.png)
+- Menu de navegación
+
+    ![alt text](<images/Wireframes/Navigation drawer.png>)
+
+- Ver los proyectos
+
+    ![alt text](<images/Wireframes/Project Management.png>)
+- Agregar un proyecto
+
+    ![alt text](<images/Wireframes/Project Management - Add Project.png>)
+- Ver detalles de un proyecto
+
+    ![alt text](<images/Wireframes/Project View.png>)
+- Agregar una tarea a un proyecto 
+
+    ![alt text](<images/Wireframes/Project View - Add Task.png>)
+- Agregar un compañero de equipo a un proyecto
+
+    ![alt text](<images/Wireframes/Project View - Add Member.png>)
+- Ver compañeros de equipo
+
+    ![alt text](images/Wireframes/Teammates.png)
+- Enviar solicitud a un compañero de equipo
+
+    ![alt text](images/Wireframes/Teammates-1.png)
+- Ver detalles de un compañero de equipo
+
+    ![alt text](<images/Wireframes/Teammate View.png>)
+- Ver el calendario
+
+    ![alt text](images/Wireframes/Calendar.png)
+- Agregar un evento al calendario
+
+    ![alt text](<images/Wireframes/Calendar- Add event.png>)
+- Configuracion de perfil
+
+    ![alt text](images/Wireframes/Configuration.png)
+
+##### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+- User goal: 
+    ![alt text](<images/Wireflow/Iniciar sesion.png>)
+Descripción:
+
+- User goal: 
+    ![alt text](images/Wireflow/Registrarse.png)
+Descripción:
+
+- User goal: 
+    ![alt text](images/Wireflow/Proyectos.png)
+Descripción:
+
+- User goal: 
+    ![alt text](<images/Wireflow/Detalles de proyecto.png>)
+Descripción:
+
+- User goal: 
+    ![alt text](<images/Wireflow/Miembros equipos.png>)
+Descripción:
+
+- User goal: 
+    ![alt text](images/Wireflow/Calendario.png)
+Descripción:
+
+- User goal: 
+    ![alt text](images/Wireflow/Configuracion.png)
+Descripción:
+
+##### 3.1.4.3. Mobile Applications Mock-ups
+
+- Iniciar sesión
+
+    ![alt text](<images/Mock-ups/Sign In.png>)
+- Registrarse
+
+    ![alt text](images/Mock-ups/Register.png)
+- Menu de navegación
+
+    ![alt text](<images/Mock-ups/Navigation drawer.png>)
+
+- Ver los proyectos
+
+    ![alt text](<images/Mock-ups/Project Management.png>)
+- Agregar un proyecto
+
+    ![alt text](<images/Mock-ups/Project Management - Add Project.png>)
+- Ver detalles de un proyecto
+
+    ![alt text](<images/Mock-ups/Project View.png>)
+- Agregar una tarea a un proyecto 
+
+    ![alt text](<images/Mock-ups/Project View - Add Task.png>)
+- Agregar un compañero de equipo a un proyecto
+
+    ![alt text](<images/Mock-ups/Project View - Add Member.png>)
+- Ver compañeros de equipo
+
+    ![alt text](images/Mock-ups/Teammates.png)
+- Enviar solicitud a un compañero de equipo
+
+    ![alt text](images/Mock-ups/Teammates-1.png)
+- Ver detalles de un compañero de equipo
+
+    ![alt text](<images/Mock-ups/Teammate View.png>)
+- Ver el calendario
+
+    ![alt text](images/Mock-ups/Calendar.png)
+- Agregar un evento al calendario
+
+    ![alt text](<images/Mock-ups/Calendar- Add event.png>)
+- Configuracion de perfil
+
+    ![alt text](images/Mock-ups/Configuration.png)
+
+##### 3.1.4.4. Mobile Applications User Flow Diagrams
+##### 3.1.4.5. Mobile Applications Prototyping
+
+
 #### 3.2.2. Software Object-Oriented Design
 ##### 3.2.2.1. Class Diagrams
 ![Class Diagram](images/class-diagram.png)
