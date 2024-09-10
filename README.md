@@ -2948,33 +2948,33 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 
 ##### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
-- User goal: 
+- User goal: Iniciar sesion 
     ![alt text](<images/Wireflow/Iniciar sesion.png>)
-Descripción:
+Descripción: Al iniciar la aplicación, el usuario se encuentra en la pantalla de inicio de sesión, donde podrá ingresar su correo electrónico y contraseña para acceder a la aplicación.
 
-- User goal: 
+- User goal: Registro de un nuevo usuario
     ![alt text](images/Wireflow/Registrarse.png)
-Descripción:
+Descripción: En la pantalla de registro, el usuario podrá crear una nueva cuenta ingresando su nombre completo, correo electrónico y contraseña. Si los datos no están registrados previamente, aparecerá un cuadro de diálogo confirmando que la cuenta ha sido creada. En caso contrario, el cuadro de diálogo mostrará un mensaje de error.
 
-- User goal: 
+- User goal: Ver proyectos y crear un nuevo proyecto
     ![alt text](images/Wireflow/Proyectos.png)
-Descripción:
+Descripción: Desde la vista de proyectos, el usuario puede ver la información general de los proyectos existentes y crear uno nuevo con el botón de añadir. Aparecerá un cuadro de diálogo en el que, al ingresar correctamente el nombre, la descripción y la fecha límite, podrá crear un nuevo proyecto.
 
-- User goal: 
+- User goal: Ver detalles de proyecto, agregar una nueva tarea y agregar un miembro de equipo
     ![alt text](<images/Wireflow/Detalles de proyecto.png>)
-Descripción:
+Descripción:Al presionar sobre un proyecto, el usuario accederá a la vista de detalles del proyecto, donde podrá ver y crear las tareas, así como gestionar los miembros del equipo relacionados con ese proyecto. Al hacer clic en el botón de añadir, ya sea en la lista de tareas o en la lista de miembros, se mostrará un cuadro de diálogo en el que podrá ingresar los datos correspondientes para crear una nueva tarea o agregar un nuevo miembro.
 
-- User goal: 
+- User goal: Ver miembros de equipo y enviar una solicitud
     ![alt text](<images/Wireflow/Miembros equipos.png>)
-Descripción:
+Descripción: En la vista de miembros del equipo, el usuario podrá ver a los miembros que puede agregar a sus proyectos y tareas correspondientes. Asimismo, podrá enviar una solicitud para agregar a un nuevo miembro.
 
-- User goal: 
+- User goal: Ver calendario de actividades y crear un evento
     ![alt text](images/Wireflow/Calendario.png)
-Descripción:
+Descripción: En la vista de calendario, el usuario podrá ver de forma visual las tareas y eventos próximos en un calendario. Asimismo, el usuario podrá crear un nuevo evento al presionar el botón de añadir en la lista de eventos. Aparecerá un cuadro de diálogo en el que, al ingresar los datos correctos, se creará un nuevo evento.
 
-- User goal: 
+- User goal: Modificar datos personales
     ![alt text](images/Wireflow/Configuracion.png)
-Descripción:
+Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 
 ##### 3.1.4.3. Mobile Applications Mock-ups
 
@@ -3023,8 +3023,37 @@ Descripción:
     ![alt text](images/Mock-ups/Configuration.png)
 
 ##### 3.1.4.4. Mobile Applications User Flow Diagrams
+
+- User goal: Iniciar sesion 
+    ![alt text](<images/Userflow/Iniciar sesion.png>)
+Descripción: Al iniciar la aplicación, el usuario se encuentra en la pantalla de inicio de sesión, donde podrá ingresar su correo electrónico y contraseña para acceder a la aplicación.
+
+- User goal: Registro de un nuevo usuario
+    ![alt text](images/Userflow/Registrarse.png)
+Descripción: En la pantalla de registro, el usuario podrá crear una nueva cuenta ingresando su nombre completo, correo electrónico y contraseña. Si los datos no están registrados previamente, aparecerá un cuadro de diálogo confirmando que la cuenta ha sido creada. En caso contrario, el cuadro de diálogo mostrará un mensaje de error.
+
+- User goal: Ver proyectos y crear un nuevo proyecto
+    ![alt text](images/Userflow/Proyectos.png)
+Descripción: Desde la vista de proyectos, el usuario puede ver la información general de los proyectos existentes y crear uno nuevo con el botón de añadir. Aparecerá un cuadro de diálogo en el que, al ingresar correctamente el nombre, la descripción y la fecha límite, podrá crear un nuevo proyecto.
+
+- User goal: Ver detalles de proyecto, agregar una nueva tarea y agregar un miembro de equipo
+    ![alt text](<images/Userflow/Detalles de proyecto.png>)
+Descripción:Al presionar sobre un proyecto, el usuario accederá a la vista de detalles del proyecto, donde podrá ver y crear las tareas, así como gestionar los miembros del equipo relacionados con ese proyecto. Al hacer clic en el botón de añadir, ya sea en la lista de tareas o en la lista de miembros, se mostrará un cuadro de diálogo en el que podrá ingresar los datos correspondientes para crear una nueva tarea o agregar un nuevo miembro.
+
+- User goal: Ver miembros de equipo y enviar una solicitud
+    ![alt text](<images/Userflow/Miembros equipos.png>)
+Descripción: En la vista de miembros del equipo, el usuario podrá ver a los miembros que puede agregar a sus proyectos y tareas correspondientes. Asimismo, podrá enviar una solicitud para agregar a un nuevo miembro.
+
+- User goal: Ver calendario de actividades y crear un evento
+    ![alt text](images/Userflow/Calendario.png)
+Descripción: En la vista de calendario, el usuario podrá ver de forma visual las tareas y eventos próximos en un calendario. Asimismo, el usuario podrá crear un nuevo evento al presionar el botón de añadir en la lista de eventos. Aparecerá un cuadro de diálogo en el que, al ingresar los datos correctos, se creará un nuevo evento.
+
+- User goal: Modificar datos personales
+    ![alt text](images/Userflow/Configuracion.png)
+Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 ##### 3.1.4.5. Mobile Applications Prototyping
 
+En la sección se mostrará la funcionalidad del prototipo en aplicación web Link:
 
 #### 3.2.2. Software Object-Oriented Design
 ##### 3.2.2.1. Class Diagrams
