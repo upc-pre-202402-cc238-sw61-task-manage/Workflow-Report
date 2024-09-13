@@ -3053,8 +3053,9 @@ Descripción: En la vista de calendario, el usuario podrá ver de forma visual l
 Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 ##### 3.1.4.5. Mobile Applications Prototyping
 
-En la sección se mostrará la funcionalidad del prototipo en aplicación web Link:
+Link del prototipo hecho en Figma: https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=9uknxlSso2kidvT9-1
 
+Link del video mostrando el prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ER5rkWtzf2hOi03VY70NOE4Bhj7XcEdTuPDlcHCJHG69fQ?e=eB8nsF
 #### 3.2.2. Software Object-Oriented Design
 ##### 3.2.2.1. Class Diagrams
 ![Class Diagram](images/class-diagram.png)
