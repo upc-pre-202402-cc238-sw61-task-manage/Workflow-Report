@@ -184,6 +184,11 @@
 ### [9. Anexos](#anexos)
 
 ## Student Outcome
+
+En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
+
+> **ABET – EAC - Student Outcome 7:** La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
 <table>
     <tr>
         <th>Criterio Específico</th>
@@ -299,8 +304,8 @@
     <tr>
         <td>Cisneros Tafur, Diego Rafael</td>
         <td>Descripción de Objetivo</td>
-        <td>Inicio</td>
-        <td>Fin</td>
+        <td>12/08/2024</td>
+        <td>21/11/2024</td>
         <td>S</td>
         <td>M</td>
         <td>A</td>
@@ -310,8 +315,8 @@
     <tr>
         <td>Mendoza Pimentel, Piero</td>
         <td>Descripción de Objetivo</td>
-        <td>Inicio</td>
-        <td>Fin</td>
+        <td>12/08/2024</td>
+        <td>21/11/2024</td>
         <td>S</td>
         <td>M</td>
         <td>A</td>
@@ -321,8 +326,8 @@
     <tr>
         <td>Neyra Santa Cruz, Marcelo Sebastian</td>
         <td>Descripción de Objetivo</td>
-        <td>Inicio</td>
-        <td>Fin</td>
+        <td>12/08/2024</td>
+        <td>21/11/2024</td>
         <td>S</td>
         <td>M</td>
         <td>A</td>
@@ -332,8 +337,8 @@
     <tr>
         <td>Periche Quiroga, Piero Fernando</td>
         <td>Descripción de Objetivo</td>
-        <td>Inicio</td>
-        <td>Fin</td>
+        <td>12/08/2024</td>
+        <td>21/11/2024</td>
         <td>S</td>
         <td>M</td>
         <td>A</td>
@@ -343,8 +348,8 @@
     <tr>
         <td>Silva Morales, Renzo Cesar</td>
         <td>Descripción de Objetivo</td>
-        <td>Inicio</td>
-        <td>Fin</td>
+        <td>12/08/2024</td>
+        <td>21/11/2024</td>
         <td>S</td>
         <td>M</td>
         <td>A</td>
@@ -381,7 +386,7 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
     </tr>
     <tr style="text-align: justify">
         <td>
-        <img src="images/perfiles-diegocisneros.jpg" alt="Diego Cisneros" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px">
+        <img src="images/perfiles/diego-cisneros.jpg" alt="Diego Cisneros" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px">
         </td>
         <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), con dominio en lenguajes de programación como C++, Rust, Python, TypeScript y JavaScript. Poseo un sólido conocimiento en estructuras de datos, lo que me permite desarrollar soluciones eficientes y optimizadas. Además, tengo un interés particular en ciberseguridad y programación competitiva, áreas en las que continuamente busco mejorar mis habilidades y aplicar mis conocimientos para resolver desafíos complejos.</td>
     </tr>
@@ -389,28 +394,28 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
         <th colspan="2">Mendoza Pimentel, Piero</th>
     </tr>
     <tr style="text-align: justify">
-        <td><img src="images/perfiles-pieromendoza.jpg" alt="Piero Mendoza" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
+        <td><img src="images/perfiles/piero-mendoza.jpg" alt="Piero Mendoza" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
         <td> Soy estudiante de Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. </td>
     </tr>
     <tr>
         <th colspan="2">Marcelo Sebastian Neyra Santa Cruz</th>
     </tr>
     <tr style="text-align: justify">
-        <td><img src="images/perfiles-marcelo.jpg" alt="Marcelo Neyra" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
+        <td><img src="images/perfiles/marcelo-neyra.jpg" alt="Marcelo Neyra" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
         <td> Mi nombre es Marcelo Sebastian Neyra Santa Cruz, Actualmente estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Entre mis habilidades, podemos destacar el buen uso de C++ y HTML. Me considero como una persona perseverante, trabajadora y amable. Mi sueño/meta es convertirme en un desarrollador de videojuegos en la empresa Nintendo.</td>
     </tr>
     <tr>
         <th colspan="2">Periche Quiroga, Piero Fernando</th>
     </tr>
     <tr style="text-align: justify">
-        <td> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%"> </td>
+        <td> <img src="images/perfiles/piero-periche.png" style="width:60%"> </td>
         <td> Mi nombre es Piero Periche Quiroga, estudiante de la carrera de Ingenieria de Software, 6to semestre en la Universidad Peruana de Ciencias Aplicadas. Tengo buen desempeño trabajando en equipo, aportando con ideas y tareas de manera asertiva. Tengo conocimientos en lenguajes como HTML y C++. Me considero responsable y puntual. </td>
     </tr>
     <tr>
         <th colspan="2">Silva Morales, Renzo Cesar</th>
     </tr>
     <tr style="text-align: justify">
-        <td><img src="images/perfiles-renzo.jpg" alt="Renzo Silva" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
+        <td><img src="images/perfiles/renzo-silva.jpg" alt="Renzo Silva" style="max-width: 100px; max-height: 100px; min-width: 50px; min-height: 50px"></td>
         <td> Mi nombre es Renzo Silva y soy un estudiante que actualmente está cursando el sexto ciclo de la carrera de Ingeniería de Software de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas. Entre mis habilidades, podemos destacar el buen uso de C++ y Python. Me considero como una persona responsable, amable y entusiasta de la tecnología. En mis tiempos libres me gusta investigar sobre las novedades del mundo de la tecnología.</td>
     </tr>
 
@@ -727,17 +732,17 @@ Basándonos en la investigación realizadas en el capitulo anterior, se ha ident
 1. Trello
 Es una plataforma en línea para gestionar proyectos que emplea tarjetas para organizar y priorizar tareas. Cada tarjeta representa una tarea o proyecto y se puede colocar en listas que representan etapas del proceso como "pendiente", "en proceso" o "completado". Las tarjetas admiten descripciones, archivos, comentarios y fechas límite.
 
-![Imagen Trello Competidor](/images/asst_trello_comp.jpg)
+![Imagen Trello Competidor](/images/competencia/trello.jpg)
 
 2. Miro
 Se trata de un programa de colaboración en línea empleado para generar y compartir diagramas, mapas conceptuales, presentaciones, modelos de productos y otras cosas más. Conocido anteriormente como "RealtimeBoard", Miro posibilita la colaboración en tiempo real entre equipos en un entorno de trabajo digital, sin importar dónde se encuentren geográficamente.
 
-![Imagen Miro Competidor](/images/asst_miro_comp.jpg)
+![Imagen Miro Competidor](/images/competencia/miro.jpg)
 
 3. Basecamp
 Es una herramienta en línea para la gestión de proyectos que fomenta la colaboración y la eficiencia. Permite a los equipos crear proyectos y tareas, compartir archivos, mantener conversaciones y realizar un seguimiento del avance
 
-![Imagen Basecamp Competidor](/images/asst_basecamp_comp.jpg)
+![Imagen Basecamp Competidor](/images/competencia/basecamp.jpg)
 
 #### 2.1.1 Análisis competitivo
 
@@ -1065,7 +1070,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 0:00
     Fin: 5:39
 
-![Kevin Tumbalobos](images/entrevista-kevin-tumbalobos.jpg)
+![Kevin Tumbalobos](images/entrevistas/entrevista-kevin-tumbalobos.jpg)
 
 
 - Descripción
@@ -1081,7 +1086,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 5:40
     Fin: 10:40
 
-![Francis Mamani](images/entrevista-francisco-mamani.jpg)
+![Francis Mamani](images/entrevistas/entrevista-francisco-mamani.jpg)
 
 - Descripción
     Francis Daniel Mamani Silva es líder de equipo y destaca que los mayores desafíos al gestionar un equipo de trabajo son mantener una comunicación clara y efectiva entre los miembros del equipo, así como gestionar adecuadamente los tiempos. Actualmente, utiliza herramientas como Trello y Asana para planificar y organizar las tareas. Para hacer seguimiento del progreso de su equipo, realiza reuniones periódicas por videollamada.
@@ -1095,7 +1100,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 10:41
     Fin: 14:05
 
-![Oscar Aranda](images/entrevista-oscar-aranda.jpg)
+![Oscar Aranda](images/entrevistas/entrevista-oscar-aranda.jpg)
 
 - Descripción
     Oscar Aranda es líder de equipo en un proyecto universitario. Menciona que los mayores desafíos al gestionar su equipo son la falta de seguimiento y la escasa colaboración entre los miembros. Para comunicarse con su equipo, utiliza herramientas como Discord o Google Meet, y para asignar tareas, emplea Trello.
@@ -1111,7 +1116,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 14:06
     Fin: 20:35
 
-![Cynthia Santa Cruz](images/entrevista-cynthia-santa-cruz.jpg)
+![Cynthia Santa Cruz](images/entrevistas/entrevista-cynthia-santa-cruz.jpg)
 
 - Descripción
     Cynthia Santa Cruz Vargas es miembro de equipo en la empresa HMI en Perú. El mayor desafío que enfrenta en su trabajo es la organización de las tareas, junto con la falta de conocimiento por parte de algunos compañeros. Actualmente, utiliza herramientas como Office, Project, y el sistema interno de la empresa, Sofia, para la organización de su trabajo.
@@ -1124,7 +1129,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Residencia: Lima, Peru
     Inicio: 20:36
     Fin: 25:47
-![Carla Cordova](images/entrevista-carla-cordova.jpg)
+![Carla Cordova](images/entrevistas/entrevista-carla-cordova.jpg)
 
 - Descripción
     Carla Cordova es miembro de equipo y menciona que una de las dificultades que enfrenta al organizar sus tareas es que a menudo se le acumulan porque no logra ordenarlas de manera eficiente. Para gestionar su tiempo y responsabilidades, utiliza Trello.
@@ -1138,7 +1143,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     Inicio: 25:50
     Fin: 32:58
 
-![Mauricio Rojas](images/entrevista-mauricio-rojas.jpg)
+![Mauricio Rojas](images/entrevistas/entrevista-mauricio-rojas.jpg)
 
 - Descripción
     Mauricio Rojas es un miembro de equipo que enfrenta dificultades debido a la interfaz poco intuitiva de las herramientas que utiliza para la coordinación con su equipo. Para organizar su lista de tareas, Mauricio suele usar notas. Prefiere recibir sus tareas mediante notificaciones y mensajes por correo electrónico.
@@ -1187,11 +1192,11 @@ En esta sección se presentan personajes ficticios, uno para cada segmento objet
 **Segmento objetivo: Líder de equipo**
 **User Persona Principal**
 
-![User Persona Lider](/images/user01.png)
+![User Persona Lider](/images/needfinding/user-persona-renzo.png)
 
 **Segmento objetivo: Miembro de equipo**
 **User Persona Secundaria**
-![User Persona Miembro](/images/user02.png)
+![User Persona Miembro](/images/needfinding/user-persona-cielo.png)
 
 
 #### 2.3.2 User Task Matrix
@@ -1217,21 +1222,21 @@ En esta sección se presentan los User Journey Mapping para cada User Persona.
 
 **Segmento objetivo: Líder de equipo**
 
-![Journey Mapping: Renzo](images/journey-mapping-renzo.png)
+![Journey Mapping: Renzo](images/needfinding/journey-mapping-renzo.png)
 
 **Segmento objetivo: Miembro de equipo**
-![Journey Mapping: Cielo](images/journey-mapping-cielo.png)
+![Journey Mapping: Cielo](images/needfinding/journey-mapping-cielo.png)
 
 #### 2.3.4 Empathy Mapping
 En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
 
 **Segmento objetivo: Líder de equipo**
 
-![Empathy Mapping Lider](/images/empathy_lider.png)
+![Empathy Mapping Lider](/images/needfinding/empathy-mapping-renzo.png)
 
 **Segmento objetivo: Miembro de equipo**
 
-![Empathy Mapping Miembro](/images/empathy_miembro.png)
+![Empathy Mapping Miembro](/images/needfinding/empathy-mapping-cielo.png)
 
 #### 2.3.5 As-is Scenario Mapping
 En esta sección se presenta el As-Is Scenario Mapping para los segmentos objetivo, en donde se identifican y comprenden los puntos de contacto del usuario.
@@ -1239,10 +1244,10 @@ En esta sección se presenta el As-Is Scenario Mapping para los segmentos objeti
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
 
 1. Líder de equipo de trabajo
-![AS-IS Scenario Mapping: Renzo](images/as-is-renzo.jpg)
+![AS-IS Scenario Mapping: Renzo](images/needfinding/as-is-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-![AS-IS Scenario Mapping: Cielo](images/as-is-cielo.jpg)
+![AS-IS Scenario Mapping: Cielo](images/needfinding/as-is-cielo.jpg)
 
 ### <a name="requirements-specification"></a> 2.4 Requirements Specification
 
@@ -1252,10 +1257,10 @@ Los cuadros del To-Be Scenario Mapping los desarrollamos para indicar cómo es q
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
 
 1. Líder de equipo de trabajo
-![TO-BE Scenario Mapping: Renzo](images/to-be-renzo.jpg)
+![TO-BE Scenario Mapping: Renzo](images/needfinding/to-be-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-![TO-BE Scenario  Mapping: Cielo](images/to-be-cielo.jpg)
+![TO-BE Scenario  Mapping: Cielo](images/needfinding/to-be-cielo.jpg)
 
 ### 2.4 User Stories
 <table>
@@ -2591,15 +2596,15 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
 Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
 
 1. Líder de equipo de trabajo
-![Impact Mapping: Renzo](images/impact-mapping-renzo.jpg)
+![Impact Mapping: Renzo](images/needfinding/impact-mapping-renzo.jpg)
 
 2. Miembro de equipo de trabajo
-![Impact Mapping: Cielo](images/impact-mapping-cielo.jpg)
+![Impact Mapping: Cielo](images/needfinding/impact-mapping-cielo.jpg)
 
 ### 2.4.4 Product Backlog
 Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
 Imagen del product backlog desarrollado en Trello:
-![product backlog](images/product-backlog.jpg)
+![product backlog](images/needfinding/product-backlog.jpg)
 
 <table>
     <tr>
@@ -2864,7 +2869,7 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
         
         Los dos colores principales que se utilizarán son el blanco y negro. La elección del color dependerá del fondo, habiendo una relación inversa entre la tonalidad del fondo y el color de la letra. No obstante, en ocasiones especiales se utilizarán otros colores para resaltar información importante. Aquí algunos ejemplos del color de la letra:
 
-        ![Style Guidelines: Color de Letra](images/style-color-letras.png)
+        ![Style Guidelines: Color de Letra](images/styles/style-color-letras.png)
     
     - **Espaciado:**
 
@@ -2876,12 +2881,12 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
     - Colores Principales:
         La escala principal utilizada es la colores azules. Estos colores serán utilizados principalmente para los fondos.
 
-        ![Styles: Main Colors](images/style-color-main.png)
+        ![Styles: Main Colors](images/styles/style-color-main.png)
 
     - Colores Complementarios:
         Como la aplicación está enfocada a mejorar la gestión, utilizar solo un color para organizar todo puede ser bastante confuso, por lo que el equipo ha decidido implementar colores secundarios, los cuales ayudarán al usuario a reconocer con mayor facilidad los puntos importantes de la aplicación, como las notificaciones o tareas
          
-        ![Style: Complementary Colors](images/style-color-complementary.png)
+        ![Style: Complementary Colors](images/styles/style-color-complementary.png)
 
 - ### Lenguaje Aplicado:
 
@@ -2890,12 +2895,12 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 - ### Logotipo de la Aplicación:
     El logotipo de la empresa fue diseñado con la intención de trasmitir prestigio. Por ello, cuenta con un diseño que se asemeja a un metal.
     
-    ![Logotipo: Task Management](images/logo-task-management.png)
+    ![Logotipo: Task Management](images/styles/logo-task-management.png)
 
 - ### Logotipo de la Aplicación:
     Del mismo modo que el logo de la empresa, el logo de la aplicación Workflow se asemeja a un metal precioso, siendo en esta ocasión el cobalto.
 
-    ![Logotipo: Workflow](images/logo-workflow.png)
+    ![Logotipo: Workflow](images/styles/logo-workflow.png)
 
 
 #### 3.1.4. Mobile Applications UX/UI Design
@@ -2904,161 +2909,161 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 
 - Iniciar sesión
 
-    ![alt text](<images/Wireframes/Sign In.png>)
+    ![Iniciar Sesión](<images/Wireframes/Sign In.png>)
 - Registrarse
 
-    ![alt text](images/Wireframes/Register.png)
+    ![Registrarse](images/Wireframes/Register.png)
 - Menu de navegación
 
-    ![alt text](<images/Wireframes/Navigation drawer.png>)
+    ![Navegación](<images/Wireframes/Navigation drawer.png>)
 
 - Ver los proyectos
 
-    ![alt text](<images/Wireframes/Project Management.png>)
+    ![Vista de Proyectos](<images/Wireframes/Project Management.png>)
 - Agregar un proyecto
 
-    ![alt text](<images/Wireframes/Project Management - Add Project.png>)
+    ![Agregar un Proyecto](<images/Wireframes/Project Management - Add Project.png>)
 - Ver detalles de un proyecto
 
-    ![alt text](<images/Wireframes/Project View.png>)
+    ![Detalles de un proyecto](<images/Wireframes/Project View.png>)
 - Agregar una tarea a un proyecto 
 
-    ![alt text](<images/Wireframes/Project View - Add Task.png>)
-- Agregar un compañero de equipo a un proyecto
+    ![Agregar tarea](<images/Wireframes/Project View - Add Task.png>)
+- Agregar un miembro de equipo a un proyecto
 
-    ![alt text](<images/Wireframes/Project View - Add Member.png>)
-- Ver compañeros de equipo
+    ![Agregar miembro de equipo](<images/Wireframes/Project View - Add Member.png>)
+- Ver miembros del equipo
 
-    ![alt text](images/Wireframes/Teammates.png)
-- Enviar solicitud a un compañero de equipo
+    ![Ver miembros del equipo](images/Wireframes/Teammates.png)
+- Enviar solicitud a un miembro de equipo
 
-    ![alt text](images/Wireframes/Teammates-1.png)
-- Ver detalles de un compañero de equipo
+    ![Envío de solicitud](images/Wireframes/Teammates-1.png)
+- Ver detalles de un miembro de equipo
 
-    ![alt text](<images/Wireframes/Teammate View.png>)
+    ![Detalles de miembro de equipo](<images/Wireframes/Teammate View.png>)
 - Ver el calendario
 
-    ![alt text](images/Wireframes/Calendar.png)
+    ![Calendario](images/Wireframes/Calendar.png)
 - Agregar un evento al calendario
 
-    ![alt text](<images/Wireframes/Calendar- Add event.png>)
+    ![Evento de Calendario](<images/Wireframes/Calendar- Add event.png>)
 - Configuracion de perfil
 
-    ![alt text](images/Wireframes/Configuration.png)
+    ![Perfil](images/Wireframes/Configuration.png)
 
 ##### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
 - User goal: Iniciar sesion 
-    ![alt text](<images/Wireflow/Iniciar sesion.png>)
+    ![Iniciar Sesión](<images/Wireflow/Iniciar sesion.png>)
 Descripción: Al iniciar la aplicación, el usuario se encuentra en la pantalla de inicio de sesión, donde podrá ingresar su correo electrónico y contraseña para acceder a la aplicación.
 
 - User goal: Registro de un nuevo usuario
-    ![alt text](images/Wireflow/Registrarse.png)
+    ![Registrro de Usuario](images/Wireflow/Registrarse.png)
 Descripción: En la pantalla de registro, el usuario podrá crear una nueva cuenta ingresando su nombre completo, correo electrónico y contraseña. Si los datos no están registrados previamente, aparecerá un cuadro de diálogo confirmando que la cuenta ha sido creada. En caso contrario, el cuadro de diálogo mostrará un mensaje de error.
 
 - User goal: Ver proyectos y crear un nuevo proyecto
-    ![alt text](images/Wireflow/Proyectos.png)
+    ![Proyectos](images/Wireflow/Proyectos.png)
 Descripción: Desde la vista de proyectos, el usuario puede ver la información general de los proyectos existentes y crear uno nuevo con el botón de añadir. Aparecerá un cuadro de diálogo en el que, al ingresar correctamente el nombre, la descripción y la fecha límite, podrá crear un nuevo proyecto.
 
 - User goal: Ver detalles de proyecto, agregar una nueva tarea y agregar un miembro de equipo
-    ![alt text](<images/Wireflow/Detalles de proyecto.png>)
+    ![Agregar tareas](<images/Wireflow/Detalles de proyecto.png>)
 Descripción:Al presionar sobre un proyecto, el usuario accederá a la vista de detalles del proyecto, donde podrá ver y crear las tareas, así como gestionar los miembros del equipo relacionados con ese proyecto. Al hacer clic en el botón de añadir, ya sea en la lista de tareas o en la lista de miembros, se mostrará un cuadro de diálogo en el que podrá ingresar los datos correspondientes para crear una nueva tarea o agregar un nuevo miembro.
 
 - User goal: Ver miembros de equipo y enviar una solicitud
-    ![alt text](<images/Wireflow/Miembros equipos.png>)
+    ![Ver miembros del equipo](<images/Wireflow/Miembros equipos.png>)
 Descripción: En la vista de miembros del equipo, el usuario podrá ver a los miembros que puede agregar a sus proyectos y tareas correspondientes. Asimismo, podrá enviar una solicitud para agregar a un nuevo miembro.
 
 - User goal: Ver calendario de actividades y crear un evento
-    ![alt text](images/Wireflow/Calendario.png)
+    ![Calendario y Eventos](images/Wireflow/Calendario.png)
 Descripción: En la vista de calendario, el usuario podrá ver de forma visual las tareas y eventos próximos en un calendario. Asimismo, el usuario podrá crear un nuevo evento al presionar el botón de añadir en la lista de eventos. Aparecerá un cuadro de diálogo en el que, al ingresar los datos correctos, se creará un nuevo evento.
 
 - User goal: Modificar datos personales
-    ![alt text](images/Wireflow/Configuracion.png)
+    ![Datos personales](images/Wireflow/Configuracion.png)
 Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 
 ##### 3.1.4.3. Mobile Applications Mock-ups
 
 - Iniciar sesión
 
-    ![alt text](<images/Mock-ups/Sign In.png>)
+    ![Iniciar Sesión](<images/Mock-ups/Sign In.png>)
 - Registrarse
 
-    ![alt text](images/Mock-ups/Register.png)
+    ![Registro de Usuario](images/Mock-ups/Register.png)
 - Menu de navegación
 
-    ![alt text](<images/Mock-ups/Navigation drawer.png>)
+    ![Navegación](<images/Mock-ups/Navigation drawer.png>)
 
 - Ver los proyectos
 
-    ![alt text](<images/Mock-ups/Project Management.png>)
+    ![Proyectos](<images/Mock-ups/Project Management.png>)
 - Agregar un proyecto
 
-    ![alt text](<images/Mock-ups/Project Management - Add Project.png>)
+    ![Agregar un proyecto](<images/Mock-ups/Project Management - Add Project.png>)
 - Ver detalles de un proyecto
 
-    ![alt text](<images/Mock-ups/Project View.png>)
+    ![Ver detalles de un proyecto](<images/Mock-ups/Project View.png>)
 - Agregar una tarea a un proyecto 
 
-    ![alt text](<images/Mock-ups/Project View - Add Task.png>)
+    ![Agregar una tarea a un proyecto ](<images/Mock-ups/Project View - Add Task.png>)
 - Agregar un compañero de equipo a un proyecto
 
-    ![alt text](<images/Mock-ups/Project View - Add Member.png>)
+    ![Agregar un compañero de equipo a un proyecto](<images/Mock-ups/Project View - Add Member.png>)
 - Ver compañeros de equipo
 
-    ![alt text](images/Mock-ups/Teammates.png)
+    ![Ver compañeros de equipo](images/Mock-ups/Teammates.png)
 - Enviar solicitud a un compañero de equipo
 
-    ![alt text](images/Mock-ups/Teammates-1.png)
+    ![Enviar solicitud a un compañero de equipo](images/Mock-ups/Teammates-1.png)
 - Ver detalles de un compañero de equipo
 
-    ![alt text](<images/Mock-ups/Teammate View.png>)
+    ![Ver detalles de un compañero de equipo](<images/Mock-ups/Teammate View.png>)
 - Ver el calendario
 
-    ![alt text](images/Mock-ups/Calendar.png)
+    ![Ver el calendario](images/Mock-ups/Calendar.png)
 - Agregar un evento al calendario
 
-    ![alt text](<images/Mock-ups/Calendar- Add event.png>)
+    ![Agregar un evento al calendario](<images/Mock-ups/Calendar- Add event.png>)
 - Configuracion de perfil
 
-    ![alt text](images/Mock-ups/Configuration.png)
+    ![Configuracion de perfil](images/Mock-ups/Configuration.png)
 
 ##### 3.1.4.4. Mobile Applications User Flow Diagrams
 
 - User goal: Iniciar sesion 
-    ![alt text](<images/Userflow/Iniciar sesion.png>)
+    ![Iniciar sesion ](<images/Userflow/Iniciar sesion.png>)
 Descripción: Al iniciar la aplicación, el usuario se encuentra en la pantalla de inicio de sesión, donde podrá ingresar su correo electrónico y contraseña para acceder a la aplicación.
 
 - User goal: Registro de un nuevo usuario
-    ![alt text](images/Userflow/Registrarse.png)
+    ![Registro de un nuevo usuario](images/Userflow/Registrarse.png)
 Descripción: En la pantalla de registro, el usuario podrá crear una nueva cuenta ingresando su nombre completo, correo electrónico y contraseña. Si los datos no están registrados previamente, aparecerá un cuadro de diálogo confirmando que la cuenta ha sido creada. En caso contrario, el cuadro de diálogo mostrará un mensaje de error.
 
 - User goal: Ver proyectos y crear un nuevo proyecto
-    ![alt text](images/Userflow/Proyectos.png)
+    ![Ver proyectos y crear un nuevo proyecto](images/Userflow/Proyectos.png)
 Descripción: Desde la vista de proyectos, el usuario puede ver la información general de los proyectos existentes y crear uno nuevo con el botón de añadir. Aparecerá un cuadro de diálogo en el que, al ingresar correctamente el nombre, la descripción y la fecha límite, podrá crear un nuevo proyecto.
 
 - User goal: Ver detalles de proyecto, agregar una nueva tarea y agregar un miembro de equipo
-    ![alt text](<images/Userflow/Detalles de proyecto.png>)
+    ![Proyectos y Tareas](<images/Userflow/Detalles de proyecto.png>)
 Descripción:Al presionar sobre un proyecto, el usuario accederá a la vista de detalles del proyecto, donde podrá ver y crear las tareas, así como gestionar los miembros del equipo relacionados con ese proyecto. Al hacer clic en el botón de añadir, ya sea en la lista de tareas o en la lista de miembros, se mostrará un cuadro de diálogo en el que podrá ingresar los datos correspondientes para crear una nueva tarea o agregar un nuevo miembro.
 
 - User goal: Ver miembros de equipo y enviar una solicitud
-    ![alt text](<images/Userflow/Miembros equipos.png>)
+    ![Miembros de equipo](<images/Userflow/Miembros equipos.png>)
 Descripción: En la vista de miembros del equipo, el usuario podrá ver a los miembros que puede agregar a sus proyectos y tareas correspondientes. Asimismo, podrá enviar una solicitud para agregar a un nuevo miembro.
 
 - User goal: Ver calendario de actividades y crear un evento
-    ![alt text](images/Userflow/Calendario.png)
+    ![Calendario y Eventos](images/Userflow/Calendario.png)
 Descripción: En la vista de calendario, el usuario podrá ver de forma visual las tareas y eventos próximos en un calendario. Asimismo, el usuario podrá crear un nuevo evento al presionar el botón de añadir en la lista de eventos. Aparecerá un cuadro de diálogo en el que, al ingresar los datos correctos, se creará un nuevo evento.
 
 - User goal: Modificar datos personales
-    ![alt text](images/Userflow/Configuracion.png)
+    ![Datos personales](images/Userflow/Configuracion.png)
 Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 ##### 3.1.4.5. Mobile Applications Prototyping
 
-Link del prototipo hecho en Figma: https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=9uknxlSso2kidvT9-1
+Link del prototipo hecho en Figma: **[Prototipo](https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=9uknxlSso2kidvT9-1)**
 
-Link del video mostrando el prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ER5rkWtzf2hOi03VY70NOE4Bhj7XcEdTuPDlcHCJHG69fQ?e=eB8nsF
+Link del video mostrando el prototipo: **[Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ER5rkWtzf2hOi03VY70NOE4Bhj7XcEdTuPDlcHCJHG69fQ?e=eB8nsF)**
 #### 3.2.2. Software Object-Oriented Design
 ##### 3.2.2.1. Class Diagrams
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](images/diagramas/class-diagram.png)
 ##### 3.2.2.2. Class Dictionary
 ## Clase: User
 - **Tipo**: Entity
@@ -3181,4 +3186,4 @@ Link del video mostrando el prototipo: https://upcedupe-my.sharepoint.com/:v:/g/
 ##### 3.2.2.3. Database Design
 
 ##### 3.2.2.4. Database Diagram
-![Database Diagram](images/database-diagram.png)
+![Database Diagram](images/diagramas/database-diagram.png)
