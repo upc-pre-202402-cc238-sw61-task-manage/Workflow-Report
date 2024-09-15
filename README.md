@@ -2903,6 +2903,30 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
     ![Logotipo: Workflow](images/styles/logo-workflow.png)
 
 
+
+#### 3.1.2 Information Architecture
+<h3>3.1.2.1. Organization Systems</h3>
+<p>En Task Management, hemos diseñado la estructura organizacional de nuestra aplicación Workflow para abordar los desafíos de la gestión de proyectos de manera jerárquica y eficiente. Las tareas y proyectos se organizan visualmente en una jerarquía clara, lo que permite que los usuarios dividan sus proyectos en diferentes niveles de prioridad y fases de ejecución. Esta metodología facilita la planificación y asignación de responsabilidades, asegurando que cada miembro del equipo pueda visualizar sus tareas y contribuciones de manera ordenada. Además, el sistema de organización se adapta a las necesidades específicas de cada proyecto, brindando flexibilidad y personalización.</p>
+
+<h3>3.1.2.2. Labeling Systems</h3>
+<p>Para implementar un sistema de etiquetado que optimice el manejo de tareas, realizamos un análisis de la competencia y de las necesidades de nuestros usuarios. Nuestro sistema de etiquetas permite clasificar las tareas según varios criterios como prioridad, estado del proyecto, y área de trabajo. Las etiquetas predeterminadas en Workflow incluyen categorías como:</p>
+<ul>
+  <li><strong>Perfil:</strong> Almacena la información del usuario, como su rol y contribuciones actuales.</li>
+  <li><strong>Preguntas frecuentes:</strong> Acceso directo para resolver dudas comunes.</li>
+  <li><strong>Contactos:</strong> Facilita la comunicación con asesores o equipos de soporte.</li>
+</ul>
+<p>Estas etiquetas permiten a los usuarios gestionar grandes volúmenes de información de forma más sencilla y ordenada.</p>
+
+<h3>3.1.2.3. SEO Tags and Meta Tags</h3>
+<p>La integración de SEO y Meta Tags en nuestra aplicación está orientada a mejorar la visibilidad tanto interna como externa. Esto permite que los proyectos y tareas compartidas o publicadas sean fácilmente rastreables en motores de búsqueda. Las etiquetas SEO optimizan la exposición de los proyectos en línea, asegurando que tanto los usuarios como los colaboradores externos puedan acceder de manera rápida y eficiente a los contenidos relevantes. Además, las meta tags ayudan a categorizar de forma precisa la información dentro de la plataforma.</p>
+
+<h3>3.1.2.4. Searching Systems</h3>
+<p>Para mejorar la eficiencia en la búsqueda de información dentro de Workflow, hemos integrado un potente motor de búsqueda basado en ElasticSearch. Esta herramienta avanzada permite indexar de manera rápida y eficiente todas las tareas, proyectos y datos almacenados en la plataforma. Los usuarios pueden utilizar una barra de búsqueda con filtros personalizados que permiten encontrar tareas por etiquetas, fechas, nombres de proyectos, o miembros del equipo. ElasticSearch también nos permite agregar dashboards con datos visuales para hacer el proceso de búsqueda más interactivo y claro.</p>
+
+<h3>3.1.2.5. Navigation Systems</h3>
+<p>El sistema de navegación en Workflow está diseñado para ofrecer una experiencia de usuario sencilla e intuitiva. Al ingresar a la aplicación, los usuarios tienen acceso a un menú principal en la parte superior, donde pueden acceder a opciones clave como "Nosotros", que proporciona información sobre la startup, y otras secciones relevantes. A la derecha, se despliega una barra lateral que organiza las funcionalidades principales como "Tareas", "Calendario", "Equipos de trabajo", y "Configuración". Los usuarios pueden personalizar la navegación según sus preferencias, priorizando las opciones más utilizadas para facilitar su flujo de trabajo. Una vez registrados, pueden iniciar proyectos colaborativos, seleccionando su rol y compartiendo proyectos con otros usuarios de manera rápida y eficiente.</p>
+
+
 #### 3.1.3 Landing Page UI Design
 En esta sección se incluyen las vistas de la landing page. Las vistas se encuentran en la siguiente página **[Landing Page Wireframes y Mockups](https://www.figma.com/design/bsrw1qxMGWIDcYgM9VNe7K/Untitled?node-id=0-1&t=O13ANdI35GrpOE6M-1)**
 #### 3.1.3.1. Landing Page Wireframe
