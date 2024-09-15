@@ -3068,7 +3068,33 @@ Descripción: En la vista de configuración, el usuario podrá modificar sus dat
 Link del prototipo hecho en Figma: **[Prototipo](https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=9uknxlSso2kidvT9-1)**
 
 Link del video mostrando el prototipo: **[Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ER5rkWtzf2hOi03VY70NOE4Bhj7XcEdTuPDlcHCJHG69fQ?e=eB8nsF)**
+
+### <a name="architecture-overview"></a> 3.2. Architecture Overview.
+
+#### 3.2.1. Domain-Driven Software Architecture.
+
+En esta parte, aplicaremos el modelo C4 para definir la estructura del software, cubriendo elementos como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite una comprensión clara de la arquitectura, tanto para los miembros del equipo como para los stakeholders externos.
+
+##### 3.2.1.1. Software Architecture Context Level Diagram.
+
+Para identificar y representar adecuadamente a los usuarios y sistemas externos que interactúan con nuestro sistema, hemos elaborado un diagrama de contexto. En este diagrama se puede observar que hemos identificado a dos usuarios.
+
+![ContextDiagram](/images/c4/diagrama-contexto.png)
+
+##### 3.2.1.2. Software Architecture Container Level Diagram.
+
+El diagrama de contenedores ofrece una vista de alto nivel sobre las relaciones entre las aplicaciones y las fuentes de datos que forman parte de la ejecución de la aplicación Task Management.
+
+![ContainerDiagram](/images/c4/diagrama-contenedores.png)
+
+##### 3.2.1.3. Software Architecture Components Diagram
+
+Los diagramas de componentes presentan una vista de las interacciones entre los principales componentes de la aplicación. Estos componentes detallan cómo se implementan los diferentes módulos en la app.
+
+![ComponentsDiagram](/images/c4/diagrama-componentes.png)
+
 #### 3.2.2. Software Object-Oriented Design
+
 ##### 3.2.2.1. Class Diagrams
 ![Class Diagram](images/diagramas/class-diagram.png)
 ##### 3.2.2.2. Class Dictionary
