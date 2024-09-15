@@ -3218,5 +3218,7 @@ Los diagramas de componentes presentan una vista de las interacciones entre los 
 
 ##### 3.2.2.3. Database Design
 
+En el siguiente punto se presenta nuestro diagrama de base de datos relacional, diagramado en la herramienta Vertabelo.  
+
 ##### 3.2.2.4. Database Diagram
 ![Database Diagram](images/diagramas/database-diagram.png)
