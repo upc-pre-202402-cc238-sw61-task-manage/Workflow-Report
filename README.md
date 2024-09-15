@@ -2903,6 +2903,13 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
     ![Logotipo: Workflow](images/styles/logo-workflow.png)
 
 
+#### 3.1.3 Landing Page UI Design
+En esta sección se incluyen las vistas de la landing page. Las vistas se encuentran en la siguiente página **[Landing Page Wireframes y Mockups](https://www.figma.com/design/bsrw1qxMGWIDcYgM9VNe7K/Untitled?node-id=0-1&t=O13ANdI35GrpOE6M-1)**
+#### 3.1.3.1. Landing Page Wireframe
+![Landing Page Wireframes](images/landing%20page/landing-wireframe.png)
+#### 3.1.3.2. Landing Page Mock-up
+![Landing Page Mockups: Light](images/landing%20page/landing-mockup-light.png)
+![Landing Page Mockups: Dark](images/landing%20page/landing-mockup-dark.png)
 #### 3.1.4. Mobile Applications UX/UI Design
 
 ##### 3.1.4.1. Mobile Applications Wireframes
