@@ -200,25 +200,34 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
             <p>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</p>
         </td>
         <td>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
             <h5>TB1</h5>
+            <h5>Cisneros Tafur, Diego Rafael</h5>
             <p>Sección de Competidores</p>
             <h5>Mendoza Pimentel, Piero</h5>
-            <h5>TB1</h5>
             <p>Diseño y Análisis de entrevistas</p>
             <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <h5>TB1</h5>
             <p>Start Up Profile, Segmentos Objetivos y Requirements Especification</p>
             <h5>Periche Quiroga, Piero Fernando</h5>
-            <h5>TB1</h5>
             <p>Solution Profile</p>
             <h5>Silva Morales, Renzo Cesar</h5>
-            <h5>TB1</h5>
             <p>Needfinding</p>
+            <h5>TB2</h5>
+            <h5>Cisneros Tafur, Diego Rafael</h5>
+            <p>Backend (IAM)</p>
+            <h5>Mendoza Pimentel, Piero</h5>
+            <p>Backend (Calendar y Event)</p>
+            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+            <p>Backend (Task)</p>
+            <h5>Periche Quiroga, Piero Fernando</h5>
+            <p>Backend (User)</p>
+            <h5>Silva Morales, Renzo Cesar</h5>
+            <p>Backend (Project)</p>
         </td>
         <td>
             <h5>TB1</h5>
             <p>Hemos hecho la investigación necesaria para el desarrollo de la primera entrega del trabajo. Se actualizaron diversos puntos anteriores para que se adecúe más al tema seleccionado</p>
+            <h5>TB2</h5>
+            <p>En esta entrega se desarrolló la aplicación backend que utilizará la aplicación móvil en las siguientes entregas</p>
         </td>
     </tr>
     <tr>
@@ -226,25 +235,33 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
             <p>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software</p>
         </td>
         <td>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
             <h5>TB1</h5>
+            <h5>Cisneros Tafur, Diego Rafael</h5>
             <p>Desarrollo de 1 entrevista</p>
             <h5>Mendoza Pimentel, Piero</h5>
-            <h5>TB1</h5>
             <p>Desarrollo de 1 entrevista</p>
             <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <h5>TB1</h5>
             <p>Desarrollo de 1 entrevista</p>
             <h5>Periche Quiroga, Piero Fernando</h5>
-            <h5>TB1</h5>
             <p>Desarrollo de 2 entrevistas</p>
             <h5>Silva Morales, Renzo Cesar</h5>
-            <h5>TB1</h5>
             <p>Desarrollo de 1 entrevista</p>
+            <h5>Cisneros Tafur, Diego Rafael</h5>
+            <p>Class and Database Diagram</p>
+            <h5>Mendoza Pimentel, Piero</h5>
+            <p>Mobile Design</p>
+            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+            <p>Style guidelines and Landing Page</p>
+            <h5>Periche Quiroga, Piero Fernando</h5>
+            <p>Information Architecture and Software Management</p>
+            <h5>Silva Morales, Renzo Cesar</h5>
+            <p>C4 and Sprint 1</p>
         </td>
         <td>
             <h5>TB1</h5>
             <p>Se realizaron diversas entrevistas para comprender más a los potenciales clientes. También, se desarrolló un completo análisis a todos los puntos de vista planteados por los clientes. Con toda la información obtenida, podremos realizar nuestra aplicación móvil</p>
+            <h5>TB2</h5>
+            <p>Se realizó una investigación acerca de los requerimientos específicos y la arquitectura que necesita nuestra aplicación para satisfacer la mejor experiencia del usuario</p>
         </td>
     </tr>
 </table>
