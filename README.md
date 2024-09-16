@@ -246,6 +246,7 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
             <p>Desarrollo de 2 entrevistas</p>
             <h5>Silva Morales, Renzo Cesar</h5>
             <p>Desarrollo de 1 entrevista</p>
+            <h5>TB2</h5>
             <h5>Cisneros Tafur, Diego Rafael</h5>
             <p>Class and Database Diagram</p>
             <h5>Mendoza Pimentel, Piero</h5>
