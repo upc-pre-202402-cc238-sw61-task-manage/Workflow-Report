@@ -3539,6 +3539,10 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 | Endpoint URL | Swagger |
 | api/v1/authentication/ | ![User](images/sprint-1/documentation-user.png) |
 
+| Bounded Context | Users |
+| - | - |
+| Endpoint URL | Swagger |
+| api/v1/authentication/ | ![Profiles](images/sprint-1/documentation-profiles.jpeg) |
 
 ##### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
