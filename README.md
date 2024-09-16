@@ -3472,3 +3472,105 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
   </li>
 </ol>
 
+### [4.2. Software Development & Implementation](#421-sprint-1)
+#### 4.2.1. Sprint 1
+##### 4.2.1.1. Sprint Planning 1
+| Sprint#   |  Sprint 1  |
+| --------- | ---------- |
+|Sprint Planning Background | |
+| Date | 12/9/24 |
+| Time | 10:00 (GMT-5) |
+| Location | Whatsapp |
+| Prepared By | Task Management |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management |
+| Sprint 1 - Review Summary | Según las indicaciones del profesor, se ha mejorado el trabajo |
+| Sprint 1 - Retrospective | Se desarrolló el backend y diversos puntos del capítulo 4 |
+| Sprint Goal & User Stories | |
+| Sprint 1 Velocity | 10 |
+| Sum of Story Points | 34 |
+##### 4.2.1.2. Sprint Backlog 1
+Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/660b7752a3c23d8fc77e020a/ATTI2fa3011a92acec9fba2af7d759e5461f1F98BC68/sprint-backlog-1-task-management)**
+![Sprint Backlog 1](images/sprint-1/trello.jpeg)
+##### 4.2.1.3. Development Evidence for Sprint Review
+![Development Evidence](images/sprint-1/development-evidence.png)
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| Backend | develop | a2e4f848798bfc034007b985c98db9984f527d9c | chore: added the initial configuration | 10/09/24 |
+| Backend | develop | 8f4ff9cb608b2e1c1b01dbfd1ea4c5b8162f31fb | feat(dependencies): updated dependencies with openapi jwt and others | 10/09/24 |
+| Backend | develop | ea4584ba31157ae49ec9fda2e502793912b61010 | feat(execution): updated the executions files to have the db connection and implementation with docker if needed | 10/09/24 |
+| Backend | develop | 31cb81a314177fe749113d5f1c7c24e29032fa36 | fix: enabled the JDP auditing | 10/09/24 |
+| Backend | develop | b10b072c60c1fca63fe6a75c01c6996772028abd | feat(shared): added the openapi configuration and other shared used tools | 10/09/24 |
+| Backend | develop | a9c2cac0b6fe1d1e5be6f3b4998a2bd2b4f9d847 | feat(iam): implemented the iam layer with signin and signup functionalities | 10/09/24 |
+| Backend | develop | a67e4ed3d8c7baa307374888cff7a3708b945dd9 | refactor: deleted un used role | 10/09/24 |
+| Backend | develop | 5418afbf2cc0d5d9e6c42e08fea6ae9f48ac81a7 | feat(tests): remove commented out code in TaskManagerApplicationTests | 15/09/24 |
+| Backend | develop | a0220c143ad94cc9d6690e1d76e2155cc0db9ac8 | feat: add Dockerfile and docker-compose files for development and production environments | 15/09/24 |
+| Backend | develop | a45ed6898c434e2211c887cf439a38cf4827152f | chore: Update Dockerfile and docker-compose files for task manager backend | 15/09/24 |
+| Backend | feature/calendar | 272ffbcd146e7f449fe1f69bccba5f3ab275be72 | add: events class in aggregates | 14/09/24 |
+| Backend | feature/calendar | 0fd984b961e9f9c84446b96c1e6ae9a4743cda58 | feat(events): added commands, queries and value objects in domain| 14/09/24 |
+| Backend | feature/calendar | 50f7a2e6829c082a8bf9800e3c4f9a4ce4179459 | feat(events): added service contracts in domain | 14/09/24 |
+| Backend | feature/calendar | a4cc2f30a2f39b79d5051ed5a0ef379b4e901a40 | feat(events): added command and query services implementation | 14/09/24 |
+| Backend | feature/calendar | 43c330110a0179a44f5eb1a4033ee4129cf7cf98 | feat(events): added resources and assemblers for interfaces layer | 14/09/24 |
+| Backend | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker | 14/09/24 |
+| Backend | feature/task | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context| 15/09/24 |
+| Backend | feature/task | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context | 15/09/24 |
+##### 4.2.1.4. Testing Suite Evidence for Sprint Review
+No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo que no aplica esta sección.
+##### 4.2.1.5. Execution Evidence for Sprint Review
+![Execution Evidence](images/sprint-1/execution.png)
+##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+| Bounded Context | IAM |
+| - | - |
+| Endpoint URL | Swagger |
+| api/v1/authentication/ | ![IAM](images/sprint-1/documentation-iam.png)|
+
+| Bounded Context | Tasks |
+| - | - |
+| Endpoint URL | Swagger |
+| api/v1/tasks/ | ![Tasks](images/sprint-1/documentation-task.png) |
+
+| Bounded Context | Roles |
+| - | - |
+| Endpoint URL | Swagger |
+| api/v1/authentication/ | ![Role](images/sprint-1/documentation-role.png) |
+
+| Bounded Context | Users |
+| - | - |
+| Endpoint URL | Swagger |
+| api/v1/authentication/ | ![User](images/sprint-1/documentation-user.png) |
+
+
+##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 4.2.1.8. Team Collaboration Insights during Sprint
+![Insights](images/sprint-1/insights.png)
+
+## Bibliografía
+Alvarez, A. (2020). 5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. <https://www.leanconstructionmexico.com.mx/post/5w2h-qué-significa-para-qué-sirve-cómo-aplicarla-y-algunos-ejemplos> 
+
+Avendaño, E. (2023). Trabajo en Equipo en las Micro Y Pequeñas Empresas, Rubro Boticas: Caso Globalfarma, Distrito De Ayacucho, 2020. [Tesis de licenciatura]. ULADECH Católica. <http://repositorio.uladech.edu.pe/bitstream/handle/20.500.13032/31785/COMPROMISO_INTELIGENCIA_EMOCIONAL_AVENDANO_ORELLANA_ERICKSON_RICKY.pdf?sequence=1&isAllowed=y> 
+
+Cabero, J., García, C. y López, O. (2020). Autorregulación del aprendizaje en la Formación Profesional a Distancia: efectos de la gestión del tiempo. *Revista de Educación a Distancia (RED)*, *20*(62). <https://doi.org/10.6018/red.400071>
+
+Comunal. (2020). Trabajo remoto en Perú: tendencias y estadísticas. <https://blog.comunal.co/trabajo-remoto-en-peru-tendencias-y-estadisticas> 
+
+Gestión. (2016). Una de cada cuatro medianas empresas registra caídas de 50% en ventas por su mala gestión. <https://gestion.pe/economia/empresas/cuatro-medianas-empresas-registran-caidas-50-ventas-mala-gestion-115183-noticia/?ref=gesr> 
+
+
+De Luca, M. (2020). Las aulas virtuales en la formación docente como estrategia de continuidad pedagógica en tiempos de pandemia. Usos y paradojas. *Análisis Carolina*, (33), 1. <https://dialnet.unirioja.es/servlet/articulo?codigo=7439302>
+
+Díaz, A., Meneses, A. y Reyes, N. (2022). Planificación y gestión del tiempo académico de estudiantes universitarios. *Formación universitaria*, *15*(1), 57-72. <https://www.scielo.cl/scielo.php?pid=S0718-50062022000100057&script=sci_arttext&tlng=pt> 
+
+El Comercio (2022). Presencialidad vs virtualidad: lo que dejó estas experiencias a los escolares. <https://elcomercio.pe/corresponsales-escolares/historias/presencialidad-vs-virtualidad-lo-que-dejo-estas-experiencias-a-los-escolares-regreso-a-clases-minedu-noticia/> 
+
+Gestión (2024). Se reduce la preferencia por las clases virtuales pero aún es el triple que antes de pandemia. <https://gestion.pe/economia/empresas/sunedu-clases-virtuales-intenet-flanqueo-se-reduce-la-preferencia-por-las-clases-virtuales-pero-aun-es-el-triple-que-antes-de-pandemia-noticia/> 
+
+Giniger, N. (2020). Teletrabajo. Modalidad de trabajo en pandemia. *Observatorio Latinoamericano y Caribeño*, *4*(1), 23-39. <https://publicaciones.sociales.uba.ar/index.php/observatoriolatinoamericano/article/view/5451> 
+
+Hurtado, F.  (2020). La educación en tiempos de pandemia: los desafíos de la escuela del siglo XXI. *Revista arbitrada del centro de investigación y estudios gerenciales*, *44*, 176-187. <https://www.redalyc.org/journal/145/14565924008/14565924008.pdf>
+
+Lopez, M. (2020). Estudios: Los principales desafíos del teletrabajo. <https://www.america-retail.com/estudios/estudios-los-principales-desafios-del-teletrabajo/>
+
+Pisani, A. y Tomasina, F. (2022). Pros y contras del teletrabajo en la salud física y mental de la población general trabajadora: una revisión narrativa exploratoria. *Archivos de prevención de riesgos laborales*, *25*(2), 147-161. <https://dx.doi.org/10.12961/aprl.2022.25.02.07> 
+
+Santillan, W. (2020). El teletrabajo en el COVID-19. *CienciAmérica: Revista de divulgación científica de la Universidad Tecnológica Indoamérica*, *9*(2), 65-76. <https://dialnet.unirioja.es/servlet/articulo?codigo=7746439> 
