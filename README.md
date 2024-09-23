@@ -47,8 +47,8 @@
         <th>Descripción</th>
     <tr>
     <tr>
-        <th rowspan="6">#1 TB1</th>
-        <td rowspan="6">29/08/2024</td>
+        <th>#1 TB1</th>
+        <td>29/08/2024</td>
         <td>
             <p>Cisneros Tafur, Diego Rafael</p>
             <p>Mendoza Pimentel, Piero</p>
@@ -56,14 +56,14 @@
             <p>Periche Quiroga, Piero Fernando</p>
             <p>Silva Morales, Renzo Cesar</p>
         </td>
-        <td rowspan="6">
+        <td>
             <p>Capítulo 1</p>
             <p>Capítulo 2</p> 
         </td>
     </tr>
     <tr>
-        <th rowspan="6">#2 TB2</th>
-        <td rowspan="6">14/09/2024</td>
+        <th>#2 TB2</th>
+        <td>14/09/2024</td>
         <td>
             <p>Cisneros Tafur, Diego Rafael</p>
             <p>Mendoza Pimentel, Piero</p>
@@ -71,13 +71,13 @@
             <p>Periche Quiroga, Piero Fernando</p>
             <p>Silva Morales, Renzo Cesar</p>
         </td>
-        <td rowspan="6">
+        <td>
             <p>Capítulo 3</p>
         </td>
     </tr>
     <tr>
-        <th rowspan="6">#3 TP</th>
-        <td rowspan="6">22/09/2024</td>
+        <th>#3 TP</th>
+        <td>22/09/2024</td>
         <td>
             <p>Cisneros Tafur, Diego Rafael</p>
             <p>Mendoza Pimentel, Piero</p>
@@ -85,7 +85,7 @@
             <p>Periche Quiroga, Piero Fernando</p>
             <p>Silva Morales, Renzo Cesar</p>
         </td>
-        <td rowspan="6">
+        <td>
             <p>Capítulo 4</p>
         </td>
     </tr>
