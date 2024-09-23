@@ -49,23 +49,45 @@
     <tr>
         <th rowspan="6">#1 TB1</th>
         <td rowspan="6">29/08/2024</td>
-        <td>Cisneros Tafur, Diego Rafael</td>
+        <td>
+            <p>Cisneros Tafur, Diego Rafael</p>
+            <p>Mendoza Pimentel, Piero</p>
+            <p>Neyra Santa Cruz, Marcelo Sebastian</p>
+            <p>Periche Quiroga, Piero Fernando</p>
+            <p>Silva Morales, Renzo Cesar</p>
+        </td>
         <td rowspan="6">
             <p>Capítulo 1</p>
             <p>Capítulo 2</p> 
         </td>
     </tr>
     <tr>
-        <td>Mendoza Pimentel, Piero</td>
+        <th rowspan="6">#2 TB2</th>
+        <td rowspan="6">14/09/2024</td>
+        <td>
+            <p>Cisneros Tafur, Diego Rafael</p>
+            <p>Mendoza Pimentel, Piero</p>
+            <p>Neyra Santa Cruz, Marcelo Sebastian</p>
+            <p>Periche Quiroga, Piero Fernando</p>
+            <p>Silva Morales, Renzo Cesar</p>
+        </td>
+        <td rowspan="6">
+            <p>Capítulo 3</p>
+        </td>
     </tr>
     <tr>
-        <td>Neyra Santa Cruz, Marcelo Sebastian</td>
-    </tr>
-    <tr>
-        <td>Periche Quiroga, Piero Fernando</td>
-    </tr>
-    <tr>
-        <td>Silva Morales, Renzo Cesar</td>
+        <th rowspan="6">#3 TP</th>
+        <td rowspan="6">22/09/2024</td>
+        <td>
+            <p>Cisneros Tafur, Diego Rafael</p>
+            <p>Mendoza Pimentel, Piero</p>
+            <p>Neyra Santa Cruz, Marcelo Sebastian</p>
+            <p>Periche Quiroga, Piero Fernando</p>
+            <p>Silva Morales, Renzo Cesar</p>
+        </td>
+        <td rowspan="6">
+            <p>Capítulo 4</p>
+        </td>
     </tr>
 </table>
 
@@ -201,33 +223,46 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
         </td>
         <td>
             <h5>TB1</h5>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
-            <p>Sección de Competidores</p>
-            <h5>Mendoza Pimentel, Piero</h5>
-            <p>Diseño y Análisis de entrevistas</p>
-            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <p>Start Up Profile, Segmentos Objetivos y Requirements Especification</p>
-            <h5>Periche Quiroga, Piero Fernando</h5>
-            <p>Solution Profile</p>
-            <h5>Silva Morales, Renzo Cesar</h5>
-            <p>Needfinding</p>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Sección de Competidores</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Diseño y Análisis de entrevistas</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Start Up Profile, Segmentos Objetivos y Requirements Especification</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Solution Profile</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Needfinding</p>
             <h5>TB2</h5>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
-            <p>Backend (IAM)</p>
-            <h5>Mendoza Pimentel, Piero</h5>
-            <p>Backend (Calendar y Event)</p>
-            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <p>Backend (Task)</p>
-            <h5>Periche Quiroga, Piero Fernando</h5>
-            <p>Backend (User)</p>
-            <h5>Silva Morales, Renzo Cesar</h5>
-            <p>Backend (Project)</p>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Backend (IAM)</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Backend (Calendar y Event)</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Backend (Task)</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Backend (User)</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Backend (Project)</p>
+            <h5>TP<h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Aplicación Mobile (Register and Login)</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Aplicación Mobile (Calendar y Event)</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Aplicación Mobile (Task)</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Aplicación Mobile (User related events)</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Aplicación Mobile (Project)</p>
         </td>
         <td>
             <h5>TB1</h5>
-            <p>Hemos hecho la investigación necesaria para el desarrollo de la primera entrega del trabajo. Se actualizaron diversos puntos anteriores para que se adecúe más al tema seleccionado</p>
+                <p>Hemos hecho la investigación necesaria para el desarrollo de la primera entrega del trabajo. Se actualizaron diversos puntos anteriores para que se adecúe más al tema seleccionado</p>
             <h5>TB2</h5>
-            <p>En esta entrega se desarrolló la aplicación backend que utilizará la aplicación móvil en las siguientes entregas</p>
+                <p>En esta entrega se desarrolló la aplicación backend que utilizará la aplicación móvil en las siguientes entregas</p>
+            <h5>Trabajo Parcial</h5>
+                <p>En esta entrega se desarrolló una primera instancia de la aplicación mobile. Se espera que para las siguientes entrega se mejore la funcionalidad y diseño de esta.</p>
         </td>
     </tr>
     <tr>
@@ -236,33 +271,46 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
         </td>
         <td>
             <h5>TB1</h5>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
-            <p>Desarrollo de 1 entrevista</p>
-            <h5>Mendoza Pimentel, Piero</h5>
-            <p>Desarrollo de 1 entrevista</p>
-            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <p>Desarrollo de 1 entrevista</p>
-            <h5>Periche Quiroga, Piero Fernando</h5>
-            <p>Desarrollo de 2 entrevistas</p>
-            <h5>Silva Morales, Renzo Cesar</h5>
-            <p>Desarrollo de 1 entrevista</p>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Desarrollo de 1 entrevista</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Desarrollo de 1 entrevista</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Desarrollo de 1 entrevista</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Desarrollo de 2 entrevistas</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Desarrollo de 1 entrevista</p>
             <h5>TB2</h5>
-            <h5>Cisneros Tafur, Diego Rafael</h5>
-            <p>Class and Database Diagram</p>
-            <h5>Mendoza Pimentel, Piero</h5>
-            <p>Mobile Design</p>
-            <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
-            <p>Style guidelines and Landing Page</p>
-            <h5>Periche Quiroga, Piero Fernando</h5>
-            <p>Information Architecture and Software Management</p>
-            <h5>Silva Morales, Renzo Cesar</h5>
-            <p>C4 and Sprint 1</p>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Class and Database Diagram</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Mobile Design</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Style guidelines and Landing Page</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Information Architecture and Software Management</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>C4 and Sprint 1</p>
+            <h5>Trabajo Parcial</h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Sprint 2</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Sprint 2</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Software Configuration Management y Sprint 2</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Sprint 2</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Sprint 2</p>
         </td>
         <td>
             <h5>TB1</h5>
-            <p>Se realizaron diversas entrevistas para comprender más a los potenciales clientes. También, se desarrolló un completo análisis a todos los puntos de vista planteados por los clientes. Con toda la información obtenida, podremos realizar nuestra aplicación móvil</p>
+                <p>Se realizaron diversas entrevistas para comprender más a los potenciales clientes. También, se desarrolló un completo análisis a todos los puntos de vista planteados por los clientes. Con toda la información obtenida, podremos realizar nuestra aplicación móvil</p>
             <h5>TB2</h5>
-            <p>Se realizó una investigación acerca de los requerimientos específicos y la arquitectura que necesita nuestra aplicación para satisfacer la mejor experiencia del usuario</p>
+                <p>Se realizó una investigación acerca de los requerimientos específicos y la arquitectura que necesita nuestra aplicación para satisfacer la mejor experiencia del usuario</p>
+            <h5>TP</h5>
+                <p>Se realizó una investigación sobre los requerimientos que necesita nuestra aplicación mobile para que se adecúe con los usuarios objetivos</p>
         </td>
     </tr>
 </table>
