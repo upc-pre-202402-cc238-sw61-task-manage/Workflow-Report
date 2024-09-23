@@ -161,16 +161,16 @@
 ---
 
 ### [4. Capítulo 4: Backend Product Implementation & Validation](#cap4)
-- **[4.1. Software Configuration Management](#4-software-configuration-management)**
-    - [4.1.1. Software Development Environment Configuration](#software-deveopment)
+- **[4.1. Software Configuration Management](#software-configuration-management)**
+    - [4.1.1. Software Development Environment Configuration](#software-development)
     - [4.1.2. Source Code Management](#code-management)
     - [4.1.3. Source Code Style Guide & Conventions](#code-conventions)
     - [4.1.4. Software Deployment Configuration](#software-configuration-deployment)
-- **[4.2. Software Development & Implementation](#4-software-development--implementation)**
+- **[4.2. Software Development & Implementation](#software-development--implementation)**
     - [4.2.1. Sprint 1](#sprint-1)
         - [4.2.1.1. Sprint Planning 1](#sprint-planning-1)
         - [4.2.1.2. Sprint Backlog 1](#sprint-backlog-1)
-        - [4.2.1.3. Development Evidence for Sprint Review](#sprint-deployment-1)
+        - [4.2.1.3. Development Evidence for Sprint Review](#sprint-development-1)
         - [4.2.1.4. Testing Suite Evidence for Sprint Review](#sprint-testing-1)
         - [4.2.1.5. Execution Evidence for Sprint Review](#sprint-execution-1)
         - [4.2.1.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-1)
@@ -179,7 +179,7 @@
 ---
 
 ### [5. Capítulo 5: Product Implementation & Validation](#cap5)
-- **[5.1. Software Configuration Management](#5-software-configuration-management)**
+- **[5.1. Software Configuration Management](#software-configuration-management)**
     - [5.1.1. Software Development Environment Configuration](#software-enviroment)
     - [5.1.2. Source Code Management](#software-management)
     - [5.1.3. Source Code Style Guide & Conventions](#software-conventions)
@@ -431,6 +431,7 @@ Esta es la sección de presentación. Se mostrarán todos los puntos relacionado
 </p>
 
 ### <a name="start-up"></a> 1.1 Startup Profile
+#### <a name="descripcion-startup"></a> 1.1.1 Descripción de la Startup
 <p style="text-align: justify">
 El grupo Task Management es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), pertenecientes a la carrera de Ingeniería de Software. Esta incipiente empresa se especializa en el desarrollo de software y soluciones tecnológicas dirigidas a los equipos de trabajo. El objetivo de la empresa es ayudar a estos individuos a alcanzar una organización adecuada de sus tareas y proyectos y, sobre todo, cumplir a sus metas. Asimismo, se sigue un modelo de aprendizaje mutuo con los clientes, para, de esa manera, poder mejorar progresivamente la calidad de atención al cliente y las herramientas que ofrece la empresa. Para ello, se ha diseñado una aplicación mobile llamada <i>Workflow</i>, dedicada en su totalidad a lograr lo anteriormente planteado.
 </p>
@@ -445,7 +446,7 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
     Destacar como la plataforma líder que revoluciona la gestión eficiente de proyectos y tareas en el mercado. En Task Management, nuestro propósito es garantizar la eficiencia de la organización. Buscamos obtener el reconocimiento como el proveedor soluciones innovadoras y confiables para los estudiantes y equipos de trabajo en toda Lima.
 </p>
 
-#### Perfiles de los estudiantes
+#### <a name="perfiles"></a> Perfiles de los estudiantes
 <table>
     <tr>
         <th colspan="2">Cisneros Tafur, Diego Rafael</th>
@@ -488,7 +489,7 @@ El grupo Task Management es una startup liderada por estudiantes de la Universid
 </table>
 
 ### <a name="solution-profile"></a> 1.1 Solution Profile
-#### 1.2.1 Antecendentes y Problemática
+#### <a name="antecedentes"></a> 1.2.1 Antecendentes y Problemática
 <p style="text-align: justify">
 Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5 W’s y 2 H’s”. La estructura de esta técnica permite tener una mayor organización y especificación de las actividades que se desarrollarán como empresa, lo que facilita la elaboración de la solución a la necesidad que se desea resolver. (Alvarez, 2020)
 </p>
@@ -518,8 +519,8 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 ###### 2. How Much? (¿Cuánto?): 
 <p><strong>Workflow</strong> se monetiza principalmente a través de un modelo de suscripción, con diferentes niveles de acceso que van desde una versión gratuita con características básicas hasta planes premium que ofrecen funciones avanzadas y soporte adicional. Los precios exactos pueden variar según el tamaño del equipo y las funcionalidades requeridas, pero se espera que los planes premium sean competitivos en el mercado para atraer tanto a pequeñas empresas como a grandes equipos de trabajo. Además, los usuarios pueden optar por integraciones adicionales o servicios personalizados por un costo adicional.</p>
 
-
-##### 1.2.2.1 Lean UX Problem Statements
+#### <a name="lean-ux-process"></a> 1.2.2. Lean UX Process
+##### <a name="lean-ux-problem-statements"></a> 1.2.2.1 Lean UX Problem Statements
 
 ###### Problem Statement:
 
@@ -562,7 +563,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
 <p>Nuestra visión es proporcionar una solución integral y fácil de usar que aborde todas las necesidades de gestión de tareas, desde el seguimiento de proyectos hasta la comunicación en equipo. Nos esforzamos por mejorar la eficiencia laboral y el logro de metas al ofrecer una plataforma centralizada que simplifique y optimice todos los aspectos de la gestión de tareas.</p>
 
-#### 1.2.2.2 Lean UX Assumptions
+#### <a name="lean-ux-assumptions"></a> 1.2.2.2 Lean UX Assumptions
 
 - **User Assumptions (Suposiciones de Usuarios)**
 
@@ -660,7 +661,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
 
     6. **Transparencia de Acciones y Mayor Confianza:** Generando una experiencia sin contratiempos que satisface a los usuarios, especialmente en la asignación de tareas y el seguimiento de proyectos.
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
+#### <a name="lean-ux-hypothesis-statements"></a> 1.2.2.3 Lean UX Hypothesis Statements
 
 <p>Utilizando la información recolectada en los Business Outcomes, Usuarios, Beneficios y Features, podemos formular nuestras hipótesis, cada una centrada en una característica a desarrollar.</p>
 
@@ -692,7 +693,7 @@ Para poder desarrollar adecuadamente nuestro caso, utilizaremos la técnica “5
     
     Cuando nuestra aplicación ocupe un 15% de mercado nacional
 
-#### 1.2.2.4 Lean Ux Canvas
+#### <a name="lean-ux-canvas"></a> 1.2.2.4 Lean Ux Canvas
 <table>
 <tr>
     <th> Lean Ux Canvas </th>
@@ -810,7 +811,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
 
 ![Imagen Basecamp Competidor](/images/competencia/basecamp.jpg)
 
-#### 2.1.1 Análisis competitivo
+#### <a name="analisis-competitivo"></a> 2.1.1 Análisis competitivo
 
 <table>
     <tr>
@@ -1067,7 +1068,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
     </tr>
 </table>
 
-#### 2.1.2 Estrategias y Tácticas frente a los competidores
+#### <a name="estrategias-competidores"></a> 2.1.2 Estrategias y Tácticas frente a los competidores
 <p style="text-align: justify">
     Nuestras estrategias incluyen la diferenciación mediante características únicas; cómo la competencia en costos; nuestro software será cómodo y accesible para nuestro segmento objetivo, la mejora de la estrategia de marketing; principalmente promocionarnos por las redes sociales, la innovación constante por medio de los comentarios, y la mejora del servicio al cliente.
 </p>
@@ -1078,7 +1079,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
  Las entrevistas representan una estrategia de investigación que implica el intercambio de diálogo con el propósito de adquirir datos, empleando cuestionamientos específicos para explorar en profundidad el pensamiento y la visión de la persona objeto de estudio.
 </p>
 
-#### 2.2.1 Diseño de entrevistas
+#### <a name="diseño-need"></a> 2.2.1 Diseño de entrevistas
 - **Segmento Objetivo:** Líder de Equipo
 
     1. ¿Cuáles son los mayores desafíos que enfrentas al gestionar un equipo de trabajo?
@@ -1123,7 +1124,7 @@ Es una herramienta en línea para la gestión de proyectos que fomenta la colabo
 
     10. ¿Qué mejoras sugerirías para las herramientas de gestión de tareas que utilizas actualmente?
 
-#### 2.2.2 Registro de entrevistas
+#### <a name="registro-need"></a> 2.2.2 Registro de entrevistas
 
 Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201923446_upc_edu_pe/ERy4AZSeh1dEpczjxwLeNRUB_WM5fG8o_DGLoWM-tBmgFw?e=8TziSF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
@@ -1216,7 +1217,7 @@ Enlace del video de las entrevistas: **[Video de entrevistas](https://upcedupe-m
     
     Le parecería útil una herramienta que permita la colaboración en tiempo real con otros miembros del equipo. Las características que más valora en una herramienta de gestión de tareas incluyen la posibilidad de categorizar cada tarea. Evalúa su progreso en función del tiempo que le toma completar las tareas asignadas y aprecia poder gestionar todas sus tareas en un solo lugar. Mauricio equilibra el cumplimiento de sus tareas alternando entre tareas sencillas y complejas.
 
-#### 2.2.3 Análisis de entrevistas
+#### <a name="analisis-need"></a> 2.2.3 Análisis de entrevistas
 
 **Segmento Objetivo: Lideres de equipo**
 - **Falta de Seguimiento y Colaboración:** 
@@ -1252,7 +1253,7 @@ El 75% prefiere recibir notificaciones sobre sus tareas asignadas directamente e
 ### <a name="needfinding"></a> 2.3 Needfinding
 Con el propósito de desarrollar una app que satisfaga las necesidades particulares de los usuarios, Task Management llevará a cabo la identificación del User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
 
-#### 2.3.1 User Personas
+#### <a name="user-personas"></a>  2.3.1 User Personas
 En esta sección se presentan personajes ficticios, uno para cada segmento objetivo. Los User Personas se han creado a partir de la información recopilada en entrevistas previas realizadas a cada segmento objetivo. El propósito de estas entrevistas fue profundizar en el conocimiento sobre las personas a las que está destinada la aplicación. La información obtenida incluye aspectos como demografía, metas, motivaciones, frustraciones, marcas relacionadas con el tema de la aplicación y los canales digitales que más utilizan, entre otros. 
 
 **Segmento objetivo: Líder de equipo**
@@ -1265,7 +1266,7 @@ En esta sección se presentan personajes ficticios, uno para cada segmento objet
 ![User Persona Miembro](/images/needfinding/user-persona-cielo.png)
 
 
-#### 2.3.2 User Task Matrix
+#### <a name="user-task-matrix"></a> 2.3.2 User Task Matrix
 En esta sección se presenta la User Task Matrix, una herramienta enfocada en los segmentos objetivos (líder de equipo y miembro de equipo) que facilita la identificación de las tareas y objetivos clave de los usuarios. Esta matriz también ayuda a priorizar las características y funcionalidades al elaborar el Product Backlog. Para evaluar la frecuencia de las tareas, se han definido cinco opciones: nunca, casi nunca, a veces, a menudo y siempre; mientras que para la importancia se han establecido tres niveles: bajo, medio y alto.
 
 <table><tr><th rowspan="2">Task Matrix</th><th colspan="2">Líder de equipo</th><th colspan="3">Miembro de equipo</th></tr>
@@ -1283,7 +1284,7 @@ En esta sección se presenta la User Task Matrix, una herramienta enfocada en lo
 <tr><td valign="top">Ver integrantes de una tarea asignada al proyecto</td><td>A veces</td><td>Alta</td><td colspan="2">Nunca</td><td>Ninguna</td></tr>
 </table>
 
-#### 2.3.3 User Journey Mapping
+#### <a name="user-journey-mapping"></a> 2.3.3 User Journey Mapping
 En esta sección se presentan los User Journey Mapping para cada User Persona.
 
 **Segmento objetivo: Líder de equipo**
@@ -1293,7 +1294,7 @@ En esta sección se presentan los User Journey Mapping para cada User Persona.
 **Segmento objetivo: Miembro de equipo**
 ![Journey Mapping: Cielo](images/needfinding/journey-mapping-cielo.png)
 
-#### 2.3.4 Empathy Mapping
+#### <a name="empathy-mapping"></a> 2.3.4 Empathy Mapping
 En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona que se realizaron, teniendo en cuenta los dos segmentos objetivos. El Empathy Mapping será de utilidad debido a que podemos conocer a mayor detalle a nuestros clientes, lo que nos permitirá mejorar algunos aspectos de la aplicación.
 
 **Segmento objetivo: Líder de equipo**
@@ -1304,7 +1305,7 @@ En esta sección se presentan los Empathy Mapping de acuerdo a los User Persona 
 
 ![Empathy Mapping Miembro](/images/needfinding/empathy-mapping-cielo.png)
 
-#### 2.3.5 As-is Scenario Mapping
+#### <a name="as-is"></a>  2.3.5 As-is Scenario Mapping
 En esta sección se presenta el As-Is Scenario Mapping para los segmentos objetivo, en donde se identifican y comprenden los puntos de contacto del usuario.
 
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
@@ -1317,7 +1318,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
 
 ### <a name="requirements-specification"></a> 2.4 Requirements Specification
 
-#### 2.4.1 To-be Scenario Mapping
+#### <a name="to-be"></a> 2.4.1 To-be Scenario Mapping
 Los cuadros del To-Be Scenario Mapping los desarrollamos para indicar cómo es que la experiencia de los usuarios mejorará cuando utilicen nuestra aplicación móvil.
 
 Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753)**
@@ -1328,7 +1329,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
 2. Miembro de equipo de trabajo
 ![TO-BE Scenario  Mapping: Cielo](images/needfinding/to-be-cielo.jpg)
 
-### 2.4 User Stories
+### <a name="user-stories"></a> 2.4 User Stories
 <table>
     <tr>
         <th>Story ID</th>
@@ -2658,7 +2659,7 @@ Enlace de cuadros realizados en Miro: **[Miro Board](https://miro.com/app/board/
     </tr>
 </table>
 
-### 2.4.3 Impact Mapping
+### <a name="impact-mapping"></a> 2.4.3 Impact Mapping
 Impact Mapping es un método colaborativo para planificar y facilitar el desarrollo de productos o servicios. Ayuda a los equipos a enfocarse en los resultados que más importan a los usuarios y a crear un plan de acción para lograrlos.
 
 1. Líder de equipo de trabajo
@@ -2667,7 +2668,7 @@ Impact Mapping es un método colaborativo para planificar y facilitar el desarro
 2. Miembro de equipo de trabajo
 ![Impact Mapping: Cielo](images/needfinding/impact-mapping-cielo.jpg)
 
-### 2.4.4 Product Backlog
+### <a name="product-backlog"></a> 2.4.4 Product Backlog
 Se utilizó la aplicación Trello para el desarrollo del product backlog **[Trello Board](https://trello.com/invite/b/660ef350fe01db07fd70f17a/ATTI5f39670d0915dde28ef5aaa3c96e7c1a972A276E/aplicaciones-moviles)**
 Imagen del product backlog desarrollado en Trello:
 ![product backlog](images/needfinding/product-backlog.jpg)
@@ -2918,8 +2919,8 @@ Imagen del product backlog desarrollado en Trello:
 
 ## <a name="cap3"></a> Capítulo 3: Arquitectura
 ### <a name="product-design"></a> 3.1 Product Design
-#### 3.1.1 Style Guidelines
-##### 3.1.1.1 General Style Guidelines
+#### <a name="style-guidelines"></a> 3.1.1 Style Guidelines
+##### <a name="general-style-guidelines"></a> 3.1.1.1 General Style Guidelines
 
 Los "General Style Guidelines" (Lineamientos Generales de Estilo) son un conjunto de principios que te ayudan a escribir de manera clara, concisa y efectiva.
 
@@ -2970,11 +2971,11 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 
 
 
-#### 3.1.2 Information Architecture
-<h3>3.1.2.1. Organization Systems</h3>
+#### <a name="information-architecture"></a> 3.1.2 Information Architecture
+##### <a name="organization-systems"></a> 3.1.2.1. Organization Systems
 <p>En Task Management, hemos diseñado la estructura organizacional de nuestra aplicación Workflow para abordar los desafíos de la gestión de proyectos de manera jerárquica y eficiente. Las tareas y proyectos se organizan visualmente en una jerarquía clara, lo que permite que los usuarios dividan sus proyectos en diferentes niveles de prioridad y fases de ejecución. Esta metodología facilita la planificación y asignación de responsabilidades, asegurando que cada miembro del equipo pueda visualizar sus tareas y contribuciones de manera ordenada. Además, el sistema de organización se adapta a las necesidades específicas de cada proyecto, brindando flexibilidad y personalización.</p>
 
-<h3>3.1.2.2. Labeling Systems</h3>
+##### <a name="labeling-systems"></a> 3.1.2.2. Labeling Systems
 <p>Para implementar un sistema de etiquetado que optimice el manejo de tareas, realizamos un análisis de la competencia y de las necesidades de nuestros usuarios. Nuestro sistema de etiquetas permite clasificar las tareas según varios criterios como prioridad, estado del proyecto, y área de trabajo. Las etiquetas predeterminadas en Workflow incluyen categorías como:</p>
 <ul>
   <li><strong>Perfil:</strong> Almacena la información del usuario, como su rol y contribuciones actuales.</li>
@@ -2983,72 +2984,73 @@ Nuestra aplicación Workflow tiene como objetivo facilitar la organización en e
 </ul>
 <p>Estas etiquetas permiten a los usuarios gestionar grandes volúmenes de información de forma más sencilla y ordenada.</p>
 
-<h3>3.1.2.3. SEO Tags and Meta Tags</h3>
+##### <a name="meta-tags"></a> 3.1.2.3. SEO Tags and Meta Tags
 <p>La integración de SEO y Meta Tags en nuestra aplicación está orientada a mejorar la visibilidad tanto interna como externa. Esto permite que los proyectos y tareas compartidas o publicadas sean fácilmente rastreables en motores de búsqueda. Las etiquetas SEO optimizan la exposición de los proyectos en línea, asegurando que tanto los usuarios como los colaboradores externos puedan acceder de manera rápida y eficiente a los contenidos relevantes. Además, las meta tags ayudan a categorizar de forma precisa la información dentro de la plataforma.</p>
 
-<h3>3.1.2.4. Searching Systems</h3>
+##### <a name="searching-systems"></a> 3.1.2.4. Searching Systems
 <p>Para mejorar la eficiencia en la búsqueda de información dentro de Workflow, hemos integrado un potente motor de búsqueda basado en ElasticSearch. Esta herramienta avanzada permite indexar de manera rápida y eficiente todas las tareas, proyectos y datos almacenados en la plataforma. Los usuarios pueden utilizar una barra de búsqueda con filtros personalizados que permiten encontrar tareas por etiquetas, fechas, nombres de proyectos, o miembros del equipo. ElasticSearch también nos permite agregar dashboards con datos visuales para hacer el proceso de búsqueda más interactivo y claro.</p>
 
-<h3>3.1.2.5. Navigation Systems</h3>
+##### <a name="navigation-systems"></a> 3.1.2.5. Navigation Systems
 <p>El sistema de navegación en Workflow está diseñado para ofrecer una experiencia de usuario sencilla e intuitiva. Al ingresar a la aplicación, los usuarios tienen acceso a un menú principal en la parte superior, donde pueden acceder a opciones clave como "Nosotros", que proporciona información sobre la startup, y otras secciones relevantes. A la derecha, se despliega una barra lateral que organiza las funcionalidades principales como "Tareas", "Calendario", "Equipos de trabajo", y "Configuración". Los usuarios pueden personalizar la navegación según sus preferencias, priorizando las opciones más utilizadas para facilitar su flujo de trabajo. Una vez registrados, pueden iniciar proyectos colaborativos, seleccionando su rol y compartiendo proyectos con otros usuarios de manera rápida y eficiente.</p>
 
 
-#### 3.1.3 Landing Page UI Design
+#### <a name="landing-ui"></a> 3.1.3 Landing Page UI Design
 En esta sección se incluyen las vistas de la landing page. Las vistas se encuentran en la siguiente página **[Landing Page Wireframes y Mockups](https://www.figma.com/design/bsrw1qxMGWIDcYgM9VNe7K/Untitled?node-id=0-1&t=O13ANdI35GrpOE6M-1)**
-#### 3.1.3.1. Landing Page Wireframe
+
+#### <a name="landing-wireframe"></a> 3.1.3.1. Landing Page Wireframe
 ![Landing Page Wireframes](images/landing%20page/landing-wireframe.png)
-#### 3.1.3.2. Landing Page Mock-up
+
+#### <a name="landing-mockup"></a> 3.1.3.2. Landing Page Mock-up
 ![Landing Page Mockups: Light](images/landing%20page/landing-mockup-light.png)
 ![Landing Page Mockups: Dark](images/landing%20page/landing-mockup-dark.png)
-#### 3.1.4. Mobile Applications UX/UI Design
 
-##### 3.1.4.1. Mobile Applications Wireframes
+#### <a name="mobile-ui"></a> 3.1.4. Mobile Applications UX/UI Design
+
+##### <a name="mobile-wireframes"></a> 3.1.4.1. Mobile Applications Wireframes
 
 - Iniciar sesión
-
     ![Iniciar Sesión](<images/Wireframes/Sign In.png>)
+
 - Registrarse
-
     ![Registrarse](images/Wireframes/Register.png)
-- Menu de navegación
 
+- Menu de navegación
     ![Navegación](<images/Wireframes/Navigation drawer.png>)
 
 - Ver los proyectos
-
     ![Vista de Proyectos](<images/Wireframes/Project Management.png>)
+
 - Agregar un proyecto
-
     ![Agregar un Proyecto](<images/Wireframes/Project Management - Add Project.png>)
+
 - Ver detalles de un proyecto
-
     ![Detalles de un proyecto](<images/Wireframes/Project View.png>)
+
 - Agregar una tarea a un proyecto 
-
     ![Agregar tarea](<images/Wireframes/Project View - Add Task.png>)
+
 - Agregar un miembro de equipo a un proyecto
-
     ![Agregar miembro de equipo](<images/Wireframes/Project View - Add Member.png>)
+
 - Ver miembros del equipo
-
     ![Ver miembros del equipo](images/Wireframes/Teammates.png)
+
 - Enviar solicitud a un miembro de equipo
-
     ![Envío de solicitud](images/Wireframes/Teammates-1.png)
+
 - Ver detalles de un miembro de equipo
-
     ![Detalles de miembro de equipo](<images/Wireframes/Teammate View.png>)
+
 - Ver el calendario
-
     ![Calendario](images/Wireframes/Calendar.png)
+
 - Agregar un evento al calendario
-
     ![Evento de Calendario](<images/Wireframes/Calendar- Add event.png>)
-- Configuracion de perfil
 
+- Configuracion de perfil
     ![Perfil](images/Wireframes/Configuration.png)
 
-##### 3.1.4.2. Mobile Applications Wireflow Diagrams
+##### <a name="mobile-wireflow"></a> 3.1.4.2. Mobile Applications Wireflow Diagrams
 
 - User goal: Iniciar sesion 
     ![Iniciar Sesión](<images/Wireflow/Iniciar sesion.png>)
@@ -3078,53 +3080,51 @@ Descripción: En la vista de calendario, el usuario podrá ver de forma visual l
     ![Datos personales](images/Wireflow/Configuracion.png)
 Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
 
-##### 3.1.4.3. Mobile Applications Mock-ups
+##### <a name="mobile-mockups"></a> 3.1.4.3. Mobile Applications Mock-ups
 
 - Iniciar sesión
-
     ![Iniciar Sesión](<images/Mock-ups/Sign In.png>)
+
 - Registrarse
-
     ![Registro de Usuario](images/Mock-ups/Register.png)
-- Menu de navegación
 
+- Menu de navegación
     ![Navegación](<images/Mock-ups/Navigation drawer.png>)
 
 - Ver los proyectos
-
     ![Proyectos](<images/Mock-ups/Project Management.png>)
+
 - Agregar un proyecto
-
     ![Agregar un proyecto](<images/Mock-ups/Project Management - Add Project.png>)
+
 - Ver detalles de un proyecto
-
     ![Ver detalles de un proyecto](<images/Mock-ups/Project View.png>)
+
 - Agregar una tarea a un proyecto 
-
     ![Agregar una tarea a un proyecto ](<images/Mock-ups/Project View - Add Task.png>)
+
 - Agregar un compañero de equipo a un proyecto
-
     ![Agregar un compañero de equipo a un proyecto](<images/Mock-ups/Project View - Add Member.png>)
+
 - Ver compañeros de equipo
-
     ![Ver compañeros de equipo](images/Mock-ups/Teammates.png)
+
 - Enviar solicitud a un compañero de equipo
-
     ![Enviar solicitud a un compañero de equipo](images/Mock-ups/Teammates-1.png)
+
 - Ver detalles de un compañero de equipo
-
     ![Ver detalles de un compañero de equipo](<images/Mock-ups/Teammate View.png>)
+
 - Ver el calendario
-
     ![Ver el calendario](images/Mock-ups/Calendar.png)
+
 - Agregar un evento al calendario
-
     ![Agregar un evento al calendario](<images/Mock-ups/Calendar- Add event.png>)
-- Configuracion de perfil
 
+- Configuracion de perfil
     ![Configuracion de perfil](images/Mock-ups/Configuration.png)
 
-##### 3.1.4.4. Mobile Applications User Flow Diagrams
+##### <a name="mobile-userflow"></a> 3.1.4.4. Mobile Applications User Flow Diagrams
 
 - User goal: Iniciar sesion 
     ![Iniciar sesion ](<images/Userflow/Iniciar sesion.png>)
@@ -3153,7 +3153,7 @@ Descripción: En la vista de calendario, el usuario podrá ver de forma visual l
 - User goal: Modificar datos personales
     ![Datos personales](images/Userflow/Configuracion.png)
 Descripción: En la vista de configuración, el usuario podrá modificar sus datos personales, como nombre completo, correo electrónico y contraseña. Al presionar el botón de guardar, aparecerá un cuadro de diálogo que confirmará los cambios.
-##### 3.1.4.5. Mobile Applications Prototyping
+##### <a name="mobile-prototype"></a> 3.1.4.5. Mobile Applications Prototyping
 
 Link del prototipo hecho en Figma: **[Prototipo](https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=9uknxlSso2kidvT9-1)**
 
@@ -3161,33 +3161,34 @@ Link del video mostrando el prototipo: **[Video del Prototipo](https://upcedupe-
 
 ### <a name="architecture-overview"></a> 3.2. Architecture Overview.
 
-#### 3.2.1. Domain-Driven Software Architecture.
+#### <a name="c4"></a> 3.2.1. Domain-Driven Software Architecture.
 
 En esta parte, aplicaremos el modelo C4 para definir la estructura del software, cubriendo elementos como el contexto, los contenedores, los componentes y la implementación. Este enfoque permite una comprensión clara de la arquitectura, tanto para los miembros del equipo como para los stakeholders externos.
 
-##### 3.2.1.1. Software Architecture Context Level Diagram.
+##### <a name="c4-context"></a> 3.2.1.1. Software Architecture Context Level Diagram.
 
 Para identificar y representar adecuadamente a los usuarios y sistemas externos que interactúan con nuestro sistema, hemos elaborado un diagrama de contexto. En este diagrama se puede observar que hemos identificado a dos usuarios.
 
 ![ContextDiagram](/images/c4/diagrama-contexto.png)
 
-##### 3.2.1.2. Software Architecture Container Level Diagram.
+##### <a name="c4-container"></a> 3.2.1.2. Software Architecture Container Level Diagram.
 
 El diagrama de contenedores ofrece una vista de alto nivel sobre las relaciones entre las aplicaciones y las fuentes de datos que forman parte de la ejecución de la aplicación Task Management.
 
 ![ContainerDiagram](/images/c4/diagrama-contenedores.png)
 
-##### 3.2.1.3. Software Architecture Components Diagram
+##### <a name="c4-components"></a>  3.2.1.3. Software Architecture Components Diagram
 
 Los diagramas de componentes presentan una vista de las interacciones entre los principales componentes de la aplicación. Estos componentes detallan cómo se implementan los diferentes módulos en la app.
 
 ![ComponentsDiagram](/images/c4/diagrama-componentes.png)
 
-#### 3.2.2. Software Object-Oriented Design
+#### <a name="diagrams"></a> 3.2.2. Software Object-Oriented Design
 
-##### 3.2.2.1. Class Diagrams
+##### <a name="class-diagram"></a> 3.2.2.1. Class Diagrams
 ![Class Diagram](images/diagramas/class-diagram.png)
-##### 3.2.2.2. Class Dictionary
+
+##### <a name="class-dictionary"></a> 3.2.2.2. Class Dictionary
 ## Clase: User
 - **Tipo**: Entity
 - **Atributos**:
@@ -3306,24 +3307,17 @@ Los diagramas de componentes presentan una vista de las interacciones entre los 
   - `Bool paid`
 - **Descripción**: `Receipt` representa un recibo que detalla el total de un pago, la fecha en la que fue generado y si ha sido pagado o no. Puede estar vinculado a la suscripción del usuario.
 
-##### 3.2.2.3. Database Design
+##### <a name="database-design"></a> 3.2.2.3. Database Design
 
 En el siguiente punto se presenta nuestro diagrama de base de datos relacional, diagramado en la herramienta Vertabelo.  
 
-##### 3.2.2.4. Database Diagram
+##### <a name="database-diagram"></a>  3.2.2.4. Database Diagram
 ![Database Diagram](images/diagramas/database-diagram.png)
 
-
-
-4.1.2. Source Code Management
-4.1.3. Source Code Style Guide & Conventions
-4.1.4. Software Deployment Configuration
-
-### <a name="architecture-overview"></a> 4. Capítulo 4: Backend Product Implementation & Validation.
-
-#### 4.1. Software Configuration Management
-#### 4.1.1. Software Development Environment Configuration
-<table border="1">
+## <a name="cap4"></a> 4. Capítulo 4: Backend Product Implementation & Validation.
+### <a name="software-configuration-management"></a>  4.1. Software Configuration Management
+#### <a name="software-development"></a> 4.1.1. Software Development Environment Configuration
+<table>
   <thead>
     <tr>
       <th>Área</th>
@@ -3381,39 +3375,39 @@ En el siguiente punto se presenta nuestro diagrama de base de datos relacional, 
   </tbody>
 </table>
 
-## 4.1.2. Source Code Management
-Link del repositorio: https://github.com/upc-pre-202402-cc238-sw61-task-manage/Workflow-Report 
+#### <a name="code-management"></a>  4.1.2. Source Code Management
+Link del repositorio: **[Repositorio](https://github.com/upc-pre-202402-cc238-sw61-task-manage/Workflow-Report)**
 
-Implementación de Gitflow
+##### Implementación de Gitflow
 
 Nuestro equipo ha decidido trabajar con la herramienta de control de versiones de Git para implementar GitFlow, un flujo de trabajos eficiente y sofisticado. Tomamos como base el modelo del artículo “A successful Git branching model”, diseñado en el 2010 por Vicent Driessen. Elegimos este modelo debido al gran número de detalles ofrecidos por no solo por las imágenes, sino también por la descripción. 
 
 
-<h2>Master Branch</h2>
+##### *Master Branch*
 <p>La <strong>Master Branch</strong>, también conocida como la rama <code>master</code>, es la rama principal del desarrollo de nuestro proyecto. Aquí se encuentra el desarrollo de la parte que estamos realizando actualmente.</p>
 <p>Esta rama la denotamos como <code>master</code>.</p>
 
-<h2>Develop Branch</h2>
+##### *Develop Branch*
 <p>La <strong>Develop Branch</strong>, también conocida como la rama de desarrollo, es el entorno donde se ubican los cambios más recientes realizados por nuestro equipo de desarrollo. Las actualizaciones realizadas en esta rama siempre serán entregadas en la versión que le sigue.</p>
 <p>Esta rama tiene como notación <code>develop</code> y se crea con el siguiente comando:</p>
 <pre><code>git checkout -b develop master</code></pre>
 
-<h2>Release Branch</h2>
+##### *Release Branch*
 <p>La <strong>Release Branch</strong>, también conocida como la rama de lanzamiento, nos permite desarrollar una nueva versión de la aplicación Task Management, al igual que subir las actualizaciones a la <code>Develop Branch</code> y, posteriormente, a la <code>Master Branch</code>. En esta rama, también se corrigen los errores de las versiones anteriores.</p>
 <p>Su notación es <code>release</code> y se crea con el siguiente comando:</p>
 <pre><code>git checkout -b release/develop</code></pre>
 
-<h2>Feature Branch</h2>
+##### *Feature Branch*
 <p>La <strong>Feature Branch</strong>, también conocida como la rama de características, se utiliza para implementar las últimas características y funcionalidades desarrolladas en la aplicación. Estas funcionalidades eventualmente serán implementadas a la <code>Develop Branch</code>.</p>
 <p>Su notación es <code>feature/[name of feature]</code> y su comando de creación es el siguiente:</p>
 <pre><code>git checkout -b feature/[name of feature] develop</code></pre>
 
-<h2>Hotfix Branch</h2>
+##### *Hotfix Branch*
 <p>La <strong>Hotfix Branch</strong>, también conocida como la rama de revisiones, se utiliza para solucionar posibles pequeños errores o problemas que, aunque no afectan mucho la experiencia de usuario, siguen siendo pequeños inconvenientes que pueden ser arreglados rápidamente. Esta rama permite solucionar pequeños errores mientras que el resto de los integrantes del equipo se mantienen trabajando en la siguiente versión de la aplicación. Es importante que el contenido de esta rama se derive posteriormente a la <code>Master Branch</code>.</p>
 <p>Se denota como <code>hotfix</code> y su comando de creación es el siguiente:</p>
 <pre><code>git checkout -b hotfix master</code></pre>
 
-<h2>Semantic Versioning</h2>
+##### *Semantic Versioning*
 <p>Se utilizó como referencia el artículo <a href="https://semver.org/">“Semantic Versioning 2.0.0”</a> para el nombramiento de las versiones de la aplicación Task Management.</p>
 <p>Una versión de la aplicación tiene la siguiente forma: <code>X.Y.Z</code></p>
 <ul>
@@ -3438,71 +3432,71 @@ Nuestro equipo ha decidido trabajar con la herramienta de control de versiones d
     <li>La versión inicial de la aplicación tendrá la forma <code>0.Y.Z</code>.</li>
 </ul>
 
-<h2>Conventional Commits</h2>
+##### *Conventional Commits*
 <p>Se utilizó como referencia el artículo <a href="https://www.conventionalcommits.org/en/v1.0.0/">“Conventional Commits 1.0.0”</a> para el nombramiento de los commits de la aplicación Task Management.</p>
 <p>Emplearemos la siguiente estructura para un commit:</p>
 <pre><code>git commit -m [optional_scope]: &lt;title&gt; -m &lt;description&gt;</code></pre>
 <p><strong>Optional Scope</strong></p>
 <p>Se utilizará para indicar la versión de la aplicación. Esta se empleará sólo en <code>Master Branch</code>, <code>Hotfix Branch</code> y <code>Release Branch</code>.</p>
 
-# Source Code Style Guide & Conventions
+#### <a name="code-conventions"></a> 4.1.3. Source Code Style Guide & Conventions
 
 Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Kotlin como principales herramientas. Siguiendo las directrices y convenciones de estilo establecidas, nos aseguramos de mantener buenas prácticas que faciliten el mantenimiento y la escalabilidad del proyecto. A continuación, detallamos algunas convenciones clave:
 
-## Elementos principales en Kotlin y Android:
+##### Elementos principales en Kotlin y Android:
 
-### Activity y Fragment
+##### *Activity y Fragment*
 - **Activity**: Representa una pantalla individual de la aplicación. Se utiliza para manejar la interfaz de usuario principal y la lógica.
 - **Fragment**: Se utiliza para manejar componentes reutilizables de la UI que se pueden combinar dentro de las Activities.
 
-### RecyclerView
+##### *RecyclerView*
 - **RecyclerView**: Utilizado para mostrar grandes listas de elementos de manera eficiente. Es esencial para manejar colecciones de datos en la aplicación.
 
-### ViewModel
+##### *ViewModel*
 - **ViewModel**: Utilizado para almacenar y gestionar datos relacionados con la UI en un ciclo de vida consciente.
 
-## Convenciones de código en Kotlin:
+##### Convenciones de código en Kotlin:
 
-### Naming Conventions
+##### *Naming Conventions*
 - **Clases y Interfaces**: Usar `PascalCase`. Ejemplo: `TaskManager`, `UserRepository`.
 - **Funciones**: Usar `camelCase`. Ejemplo: `fetchUserData()`, `calculateTotal()`.
 - **Variables**: Usar `camelCase`. Ejemplo: `userName`, `totalAmount`.
 - **Constantes**: Usar `UPPER_SNAKE_CASE`. Ejemplo: `MAX_ATTEMPTS`, `DEFAULT_TIMEOUT`.
 
-### Estructura del código
+##### *Estructura del código*
 - Dividir las clases según su responsabilidad. Aplicar el principio `Single Responsibility Principle`.
 - Mantener las clases y funciones pequeñas y manejables. Una función no debe tener más de 20-30 líneas.
 - Utilizar `data classes` para representar modelos simples de datos.
 
-## Uso de Layouts en Android
+##### Uso de Layouts en Android
 
-### ConstraintLayout
+##### *ConstraintLayout*
 - **ConstraintLayout**: Utilizado para crear interfaces complejas con posicionamiento flexible de elementos en la pantalla. Ideal para garantizar que la UI se vea bien en diferentes tamaños de pantalla.
 
-### LinearLayout y RelativeLayout
+##### *LinearLayout y RelativeLayout*
 - **LinearLayout**: Útil para organizar elementos de forma horizontal o vertical.
 - **RelativeLayout**: Facilita la colocación de elementos en relación con otros dentro del mismo contenedor.
 
-## Propiedades clave en XML para diseño:
+##### Propiedades clave en XML para diseño:
 
-### Tamaño y Margen
+##### *Tamaño y Margen*
 - **layout_width** y **layout_height**: Controlan el tamaño de los elementos. Utilizar `wrap_content` o `match_parent` según corresponda.
 - **margin** y **padding**: Ajustan el espacio alrededor de los elementos.
 
-### Color y Fuente
+##### *Color y Fuente*
 - **textColor**: Controla el color del texto. Se recomienda utilizar colores definidos en el archivo de recursos de colores.
 - **fontFamily**: Define la fuente del texto, manteniendo una consistencia en la UI.
 
-### Imagen
+##### *Imagen*
 - **ImageView**: Se utiliza para mostrar imágenes en la interfaz. Asegúrate de usar imágenes optimizadas para mejorar el rendimiento de la aplicación.
 
-## Buenas prácticas en Android Studio:
+##### Buenas prácticas en Android Studio:
 
 - **Optimización de recursos**: Organizar imágenes, colores, y cadenas de texto en los archivos de recursos correspondientes (`res/drawable`, `res/values`, etc.).
 - **Testing**: Implementar pruebas unitarias y de interfaz de usuario (UI) para asegurar que las funcionalidades críticas funcionen correctamente.
 - **Modularización**: Siempre que sea posible, modularizar componentes reutilizables para reducir la duplicación de código y mejorar la mantenibilidad.
 
-### Software Deployment Configuration
+### <a name="software-configuration-deployment"></a> 4.1.4. Software Deployment Configuration
 
 <p>Para desplegar nuestra landing page utilizamos GitHub Pages. A continuación, mencionaremos los pasos a seguir para hacerlo:</p>
 
@@ -3520,9 +3514,9 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
   </li>
 </ol>
 
-### [4.2. Software Development & Implementation](#421-sprint-1)
-#### 4.2.1. Sprint 1
-##### 4.2.1.1. Sprint Planning 1
+### <a name="software-configuration-deployment"></a> 4.2. Software Development & Implementation
+#### <a name="sprint-1"></a> 4.2.1. Sprint 1
+##### <a name="sprint-planning-1"></a> 4.2.1.1. Sprint Planning 1
 | Sprint#   |  Sprint 1  |
 | --------- | ---------- |
 |Sprint Planning Background | |
@@ -3536,10 +3530,12 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 | Sprint Goal & User Stories | |
 | Sprint 1 Velocity | 10 |
 | Sum of Story Points | 34 |
-##### 4.2.1.2. Sprint Backlog 1
+
+##### <a name="sprint-backlog-1"></a> 4.2.1.2. Sprint Backlog 1
 Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/660b7752a3c23d8fc77e020a/ATTI2fa3011a92acec9fba2af7d759e5461f1F98BC68/sprint-backlog-1-task-management)**
 ![Sprint Backlog 1](images/sprint-1/trello.jpeg)
-##### 4.2.1.3. Development Evidence for Sprint Review
+
+##### <a name="sprint-development-1"></a> 4.2.1.3. Development Evidence for Sprint Review
 ![Development Evidence](images/sprint-1/development-evidence.png)
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -3561,11 +3557,13 @@ Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Tre
 | Backend | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker | 14/09/24 |
 | Backend | feature/task | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context| 15/09/24 |
 | Backend | feature/task | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context | 15/09/24 |
-##### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+##### <a name="sprint-testing-1"></a> 4.2.1.4. Testing Suite Evidence for Sprint Review
 No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo que no aplica esta sección.
-##### 4.2.1.5. Execution Evidence for Sprint Review
+
+##### <a name="sprint-execution-1"></a> 4.2.1.5. Execution Evidence for Sprint Review
 ![Execution Evidence](images/sprint-1/execution.png)
-##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+##### <a name="sprint-documentation-1"></a> 4.2.1.6. Services Documentation Evidence for Sprint Review
 
 | Bounded Context | IAM |
 | - | - |
@@ -3592,9 +3590,9 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 | Endpoint URL | Swagger |
 | api/v1/authentication/ | ![Profiles](images/sprint-1/documentation-profiles.jpeg) |
 
-##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+##### <a name="sprint-software-deployment-1"></a> 4.2.1.7. Software Deployment Evidence for Sprint Review
 
-##### 4.2.1.8. Team Collaboration Insights during Sprint
+##### <a name="sprint-insights-1"></a> 4.2.1.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-1/insights.png)
 
 ## Bibliografía
