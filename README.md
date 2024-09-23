@@ -94,111 +94,111 @@
 ## Contenido
 
 ### [1. Capítulo 1: Presentación](#cap1)
-#### [1.1. Startup Profile](#start-up)
-    1.1.1 Descripción de la Startup
-    1.1.2 Perfiles de los integrantes
-#### [1.2. Solution Profile](#solution-profile)
-    1.2.1. Antecedentes y problemática
-    1.2.2. Lean UX Process
-        1.2.2.1. Lean UX Problem Statements
-        1.2.2.2. Lean UX Assumptions
-        1.2.2.3. Lean UX Hypothesis Statements
-        1.2.2.4. Lean UX Canvas
-#### [1.3 Segmentos objetivo](#segmentos-objetivos)
+- **[1.1. Startup Profile](#start-up)**
+    - [1.1.1 Descripción de la Startup](#descripcion-startup)
+    - [1.1.2 Perfiles de los integrantes](#perfiles)
+- **[1.2. Solution Profile](#solution-profile)**
+    - [1.2.1. Antecedentes y problemática](#antecedentes)
+    - [1.2.2. Lean UX Process](#lean-ux-process)
+        - [1.2.2.1. Lean UX Problem Statements](#lean-ux-problem-statements)
+        - [1.2.2.2. Lean UX Assumptions](#lean-ux-assumptions)
+        - [1.2.2.3. Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
+- **[1.3 Segmentos objetivo](#segmentos-objetivos)**
 
 ---
 
 ### [2. Capítulo 2: Needfinding](#cap2)
-#### [2.1. Competidores](#competidores)
-    2.1.1. Análisis competitivo
-    2.1.2. Estrategias y tácticas frente a competidores
-#### [2.2. Entrevistas](#entrevistas-need)
-    2.2.1. Diseño de entrevistas
-    2.2.2. Registro de entrevistas
-    2.2.3. Análisis de entrevistas
-#### [2.3. Needfinding](#needfinding)
-    2.3.1. User Personas
-    2.3.2. User Task Matrix
-    2.3.3. User Journey Mapping
-    2.3.4. Empathy Mapping
-    2.3.5. As-is Scenario Mapping
-#### [2.4. Requirements Specification](#requirements-specification)
-    2.4.1. To-Be Scenario Mapping
-    2.4.2. User Stories
-    2.4.3. Impact Mapping
-    2.4.4. Product Backlog
+- **[2.1. Competidores](#competidores)**
+    - [2.1.1. Análisis competitivo](#analisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-competidores)
+- **[2.2. Entrevistas](#entrevistas-need)**
+    - [2.2.1. Diseño de entrevistas](#diseño-need)
+    - [2.2.2. Registro de entrevistas](#registro-need)
+    - [2.2.3. Análisis de entrevistas](#analisis-need)
+- **[2.3. Needfinding](#needfinding)**
+    - [2.3.1. User Personas](#user-personas)
+    - [2.3.2. User Task Matrix](#user-task-matrix)
+    - [2.3.3. User Journey Mapping](#user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#as-is)
+- **[2.4. Requirements Specification](#requirements-specification)**
+    - [2.4.1. To-Be Scenario Mapping](#to-be)
+    - [2.4.2. User Stories](#user-stories)
+    - [2.4.3. Impact Mapping](#impact-mapping)
+    - [2.4.4. Product Backlog](#product-backlog)
 ---
 
 ### [3. Capítulo 3: Arquitectura](#cap3)
-#### [3.1. Product Design](#product-design)
-    3.1.1. Style Guidelines
-        3.1.1.1. General Style Guidelines
-    3.1.2 Information Architecture
-        3.1.2.1. Organization Systems
-        3.1.2.2. Labeling Systems
-        3.1.2.3. SEO Tags and Meta Tags
-        3.1.2.4. Searching Systems
-        3.1.2.5. Navigation Systems
-    3.1.3 Landing Page UI Design
-        3.1.3.1. Landing Page Wireframe
-        3.1.3.2. Landing Page Mock-up
-    3.1.4 Mobile Applications UX/UI Design
-        3.1.4.1. Mobile Applications Wireframes
-        3.1.4.2. Mobile Applications Wireflow Diagrams
-        3.1.4.3. Mobile Applications Mock-ups
-        3.1.4.4. Mobile Applications User Flow Diagrams
-        3.1.4.5. Mobile Applications Prototyping
-#### [3.2. Architecture Overview](#architecture-overview)
-    3.2.1. Domain-Driven Software Architecture
-        3.2.1.1. Software Architecture Context Level Diagram
-        3.2.1.2. Software Architecture Container Level Diagram
-        3.2.1.3. Software Architecture Components Diagram
-    3.2.2. Software Object-Oriented Design
-        3.2.2.1. Class Diagrams
-        3.2.2.2. Class Dictionary
-        3.2.2.3. Database Design
-        3.2.2.4. Database Diagram
+- **[3.1. Product Design](#product-design)**
+    - [3.1.1. Style Guidelines](#style-guidelines)
+        - [3.1.1.1. General Style Guidelines](#general-style-guidelines)
+    - [3.1.2 Information Architecture](#information-architecture)
+        - [3.1.2.1. Organization Systems](#organization-systems)
+        - [3.1.2.2. Labeling Systems](#labeling-systems)
+        - [3.1.2.3. SEO Tags and Meta Tags](#meta-tags)
+        - [3.1.2.4. Searching Systems](#searching-systems)
+        - [3.1.2.5. Navigation Systems](#navigation-systems)
+    - [3.1.3 Landing Page UI Design](#landing-ui)
+        - [3.1.3.1. Landing Page Wireframe](#landing-wireframe)
+        - [3.1.3.2. Landing Page Mock-up](#landing-mockup)
+    - [3.1.4 Mobile Applications UX/UI Design](#mobile-ui)
+        - [3.1.4.1. Mobile Applications Wireframes](#mobile-wireframes)
+        - [3.1.4.2. Mobile Applications Wireflow Diagrams](#mobile-wireflow)
+        - [3.1.4.3. Mobile Applications Mock-ups](#mobile-mockups)
+        - [3.1.4.4. Mobile Applications User Flow Diagrams](#mobile-userflow)
+        - [3.1.4.5. Mobile Applications Prototyping](#mobile-prototype)
+- **[3.2. Architecture Overview](#architecture-overview)**
+    - [3.2.1. Domain-Driven Software Architecture](#c4)
+        - [3.2.1.1. Software Architecture Context Level Diagram](#c4-context)
+        - [3.2.1.2. Software Architecture Container Level Diagram](#c4-container)
+        - [3.2.1.3. Software Architecture Components Diagram](#c4-components)
+    - [3.2.2. Software Object-Oriented Design](#diagrams)
+        - [3.2.2.1. Class Diagrams](#class-diagram)
+        - [3.2.2.2. Class Dictionary](#class-dictionary)
+        - [3.2.2.3. Database Design](#database-design)
+            - [3.2.2.3.1 Database Diagram](#database-diagram)
 ---
 
 ### [4. Capítulo 4: Backend Product Implementation & Validation](#cap4)
-#### [4.1. Software Configuration Management](#4-software-configuration-management)
-    4.1.1. Software Development Environment Configuration
-    4.1.2. Source Code Management
-    4.1.3. Source Code Style Guide & Conventions
-    4.1.4. Software Deployment Configuration
-#### [4.2. Software Development & Implementation](#4-software-development--implementation)
-##### [4.2.1. Sprint 1](#sprint-1)
-    4.2.1.1. Sprint Planning 1
-    4.2.1.2. Sprint Backlog 1
-    4.2.1.3. Development Evidence for Sprint Review
-    4.2.1.4. Testing Suite Evidence for Sprint Review
-    4.2.1.5. Execution Evidence for Sprint Review
-    4.2.1.6. Services Documentation Evidence for Sprint Review
-    4.2.1.7. Software Deployment Evidence for Sprint Review
-    4.2.1.8. Team Collaboration Insights during Sprint
+- **[4.1. Software Configuration Management](#4-software-configuration-management)**
+    - [4.1.1. Software Development Environment Configuration](#software-deveopment)
+    - [4.1.2. Source Code Management](#code-management)
+    - [4.1.3. Source Code Style Guide & Conventions](#code-conventions)
+    - [4.1.4. Software Deployment Configuration](#software-configuration-deployment)
+- **[4.2. Software Development & Implementation](#4-software-development--implementation)**
+    - [4.2.1. Sprint 1](#sprint-1)
+        - [4.2.1.1. Sprint Planning 1](#sprint-planning-1)
+        - [4.2.1.2. Sprint Backlog 1](#sprint-backlog-1)
+        - [4.2.1.3. Development Evidence for Sprint Review](#sprint-deployment-1)
+        - [4.2.1.4. Testing Suite Evidence for Sprint Review](#sprint-testing-1)
+        - [4.2.1.5. Execution Evidence for Sprint Review](#sprint-execution-1)
+        - [4.2.1.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-1)
+        - [4.2.1.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-1)
+        - [4.2.1.8. Team Collaboration Insights during Sprint](#sprint-insights-1)
 ---
 
 ### [5. Capítulo 5: Product Implementation & Validation](#cap5)
-#### [5.1. Software Configuration Management](#5-software-configuration-management)
-    5.1.1. Software Development Environment Configuration
-    5.1.2. Source Code Management
-    5.1.3. Source Code Style Guide & Conventions
-    5.1.4. Software Deployment Configuration
-#### [5.2. Landing Page & Mobile Application Implementation](landing-page--mobile-application-implementation)
-    5.2.1. Sprint n
-        5.2.1.1. Sprint Planning n
-        5.2.1.2. Sprint Backlog n
-        5.2.1.3. Development Evidence for Sprint Review
-        5.2.1.4. Testing Suite Evidence for Sprint Review
-        5.2.1.5. Execution Evidence for Sprint Review
-        5.2.1.6. Services Documentation Evidence for Sprint Review
-        5.2.1.7. Software Deployment Evidence for Sprint Review
-        5.2.1.8. Team Collaboration Insights during Sprint
-#### [5.3. Validation Interviews](#validation-interviews)
-    5.3.1. Diseño de Entrevistas
-    5.3.2. Registro de Entrevistas
-    5.3.3. Evaluaciones según heurísticas
-#### [5.4. Video About-the-Product](#video-about-the-product)
+- **[5.1. Software Configuration Management](#5-software-configuration-management)**
+    - [5.1.1. Software Development Environment Configuration](#software-enviroment)
+    - [5.1.2. Source Code Management](#software-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#software-conventions)
+    - [5.1.4. Software Deployment Configuration](#software-deployment)
+- **[5.2. Landing Page & Mobile Application Implementation](landing-page--mobile-application-implementation)**
+    - [5.2.1. Sprint n](#sprint-2)
+        - [5.2.1.1. Sprint Planning n](#sprint-planning-2)
+        - [5.2.1.2. Sprint Backlog n](#sprint-backlog-2)
+        - [5.2.1.3. Development Evidence for Sprint Review](#sprint-deployment-2)
+        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#sprint-testing-2)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#sprint-execution-2)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-2)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-2)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#sprint-insights-2)
+- **[5.3. Validation Interviews](#validation-interviews)**
+    - [5.3.1. Diseño de Entrevistas](#diseño-validation)
+    - [5.3.2. Registro de Entrevistas](#registro-validation)
+    - [5.3.3. Evaluaciones según heurísticas](#heuristicas)
+- **[5.4. Video About-the-Product](#video-about-the-product)**
 ---
 ### [6. Conclusiones](#conclusiones)
 ### [7. Glosario](#glosario)
