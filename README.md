@@ -383,18 +383,18 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
         <td>Descripción de Objetivo</td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>S</td>
-        <td>M</td>
-        <td>A</td>
-        <td>R</td>
-        <td>T</td>
+        <td>Se va a lograr la primera versión de la aplicación workflow</td>
+        <td>El objetivo se medirá mediante la calificación de los entregables TB1, TB2, TP y TF.</td>
+        <td>El objetivo sera crear la primera version funcional de la aplicación planeada</td>
+        <td>Este objetivo mejorara nuestras habilidades en el lenguaje kotlin para el desarrollo de aplicaciones web.</td>
+        <td>El objetivo debe cumplirse antes del 21/11/2024.</td>
     </tr>
     <tr>
         <td>Neyra Santa Cruz, Marcelo Sebastian</td>
         <td> Durante todo el ciclo académico 2024-02, desarrollaré semanalmente una nueva funcionalidad relacionada con el bounded context 'Task', que detalla tareas específicas dentro de un 'Project'. Además, cada semana proporcionaré sugerencias específicas al equipo para mejorar el desarrollo basado en la experiencia del equipo, asegurando que la aplicación final sea funcional y cumpla con las necesidades de los usuarios. Este progreso será monitoreado mediante revisiones quincenales de usabilidad y retroalimentación del equipo.  </td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>Desarrollaré semanalmente una funcionalidad del bounded context "Task" y darás sugerencias al equipo</td>
+        <td>Desarrollaré semanalmente una funcionalidad del bounded context "Task" y daré sugerencias al equipo</td>
         <td>Mido el progreso semanalmente y lo evalúo en revisiones quincenales</td>
         <td>Basado en la experiencia del equipo, doy sugerencias que puedes controlar</td>
         <td>Me aseguro que la aplicación sea funcional y adecuada para los usuarios</td>
