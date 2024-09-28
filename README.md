@@ -3799,8 +3799,8 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 | Sum of Story Points            | 28                                                             |
 
 ##### <a name="sprint-backlog-2"></a> 5.2.1.2. Sprint Backlog 2
-Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello]()**
-![Sprint Backlog 2](images/sprint-2/trello.jpeg)
+Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management)**
+![Sprint Backlog 2](images/sprint-2/backlog.png)
 
 ##### <a name="sprint-development-2"></a> 4.2.1.3. Development Evidence for Sprint Review
 ![Development Evidence](images/sprint-2/development.png)
@@ -3854,31 +3854,58 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 
 ##### <a name="sprint-execution-2"></a> 5.2.1.5. Execution Evidence for Sprint Review
 ###### Autenticación de Usuario
-![User Authentication](images/sprint-2/execution-1.png)
-###### Tarea de Proyecto
-![Task](images/sprint-2/exection-2.png)
+![User Sign In](images/sprint-2/execution-sign-in.jpeg)
+![User Sign Up](images/sprint-2/execution-sign-up.jpeg)
+###### Proyecto
+![Task](images/sprint-2/execution-project.jpeg)
+###### Tarea
+![Task](images/sprint-2/execution-task.jpeg)
 ###### Calendario
-![Calendar](images/sprint-2/exection-3.png)
+![Calendar](images/sprint-2/execution-calendar.jpeg)
 ###### Evento
-![Evento](images/sprint-2/exection-4.png)
-![Evento](images/sprint-2/exection-5.png)
+![Evento](images/sprint-2/executon-event.jpeg)
 ###### Usuario
-![User](images/sprint-2/exection-6.png)
+![User](images/sprint-2/execution-user.jpeg)
 
 ##### <a name="sprint-documentation-2"></a> 5.2.1.6. Services Documentation Evidence for Sprint Review
 Se utilizó la API desarrollada en el Sprint 2 para la funcionalidad de la APP.
 
-![Swagger](images/sprint-1/execution.png)
+![Swagger](images/sprint-2/execution.png)
 
 Aquí se muestran algunas vistas de cómo se conecta la aplicación mobile con el backend y el API:
 ![Calendar Evidence](images/sprint-2/evidence-1.png)
 ![Task Evidence](images/sprint-2/evidence-2.png)
 ![IAM Evidence](images/sprint-2/evidence-3.png)
+![Project Evidence](images/sprint-2/evidence-4.png)
 
-##### <a name="sprint-software-deployment-1"></a> 4.2.1.7. Software Deployment Evidence for Sprint Review
-Debido a que en esta entrega se realizó un prototipo, no se ha desplegado la aplicación en la web.
+##### <a name="sprint-software-deployment-1"></a> 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se ha vuelto a desplegar la aplicación backend para esta entrega, ya que se hicieron cambios notorios de tipos de datos que no existían en el entorno de Kotlin **[Backend](https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/swagger-ui/index.html)**  
+
+El despliegue de la aplicación mobile se ha dejado para una entrega posterior, ya que actualmente solo se cuenta con un prototipo de la aplicación.
+
 ##### <a name="sprint-insights-1"></a> 4.2.1.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-2/insights.png)
+
+## Anexos
+##### *Cuadros*
+- As Is y To Be Scenario Mapping: https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753
+
+- Sprint Backlog 1: https://trello.com/b/lqeAiIYJ/sprint-backlog-1-task-management
+
+- Sprint Backlog 2:https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management
+
+##### *Presentaciones*
+- Entrevistas Needfinding: https://upcedupe-my.sharepoint.com/personal/u201923446_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201923446%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20Aplicaciones%20moviles%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eabc9c508%2D4a3d%2D4309%2Da80b%2Db2d60399fa9a
+
+- Video de muestra de prototipo de la aplicación mobile: https://upcedupe-my.sharepoint.com/personal/u201923446_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201923446%5Fupc%5Fedu%5Fpe%2FDocuments%2FPrototipo%20workflow%201%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E78a9d5f4%2D8cc9%2D4e74%2Db18c%2D1041fbe34fb6
+
+##### *Desarrollo de Aplicaciones*
+- Aplicación Backend: https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/swagger-ui/index.html
+
+- Landing Page: https://upc-pre-202402-cc238-sw61-task-manage.github.io/Landing-Page/
+
+- Prototipo de la Aplicación Mobile: https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=pr0NBLGCk8rCcUDR-1 
+
 
 ## Bibliografía
 Alvarez, A. (2020). 5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. <https://www.leanconstructionmexico.com.mx/post/5w2h-qué-significa-para-qué-sirve-cómo-aplicarla-y-algunos-ejemplos> 
