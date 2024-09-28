@@ -380,7 +380,7 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
     </tr>
     <tr>
         <td>Mendoza Pimentel, Piero</td>
-        <td>Descripción de Objetivo</td>
+        <td>Aprender sobre el desarrollo de aplicaciones moviles en kotlin y desarrollar una aplicación funcional que pueda utilizar una api.</td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
         <td>Se va a lograr la primera versión de la aplicación workflow</td>
