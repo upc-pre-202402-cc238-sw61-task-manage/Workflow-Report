@@ -3909,7 +3909,7 @@ El despliegue de la aplicación mobile se ha dejado para una entrega posterior, 
 - Prototipo de la Aplicación Mobile: https://www.figma.com/design/k6XFdzKUe85ow6LDOGYn5N/Aplicaciones-moviles?node-id=0-1&t=pr0NBLGCk8rCcUDR-1 
 
 
-## Bibliografía
+## <a name="bibliografia"></a> Bibliografía
 Alvarez, A. (2020). 5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. <https://www.leanconstructionmexico.com.mx/post/5w2h-qué-significa-para-qué-sirve-cómo-aplicarla-y-algunos-ejemplos> 
 
 Avendaño, E. (2023). Trabajo en Equipo en las Micro Y Pequeñas Empresas, Rubro Boticas: Caso Globalfarma, Distrito De Ayacucho, 2020. [Tesis de licenciatura]. ULADECH Católica. <http://repositorio.uladech.edu.pe/bitstream/handle/20.500.13032/31785/COMPROMISO_INTELIGENCIA_EMOCIONAL_AVENDANO_ORELLANA_ERICKSON_RICKY.pdf?sequence=1&isAllowed=y> 
