@@ -402,14 +402,14 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
     </tr>
     <tr>
         <td>Periche Quiroga, Piero Fernando</td>
-        <td>Descripción de Objetivo</td>
+        <td>Desarrollar y desplegar en la parte tanto como de backed y frontend del proyecto el bounded context de “profiles”, demostrando mis conocimientos de java de cursos anteriores y aplicando lo aprendido en kotlin en el ciclo acutal</td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>S</td>
-        <td>M</td>
-        <td>A</td>
-        <td>R</td>
-        <td>T</td>
+        <td>Se va a lograr una aplicación movil funcional con una interfaz dinámica y responsiva usando los lenguajes de java y kotlin </td>
+        <td>El progreso se va a medir conforme van avanzando las entregas del proyecto.</td>
+        <td>El objetivo implica una primera versión funcional, utilizando tecnologías ya vistas y aprendiendo nuevas para un mejor desarrollo del mismo.</td>
+        <td>El objetivo es relevante para nuestra vida profesional, ya que nos brindan y mejoran nuestras habilidades al momento de crear una aplicación movil.</td>
+        <td>El objetivo debe ser cumplido antes de la fecha establecidad la cual es 21/11/2024</td>
     </tr>
     <tr>
         <td>Silva Morales, Renzo Cesar</td>
@@ -3857,15 +3857,17 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 ![User Sign In](images/sprint-2/execution-sign-in.jpeg)
 ![User Sign Up](images/sprint-2/execution-sign-up.jpeg)
 ###### Proyecto
-![Task](images/sprint-2/execution-project.jpeg)
+En desarrollo
 ###### Tarea
-![Task](images/sprint-2/execution-task.jpeg)
+![Task](images/sprint-2/execution-task.png)
 ###### Calendario
 ![Calendar](images/sprint-2/execution-calendar.jpeg)
 ###### Evento
 ![Evento](images/sprint-2/executon-event.jpeg)
 ###### Usuario
 ![User](images/sprint-2/execution-user.jpeg)
+###### Configuración
+En desarrollo
 
 ##### <a name="sprint-documentation-2"></a> 5.2.1.6. Services Documentation Evidence for Sprint Review
 Se utilizó la API desarrollada en el Sprint 2 para la funcionalidad de la APP.
