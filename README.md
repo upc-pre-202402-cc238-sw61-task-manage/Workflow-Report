@@ -3938,3 +3938,15 @@ Lopez, M. (2020). Estudios: Los principales desafíos del teletrabajo. <https://
 Pisani, A. y Tomasina, F. (2022). Pros y contras del teletrabajo en la salud física y mental de la población general trabajadora: una revisión narrativa exploratoria. *Archivos de prevención de riesgos laborales*, *25*(2), 147-161. <https://dx.doi.org/10.12961/aprl.2022.25.02.07> 
 
 Santillan, W. (2020). El teletrabajo en el COVID-19. *CienciAmérica: Revista de divulgación científica de la Universidad Tecnológica Indoamérica*, *9*(2), 65-76. <https://dialnet.unirioja.es/servlet/articulo?codigo=7746439> 
+
+**Papers que sustentan los Problem Statements**
+
+Hilliger, I., Miranda, C., Schuit, G., & Pérez-Sanagustín, M. (2021). Self-tracking time-on-task: Web-based weekly timesheets for higher education students. In T. De Laet, R. Klemke, C. Alario-Hoyos, I. Hilliger, & A. Ortega-Arranz (Eds.), *Technology-enhanced learning for a free, safe, and sustainable world. EC-TEL 2021* (Lecture Notes in Computer Science, Vol. 12884). Springer, Cham. https://doi.org/10.1007/978-3-030-86436-1_49
+
+Nordling, L. (2023). Time tracking for early-career researchers: a practical guide. *Nature, 617*(7960), 427-428. https://doi.org/10.1038/d41586-023-01552-6
+
+**Papers que sustentan la tecnología utilizada para el desarrollo del proyecto**
+
+Góis Mateus, B., & Martinez, M. (2019). An empirical study on quality of Android applications written in Kotlin language. *Empirical Software Engineering, 24*(6), 3356-3393.
+
+Sharma, A. (2023, February). Android app development using Kotlin programming language. In *AIP Conference Proceedings* (Vol. 2427, No. 1). AIP Publishing.
