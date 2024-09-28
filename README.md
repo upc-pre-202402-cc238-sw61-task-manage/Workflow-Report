@@ -369,14 +369,14 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
     </tr>
     <tr>
         <td>Cisneros Tafur, Diego Rafael</td>
-        <td>Descripción de Objetivo</td>
+        <td>Aprender y aplicar conceptos de Jetpack Compose para crear una interfaz de usuario funcional y responsiva en una aplicación móvil.</td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>S</td>
-        <td>M</td>
-        <td>A</td>
-        <td>R</td>
-        <td>T</td>
+        <td>Se va a lograr una aplicación funcional con una interfaz dinámica y responsiva utilizando Jetpack Compose.</td>
+        <td>El objetivo se medirá mediante la creación de al menos 2 pantallas interactivas y funcionales con Jetpack Compose.</td>
+        <td>El objetivo es ambicioso porque implica el aprendizaje de una nueva tecnología Jetpack Compose y su aplicación en un proyecto real, lo cual requiere un dominio técnico considerable.</td>
+        <td>Este objetivo es relevante para el curso de desarrollo de aplicaciones móviles, ya que proporciona habilidades claves en el desarrollo de interfaces modernas.</td>
+        <td>El objetivo debe cumplirse antes del 21/11/2024.</td>
     </tr>
     <tr>
         <td>Mendoza Pimentel, Piero</td>
@@ -3517,19 +3517,19 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 ### <a name="software-configuration-deployment"></a> 4.2. Software Development & Implementation
 #### <a name="sprint-1"></a> 4.2.1. Sprint 1
 ##### <a name="sprint-planning-1"></a> 4.2.1.1. Sprint Planning 1
-| Sprint#   |  Sprint 1  |
-| --------- | ---------- |
-|Sprint Planning Background | |
-| Date | 12/9/24 |
-| Time | 10:00 (GMT-5) |
-| Location | Whatsapp |
-| Prepared By | Task Management |
-| Attendes (to planning meeting) | Todos los miembros del grupo Task Management |
-| Sprint 1 - Review Summary | Según las indicaciones del profesor, se ha mejorado el trabajo |
-| Sprint 1 - Retrospective | Se desarrolló el backend y diversos puntos del capítulo 4 |
-| Sprint Goal & User Stories | |
-| Sprint 1 Velocity | 10 |
-| Sum of Story Points | 34 |
+| Sprint#                        | Sprint 1                                                       |
+| ------------------------------ | -------------------------------------------------------------- |
+| Sprint Planning Background     |                                                                |
+| Date                           | 12/9/24                                                        |
+| Time                           | 10:00 (GMT-5)                                                  |
+| Location                       | Whatsapp                                                       |
+| Prepared By                    | Task Management                                                |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management                   |
+| Sprint 1 - Review Summary      | Según las indicaciones del profesor, se ha mejorado el trabajo |
+| Sprint 1 - Retrospective       | Se desarrolló el backend y diversos puntos del capítulo 4      |
+| Sprint Goal & User Stories     |                                                                |
+| Sprint 1 Velocity              | 10                                                             |
+| Sum of Story Points            | 34                                                             |
 
 ##### <a name="sprint-backlog-1"></a> 4.2.1.2. Sprint Backlog 1
 Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/660b7752a3c23d8fc77e020a/ATTI2fa3011a92acec9fba2af7d759e5461f1F98BC68/sprint-backlog-1-task-management)**
@@ -3537,26 +3537,26 @@ Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Tre
 
 ##### <a name="sprint-development-1"></a> 4.2.1.3. Development Evidence for Sprint Review
 ![Development Evidence](images/sprint-1/development-evidence.png)
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-| - | - | - | - | - | - |
-| Backend | develop | a2e4f848798bfc034007b985c98db9984f527d9c | chore: added the initial configuration | 10/09/24 |
-| Backend | develop | 8f4ff9cb608b2e1c1b01dbfd1ea4c5b8162f31fb | feat(dependencies): updated dependencies with openapi jwt and others | 10/09/24 |
-| Backend | develop | ea4584ba31157ae49ec9fda2e502793912b61010 | feat(execution): updated the executions files to have the db connection and implementation with docker if needed | 10/09/24 |
-| Backend | develop | 31cb81a314177fe749113d5f1c7c24e29032fa36 | fix: enabled the JDP auditing | 10/09/24 |
-| Backend | develop | b10b072c60c1fca63fe6a75c01c6996772028abd | feat(shared): added the openapi configuration and other shared used tools | 10/09/24 |
-| Backend | develop | a9c2cac0b6fe1d1e5be6f3b4998a2bd2b4f9d847 | feat(iam): implemented the iam layer with signin and signup functionalities | 10/09/24 |
-| Backend | develop | a67e4ed3d8c7baa307374888cff7a3708b945dd9 | refactor: deleted un used role | 10/09/24 |
-| Backend | develop | 5418afbf2cc0d5d9e6c42e08fea6ae9f48ac81a7 | feat(tests): remove commented out code in TaskManagerApplicationTests | 15/09/24 |
-| Backend | develop | a0220c143ad94cc9d6690e1d76e2155cc0db9ac8 | feat: add Dockerfile and docker-compose files for development and production environments | 15/09/24 |
-| Backend | develop | a45ed6898c434e2211c887cf439a38cf4827152f | chore: Update Dockerfile and docker-compose files for task manager backend | 15/09/24 |
-| Backend | feature/calendar | 272ffbcd146e7f449fe1f69bccba5f3ab275be72 | add: events class in aggregates | 14/09/24 |
-| Backend | feature/calendar | 0fd984b961e9f9c84446b96c1e6ae9a4743cda58 | feat(events): added commands, queries and value objects in domain| 14/09/24 |
-| Backend | feature/calendar | 50f7a2e6829c082a8bf9800e3c4f9a4ce4179459 | feat(events): added service contracts in domain | 14/09/24 |
-| Backend | feature/calendar | a4cc2f30a2f39b79d5051ed5a0ef379b4e901a40 | feat(events): added command and query services implementation | 14/09/24 |
-| Backend | feature/calendar | 43c330110a0179a44f5eb1a4033ee4129cf7cf98 | feat(events): added resources and assemblers for interfaces layer | 14/09/24 |
-| Backend | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker | 14/09/24 |
-| Backend | feature/task | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context| 15/09/24 |
-| Backend | feature/task | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context | 15/09/24 |
+| Repository | Branch           | Commit Id                                | Commit Message                                                                                                   | Commit Message Body | Commited on (Date) |
+| ---------- | ---------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| Backend    | develop          | a2e4f848798bfc034007b985c98db9984f527d9c | chore: added the initial configuration                                                                           | 10/09/24            |
+| Backend    | develop          | 8f4ff9cb608b2e1c1b01dbfd1ea4c5b8162f31fb | feat(dependencies): updated dependencies with openapi jwt and others                                             | 10/09/24            |
+| Backend    | develop          | ea4584ba31157ae49ec9fda2e502793912b61010 | feat(execution): updated the executions files to have the db connection and implementation with docker if needed | 10/09/24            |
+| Backend    | develop          | 31cb81a314177fe749113d5f1c7c24e29032fa36 | fix: enabled the JDP auditing                                                                                    | 10/09/24            |
+| Backend    | develop          | b10b072c60c1fca63fe6a75c01c6996772028abd | feat(shared): added the openapi configuration and other shared used tools                                        | 10/09/24            |
+| Backend    | develop          | a9c2cac0b6fe1d1e5be6f3b4998a2bd2b4f9d847 | feat(iam): implemented the iam layer with signin and signup functionalities                                      | 10/09/24            |
+| Backend    | develop          | a67e4ed3d8c7baa307374888cff7a3708b945dd9 | refactor: deleted un used role                                                                                   | 10/09/24            |
+| Backend    | develop          | 5418afbf2cc0d5d9e6c42e08fea6ae9f48ac81a7 | feat(tests): remove commented out code in TaskManagerApplicationTests                                            | 15/09/24            |
+| Backend    | develop          | a0220c143ad94cc9d6690e1d76e2155cc0db9ac8 | feat: add Dockerfile and docker-compose files for development and production environments                        | 15/09/24            |
+| Backend    | develop          | a45ed6898c434e2211c887cf439a38cf4827152f | chore: Update Dockerfile and docker-compose files for task manager backend                                       | 15/09/24            |
+| Backend    | feature/calendar | 272ffbcd146e7f449fe1f69bccba5f3ab275be72 | add: events class in aggregates                                                                                  | 14/09/24            |
+| Backend    | feature/calendar | 0fd984b961e9f9c84446b96c1e6ae9a4743cda58 | feat(events): added commands, queries and value objects in domain                                                | 14/09/24            |
+| Backend    | feature/calendar | 50f7a2e6829c082a8bf9800e3c4f9a4ce4179459 | feat(events): added service contracts in domain                                                                  | 14/09/24            |
+| Backend    | feature/calendar | a4cc2f30a2f39b79d5051ed5a0ef379b4e901a40 | feat(events): added command and query services implementation                                                    | 14/09/24            |
+| Backend    | feature/calendar | 43c330110a0179a44f5eb1a4033ee4129cf7cf98 | feat(events): added resources and assemblers for interfaces layer                                                | 14/09/24            |
+| Backend    | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker                                                                | 14/09/24            |
+| Backend    | feature/task     | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context                                                                           | 15/09/24            |
+| Backend    | feature/task     | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context                                                                           | 15/09/24            |
 
 ##### <a name="sprint-testing-1"></a> 4.2.1.4. Testing Suite Evidence for Sprint Review
 No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo que no aplica esta sección.
@@ -3565,29 +3565,29 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 ![Execution Evidence](images/sprint-1/execution.png)
 ##### <a name="sprint-documentation-1"></a> 4.2.1.6. Services Documentation Evidence for Sprint Review
 
-| Bounded Context | IAM |
-| - | - |
-| Endpoint URL | Swagger |
-| api/v1/authentication/ | ![IAM](images/sprint-1/documentation-iam.png)|
+| Bounded Context        | IAM                                           |
+| ---------------------- | --------------------------------------------- |
+| Endpoint URL           | Swagger                                       |
+| api/v1/authentication/ | ![IAM](images/sprint-1/documentation-iam.png) |
 
-| Bounded Context | Tasks |
-| - | - |
-| Endpoint URL | Swagger |
-| api/v1/tasks/ | ![Tasks](images/sprint-1/documentation-task.png) |
+| Bounded Context | Tasks                                            |
+| --------------- | ------------------------------------------------ |
+| Endpoint URL    | Swagger                                          |
+| api/v1/tasks/   | ![Tasks](images/sprint-1/documentation-task.png) |
 
-| Bounded Context | Roles |
-| - | - |
-| Endpoint URL | Swagger |
+| Bounded Context        | Roles                                           |
+| ---------------------- | ----------------------------------------------- |
+| Endpoint URL           | Swagger                                         |
 | api/v1/authentication/ | ![Role](images/sprint-1/documentation-role.png) |
 
-| Bounded Context | Users |
-| - | - |
-| Endpoint URL | Swagger |
+| Bounded Context        | Users                                           |
+| ---------------------- | ----------------------------------------------- |
+| Endpoint URL           | Swagger                                         |
 | api/v1/authentication/ | ![User](images/sprint-1/documentation-user.png) |
 
-| Bounded Context | Users |
-| - | - |
-| Endpoint URL | Swagger |
+| Bounded Context        | Users                                                    |
+| ---------------------- | -------------------------------------------------------- |
+| Endpoint URL           | Swagger                                                  |
 | api/v1/authentication/ | ![Profiles](images/sprint-1/documentation-profiles.jpeg) |
 
 ##### <a name="sprint-software-deployment-1"></a> 4.2.1.7. Software Deployment Evidence for Sprint Review
