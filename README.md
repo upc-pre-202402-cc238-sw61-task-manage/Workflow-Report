@@ -179,11 +179,11 @@
 ---
 
 ### [5. Capítulo 5: Product Implementation & Validation](#cap5)
-- **[5.1. Software Configuration Management](#software-configuration-management)**
-    - [5.1.1. Software Development Environment Configuration](#software-enviroment)
-    - [5.1.2. Source Code Management](#software-management)
-    - [5.1.3. Source Code Style Guide & Conventions](#software-conventions)
-    - [5.1.4. Software Deployment Configuration](#software-deployment)
+- **[5.1. Software Configuration Management](#software-configuration-management-2)**
+    - [5.1.1. Software Development Environment Configuration](#software-development-2)
+    - [5.1.2. Source Code Management](#software-management-2)
+    - [5.1.3. Source Code Style Guide & Conventions](#software-conventions-2)
+    - [5.1.4. Software Deployment Configuration](#software-configuration-deployment-2)
 - **[5.2. Landing Page & Mobile Application Implementation](landing-page--mobile-application-implementation)**
     - [5.2.1. Sprint n](#sprint-2)
         - [5.2.1.1. Sprint Planning n](#sprint-planning-2)
@@ -3350,15 +3350,7 @@ En el siguiente punto se presenta nuestro diagrama de base de datos relacional, 
       <td>Gherkin será utilizado para escribir pruebas de aceptación de manera clara, legible y automatizable para validar la funcionalidad del software. "https://cucumber.io/docs/gherkin/"</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>Software Development</strong></td>
-      <td>Android Studio</td>
-      <td>El entorno de desarrollo Android Studio será usado para crear la aplicación móvil, con todas las herramientas necesarias para desarrollar, depurar y probar. "https://developer.android.com/studio"</a></td>
-    </tr>
-    <tr>
-      <td>Kotlin</td>
-      <td>Kotlin será el lenguaje principal para el desarrollo de la aplicación, ideal por su compatibilidad con Android y su sintaxis más concisa. "https://kotlinlang.org/"</a></td>
-    </tr>
-    <tr>
+      <td><strong>Software Development</strong></td>
       <td>Java</td>
       <td>También se utilizará Java, especialmente en secciones que requieran mayor estabilidad y donde sea necesario aprovechar las bibliotecas existentes. "https://www.oracle.com/java/"</a></td>
     </tr>
@@ -3594,6 +3586,275 @@ No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo
 
 ##### <a name="sprint-insights-1"></a> 4.2.1.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-1/insights.png)
+
+## <a name="cap5"></a> 5. Capítulo 5: Product Implementation & Validation
+### <a name="software-configuration-management-2"></a>  5.1. Software Configuration Management
+#### <a name="software-development-2"></a> 5.1.1. Software Development Environment Configuration
+<table>
+  <thead>
+    <tr>
+      <th>Área</th>
+      <th>Herramienta</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2"><strong>Requirements Management</strong></td>
+      <td>Trello</td>
+      <td>Utilizaremos Trello para gestionar el flujo de trabajo y organizar tareas, permitiendo visualizar y dar seguimiento a cada sprint de desarrollo. "https://trello.com/es"</a></td>
+    </tr>
+    <tr>
+      <td>Google Docs</td>
+      <td>Google Docs será clave para la documentación y colaboración en la planificación y seguimiento de los requisitos del proyecto. "https://docs.google.com"</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Product UX/UI Design</strong></td>
+      <td>Figma</td>
+      <td>Figma será utilizado para el diseño y creación de prototipos interactivos de la aplicación, permitiendo colaboración en tiempo real en el diseño de interfaces. "https://www.figma.com"</a></td>
+    </tr>
+    <tr>
+      <td>UXPressia</td>
+      <td>UXPressia ayudará a mapear la experiencia del usuario y desarrollar perfiles de cliente para mejorar la interacción con la aplicación. "https://uxpressia.com"</a></td>
+    </tr>
+    <tr>
+      <td><strong>Software Testing</strong></td>
+      <td>Gherkin</td>
+      <td>Gherkin será utilizado para escribir pruebas de aceptación de manera clara, legible y automatizable para validar la funcionalidad del software. "https://cucumber.io/docs/gherkin/"</a></td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Software Development</strong></td>
+      <td>Kotlin</td>
+      <td>Kotlin será el lenguaje principal para el desarrollo de la aplicación, ideal por su compatibilidad con Android y su sintaxis más concisa. "https://kotlinlang.org/"</a></td>
+    </tr>
+        <td>Java</td>
+      <td>También se utilizará Java, especialmente en secciones que requieran mayor estabilidad y donde sea necesario aprovechar las bibliotecas existentes. "https://www.oracle.com/java/"</a></td>
+    <tr>
+      <td><strong>Software Deployment</strong></td>
+      <td>Git</td>
+      <td>Git permitirá gestionar el control de versiones, registrar los cambios del código y colaborar de forma eficiente en el desarrollo. "https://git-scm.com/"</a></td>
+    </tr>
+    <tr>
+      <td><strong>Software Documentation and Project Management</strong></td>
+      <td>GitHub</td>
+      <td>GitHub se utilizará para alojar el código fuente, colaborar en revisiones de código y realizar seguimiento de los cambios en el proyecto. "https://github.com/"</a></td>
+    </tr>
+  </tbody>
+</table>
+
+#### <a name="code-management-2"></a>  5.1.2. Source Code Management
+Link del repositorio: **[Repositorio](https://github.com/upc-pre-202402-cc238-sw61-task-manage/Workflow-Report)**
+
+##### Implementación de Gitflow
+
+Nuestro equipo ha decidido trabajar con la herramienta de control de versiones de Git para implementar GitFlow, un flujo de trabajos eficiente y sofisticado. Tomamos como base el modelo del artículo “A successful Git branching model”, diseñado en el 2010 por Vicent Driessen. Elegimos este modelo debido al gran número de detalles ofrecidos por no solo por las imágenes, sino también por la descripción. 
+
+
+##### *Master Branch*
+<p>La <strong>Master Branch</strong>, también conocida como la rama <code>master</code>, es la rama principal del desarrollo de nuestro proyecto. Aquí se encuentra el desarrollo de la parte que estamos realizando actualmente.</p>
+<p>Esta rama la denotamos como <code>master</code>.</p>
+
+##### *Develop Branch*
+<p>La <strong>Develop Branch</strong>, también conocida como la rama de desarrollo, es el entorno donde se ubican los cambios más recientes realizados por nuestro equipo de desarrollo. Las actualizaciones realizadas en esta rama siempre serán entregadas en la versión que le sigue.</p>
+<p>Esta rama tiene como notación <code>develop</code> y se crea con el siguiente comando:</p>
+<pre><code>git checkout -b develop master</code></pre>
+
+##### *Release Branch*
+<p>La <strong>Release Branch</strong>, también conocida como la rama de lanzamiento, nos permite desarrollar una nueva versión de la aplicación Task Management, al igual que subir las actualizaciones a la <code>Develop Branch</code> y, posteriormente, a la <code>Master Branch</code>. En esta rama, también se corrigen los errores de las versiones anteriores.</p>
+<p>Su notación es <code>release</code> y se crea con el siguiente comando:</p>
+<pre><code>git checkout -b release/develop</code></pre>
+
+##### *Feature Branch*
+<p>La <strong>Feature Branch</strong>, también conocida como la rama de características, se utiliza para implementar las últimas características y funcionalidades desarrolladas en la aplicación. Estas funcionalidades eventualmente serán implementadas a la <code>Develop Branch</code>.</p>
+<p>Su notación es <code>feature/[name of feature]</code> y su comando de creación es el siguiente:</p>
+<pre><code>git checkout -b feature/[name of feature] develop</code></pre>
+
+##### *Hotfix Branch*
+<p>La <strong>Hotfix Branch</strong>, también conocida como la rama de revisiones, se utiliza para solucionar posibles pequeños errores o problemas que, aunque no afectan mucho la experiencia de usuario, siguen siendo pequeños inconvenientes que pueden ser arreglados rápidamente. Esta rama permite solucionar pequeños errores mientras que el resto de los integrantes del equipo se mantienen trabajando en la siguiente versión de la aplicación. Es importante que el contenido de esta rama se derive posteriormente a la <code>Master Branch</code>.</p>
+<p>Se denota como <code>hotfix</code> y su comando de creación es el siguiente:</p>
+<pre><code>git checkout -b hotfix master</code></pre>
+
+##### *Semantic Versioning*
+<p>Se utilizó como referencia el artículo <a href="https://semver.org/">“Semantic Versioning 2.0.0”</a> para el nombramiento de las versiones de la aplicación Task Management.</p>
+<p>Una versión de la aplicación tiene la siguiente forma: <code>X.Y.Z</code></p>
+<ul>
+    <li><code>X</code>, <code>Y</code>, <code>Z</code> son números enteros positivos.</li>
+    <li><code>X</code> denota la versión principal de la aplicación.
+        <ul>
+            <li>La versión <code>X</code> se utiliza cuando se realizan cambios grandes no compatibles con la versión anterior.</li>
+            <li>Cuando la versión de <code>X</code> aumenta, las versiones <code>Y</code> & <code>Z</code> se marcan en 0.</li>
+        </ul>
+    </li>
+    <li><code>Y</code> denota la versión menor de la aplicación, una actualización a la versión <code>X</code>.
+        <ul>
+            <li>La versión <code>Y</code> se utiliza para cuando se realizan cambios pequeños compatibles con la versión anterior.</li>
+            <li>Cuando la versión de <code>Y</code> aumenta, la versión <code>Z</code> se marca en 0.</li>
+        </ul>
+    </li>
+    <li><code>Z</code> denota la versión del parche, arreglos de pequeños errores.
+        <ul>
+            <li>La versión <code>Z</code> cambia cuando se arreglan pequeños errores de la aplicación.</li>
+        </ul>
+    </li>
+    <li>La versión inicial de la aplicación tendrá la forma <code>0.Y.Z</code>.</li>
+</ul>
+
+##### *Conventional Commits*
+<p>Se utilizó como referencia el artículo <a href="https://www.conventionalcommits.org/en/v1.0.0/">“Conventional Commits 1.0.0”</a> para el nombramiento de los commits de la aplicación Task Management.</p>
+<p>Emplearemos la siguiente estructura para un commit:</p>
+<pre><code>git commit -m [optional_scope]: &lt;title&gt; -m &lt;description&gt;</code></pre>
+<p><strong>Optional Scope</strong></p>
+<p>Se utilizará para indicar la versión de la aplicación. Esta se empleará sólo en <code>Master Branch</code>, <code>Hotfix Branch</code> y <code>Release Branch</code>.</p>
+
+#### <a name="code-conventions"></a> 4.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Kotlin como principales herramientas. Siguiendo las directrices y convenciones de estilo establecidas, nos aseguramos de mantener buenas prácticas que faciliten el mantenimiento y la escalabilidad del proyecto. A continuación, detallamos algunas convenciones clave:
+
+##### Elementos principales en Kotlin y Android:
+
+##### *Activity y Fragment*
+- **Activity**: Representa una pantalla individual de la aplicación. Se utiliza para manejar la interfaz de usuario principal y la lógica.
+- **Fragment**: Se utiliza para manejar componentes reutilizables de la UI que se pueden combinar dentro de las Activities.
+
+##### *RecyclerView*
+- **RecyclerView**: Utilizado para mostrar grandes listas de elementos de manera eficiente. Es esencial para manejar colecciones de datos en la aplicación.
+
+##### *ViewModel*
+- **ViewModel**: Utilizado para almacenar y gestionar datos relacionados con la UI en un ciclo de vida consciente.
+
+##### Convenciones de código en Kotlin:
+
+##### *Naming Conventions*
+- **Clases y Interfaces**: Usar `PascalCase`. Ejemplo: `TaskManager`, `UserRepository`.
+- **Funciones**: Usar `camelCase`. Ejemplo: `fetchUserData()`, `calculateTotal()`.
+- **Variables**: Usar `camelCase`. Ejemplo: `userName`, `totalAmount`.
+- **Constantes**: Usar `UPPER_SNAKE_CASE`. Ejemplo: `MAX_ATTEMPTS`, `DEFAULT_TIMEOUT`.
+
+##### *Estructura del código*
+- Dividir las clases según su responsabilidad. Aplicar el principio `Single Responsibility Principle`.
+- Mantener las clases y funciones pequeñas y manejables. Una función no debe tener más de 20-30 líneas.
+- Utilizar `data classes` para representar modelos simples de datos.
+
+##### Uso de Layouts en Android
+
+##### *ConstraintLayout*
+- **ConstraintLayout**: Utilizado para crear interfaces complejas con posicionamiento flexible de elementos en la pantalla. Ideal para garantizar que la UI se vea bien en diferentes tamaños de pantalla.
+
+##### *LinearLayout y RelativeLayout*
+- **LinearLayout**: Útil para organizar elementos de forma horizontal o vertical.
+- **RelativeLayout**: Facilita la colocación de elementos en relación con otros dentro del mismo contenedor.
+
+##### Propiedades clave en XML para diseño:
+
+##### *Tamaño y Margen*
+- **layout_width** y **layout_height**: Controlan el tamaño de los elementos. Utilizar `wrap_content` o `match_parent` según corresponda.
+- **margin** y **padding**: Ajustan el espacio alrededor de los elementos.
+
+##### *Color y Fuente*
+- **textColor**: Controla el color del texto. Se recomienda utilizar colores definidos en el archivo de recursos de colores.
+- **fontFamily**: Define la fuente del texto, manteniendo una consistencia en la UI.
+
+##### *Imagen*
+- **ImageView**: Se utiliza para mostrar imágenes en la interfaz. Asegúrate de usar imágenes optimizadas para mejorar el rendimiento de la aplicación.
+
+##### Buenas prácticas en Android Studio:
+
+- **Optimización de recursos**: Organizar imágenes, colores, y cadenas de texto en los archivos de recursos correspondientes (`res/drawable`, `res/values`, etc.).
+- **Testing**: Implementar pruebas unitarias y de interfaz de usuario (UI) para asegurar que las funcionalidades críticas funcionen correctamente.
+- **Modularización**: Siempre que sea posible, modularizar componentes reutilizables para reducir la duplicación de código y mejorar la mantenibilidad.
+
+### <a name="software-configuration-deployment-2"></a> 5.1.4. Software Deployment Configuration
+
+<p>Para desplegar nuestra landing page utilizamos GitHub Pages. A continuación, mencionaremos los pasos a seguir para hacerlo:</p>
+
+<ol>
+  <li><strong>Crearemos un repositorio para nuestra organización en GitHub.</strong>
+    <p>Para ello, accederemos a la página de GitHub de nuestra organización y crearemos un nuevo repositorio. El nombre del repositorio debe ser el mismo que el nombre de nuestra landing page.</p>
+  </li>
+
+  <li><strong>Subiremos el código fuente de nuestra página de destino al repositorio.</strong>
+    <p>El código fuente de nuestra landing page puede ser un archivo HTML, CSS o JavaScript, o una combinación de estos. Podemos subir el código fuente al repositorio de varias maneras, como mediante la interfaz web de GitHub, la línea de comandos o un cliente de Git.</p>
+  </li>
+
+  <li><strong>Visualización de nuestra Página subida a través de GitHub Pages</strong>
+    <p>Si hemos seguido bien los pasos anteriores, ya podremos visualizar nuestra página web.</p>
+  </li>
+</ol>
+
+### <a name="software-configuration-deployment-2"></a> 5.2. Software Development & Implementation
+#### <a name="sprint-2"></a> 5.2.1. Sprint 2
+##### <a name="sprint-planning-2"></a> 5.2.1.1. Sprint Planning 2
+| Sprint#                        | Sprint 1                                                       |
+| ------------------------------ | -------------------------------------------------------------- |
+| Sprint Planning Background     |                                                                |
+| Date                           | 16/9/24                                                        |
+| Time                           | 10:00 (GMT-5)                                                  |
+| Location                       | Whatsapp                                                       |
+| Prepared By                    | Task Management                                                |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management                   |
+| Sprint 1 - Review Summary      | Se ha implementado la primera versión de la aplicación mobile  |
+| Sprint 1 - Retrospective       | Se desarrolló el frontend y diversos puntos del capítulo 5     |
+| Sprint Goal & User Stories     |                                                                |
+| Sprint 1 Velocity              | 10                                                             |
+| Sum of Story Points            | 28                                                             |
+
+##### <a name="sprint-backlog-2"></a> 5.2.1.2. Sprint Backlog 2
+Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello]()**
+![Sprint Backlog 2](images/sprint-2/trello.jpeg)
+
+##### <a name="sprint-development-2"></a> 4.2.1.3. Development Evidence for Sprint Review
+![Development Evidence](images/sprint-2/development.png)
+| Repository | Branch           | Commit Id                                | Commit Message                                                                                                   | Commit Message Body | Commited on (Date) |
+| ---------- | ---------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
+| Backend    | develop          | a2e4f848798bfc034007b985c98db9984f527d9c | chore: added the initial configuration                                                                           | 10/09/24            |
+| Backend    | develop          | 8f4ff9cb608b2e1c1b01dbfd1ea4c5b8162f31fb | feat(dependencies): updated dependencies with openapi jwt and others                                             | 10/09/24            |
+| Backend    | develop          | ea4584ba31157ae49ec9fda2e502793912b61010 | feat(execution): updated the executions files to have the db connection and implementation with docker if needed | 10/09/24            |
+| Backend    | develop          | 31cb81a314177fe749113d5f1c7c24e29032fa36 | fix: enabled the JDP auditing                                                                                    | 10/09/24            |
+| Backend    | develop          | b10b072c60c1fca63fe6a75c01c6996772028abd | feat(shared): added the openapi configuration and other shared used tools                                        | 10/09/24            |
+| Backend    | develop          | a9c2cac0b6fe1d1e5be6f3b4998a2bd2b4f9d847 | feat(iam): implemented the iam layer with signin and signup functionalities                                      | 10/09/24            |
+| Backend    | develop          | a67e4ed3d8c7baa307374888cff7a3708b945dd9 | refactor: deleted un used role                                                                                   | 10/09/24            |
+| Backend    | develop          | 5418afbf2cc0d5d9e6c42e08fea6ae9f48ac81a7 | feat(tests): remove commented out code in TaskManagerApplicationTests                                            | 15/09/24            |
+| Backend    | develop          | a0220c143ad94cc9d6690e1d76e2155cc0db9ac8 | feat: add Dockerfile and docker-compose files for development and production environments                        | 15/09/24            |
+| Backend    | develop          | a45ed6898c434e2211c887cf439a38cf4827152f | chore: Update Dockerfile and docker-compose files for task manager backend                                       | 15/09/24            |
+| Backend    | feature/calendar | 272ffbcd146e7f449fe1f69bccba5f3ab275be72 | add: events class in aggregates                                                                                  | 14/09/24            |
+| Backend    | feature/calendar | 0fd984b961e9f9c84446b96c1e6ae9a4743cda58 | feat(events): added commands, queries and value objects in domain                                                | 14/09/24            |
+| Backend    | feature/calendar | 50f7a2e6829c082a8bf9800e3c4f9a4ce4179459 | feat(events): added service contracts in domain                                                                  | 14/09/24            |
+| Backend    | feature/calendar | a4cc2f30a2f39b79d5051ed5a0ef379b4e901a40 | feat(events): added command and query services implementation                                                    | 14/09/24            |
+| Backend    | feature/calendar | 43c330110a0179a44f5eb1a4033ee4129cf7cf98 | feat(events): added resources and assemblers for interfaces layer                                                | 14/09/24            |
+| Backend    | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker                                                                | 14/09/24            |
+| Backend    | feature/task     | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context                                                                           | 15/09/24            |
+| Backend    | feature/task     | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context                                                                           | 15/09/24            |
+
+##### <a name="sprint-testing-2"></a> 5.2.1.4. Testing Suite Evidence for Sprint Review
+No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo que no aplica esta sección.
+
+##### <a name="sprint-execution-2"></a> 5.2.1.5. Execution Evidence for Sprint Review
+###### Autenticación de Usuario
+![User Authentication](images/sprint-2/execution-1.png)
+###### Tarea de Proyecto
+![Task](images/sprint-2/exection-2.png)
+###### Calendario
+![Calendar](images/sprint-2/exection-3.png)
+###### Evento
+![Evento](images/sprint-2/exection-4.png)
+![Evento](images/sprint-2/exection-5.png)
+###### Usuario
+![User](images/sprint-2/exection-6.png)
+
+##### <a name="sprint-documentation-2"></a> 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se utilizó la API desarrollada en el Sprint 2 para la funcionalidad de la APP.
+
+![Swagger](images/sprint-1/execution.png)
+
+Aquí se muestran algunas vistas de cómo se conecta la aplicación mobile con el backend y el API:
+![Calendar Evidence](images/sprint-2/evidence-1.png)
+![Task Evidence](images/sprint-2/evidence-2.png)
+![IAM Evidence](images/sprint-2/evidence-3.png)
+
+##### <a name="sprint-software-deployment-1"></a> 4.2.1.7. Software Deployment Evidence for Sprint Review
+Debido a que en esta entrega se realizó un prototipo, no se ha desplegado la aplicación en la web.
+##### <a name="sprint-insights-1"></a> 4.2.1.8. Team Collaboration Insights during Sprint
+![Insights](images/sprint-2/insights.png)
 
 ## Bibliografía
 Alvarez, A. (2020). 5W2H: qué significa, para qué sirve, cómo aplicarla y algunos ejemplos. <https://www.leanconstructionmexico.com.mx/post/5w2h-qué-significa-para-qué-sirve-cómo-aplicarla-y-algunos-ejemplos> 
