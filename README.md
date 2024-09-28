@@ -3805,25 +3805,49 @@ Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Tre
 ##### <a name="sprint-development-2"></a> 4.2.1.3. Development Evidence for Sprint Review
 ![Development Evidence](images/sprint-2/development.png)
 | Repository | Branch           | Commit Id                                | Commit Message                                                                                                   | Commit Message Body | Commited on (Date) |
-| ---------- | ---------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
-| Backend    | develop          | a2e4f848798bfc034007b985c98db9984f527d9c | chore: added the initial configuration                                                                           | 10/09/24            |
-| Backend    | develop          | 8f4ff9cb608b2e1c1b01dbfd1ea4c5b8162f31fb | feat(dependencies): updated dependencies with openapi jwt and others                                             | 10/09/24            |
-| Backend    | develop          | ea4584ba31157ae49ec9fda2e502793912b61010 | feat(execution): updated the executions files to have the db connection and implementation with docker if needed | 10/09/24            |
-| Backend    | develop          | 31cb81a314177fe749113d5f1c7c24e29032fa36 | fix: enabled the JDP auditing                                                                                    | 10/09/24            |
-| Backend    | develop          | b10b072c60c1fca63fe6a75c01c6996772028abd | feat(shared): added the openapi configuration and other shared used tools                                        | 10/09/24            |
-| Backend    | develop          | a9c2cac0b6fe1d1e5be6f3b4998a2bd2b4f9d847 | feat(iam): implemented the iam layer with signin and signup functionalities                                      | 10/09/24            |
-| Backend    | develop          | a67e4ed3d8c7baa307374888cff7a3708b945dd9 | refactor: deleted un used role                                                                                   | 10/09/24            |
-| Backend    | develop          | 5418afbf2cc0d5d9e6c42e08fea6ae9f48ac81a7 | feat(tests): remove commented out code in TaskManagerApplicationTests                                            | 15/09/24            |
-| Backend    | develop          | a0220c143ad94cc9d6690e1d76e2155cc0db9ac8 | feat: add Dockerfile and docker-compose files for development and production environments                        | 15/09/24            |
-| Backend    | develop          | a45ed6898c434e2211c887cf439a38cf4827152f | chore: Update Dockerfile and docker-compose files for task manager backend                                       | 15/09/24            |
-| Backend    | feature/calendar | 272ffbcd146e7f449fe1f69bccba5f3ab275be72 | add: events class in aggregates                                                                                  | 14/09/24            |
-| Backend    | feature/calendar | 0fd984b961e9f9c84446b96c1e6ae9a4743cda58 | feat(events): added commands, queries and value objects in domain                                                | 14/09/24            |
-| Backend    | feature/calendar | 50f7a2e6829c082a8bf9800e3c4f9a4ce4179459 | feat(events): added service contracts in domain                                                                  | 14/09/24            |
-| Backend    | feature/calendar | a4cc2f30a2f39b79d5051ed5a0ef379b4e901a40 | feat(events): added command and query services implementation                                                    | 14/09/24            |
-| Backend    | feature/calendar | 43c330110a0179a44f5eb1a4033ee4129cf7cf98 | feat(events): added resources and assemblers for interfaces layer                                                | 14/09/24            |
-| Backend    | feature/calendar | 29ae2a6039739b00326f2370eb91a855cb2eec5e | feat(events): added controller service for worker                                                                | 14/09/24            |
-| Backend    | feature/task     | 740294135cabbe14595742809fb4cb9048afedc7 | feat(task): added task bounded context                                                                           | 15/09/24            |
-| Backend    | feature/task     | 2b7655ab1db99e9e1db248101c814cdf3827ce96 | feat(task): added task bounded context                                                                           | 15/09/24            |
+| --| -- | -- | -- | -- | -- |
+| Frontend | develop | 38ef5453d3fc42ba9c4988da286797f83ad519c3 | chore: initial project | 25/09/24 |
+| Frontend | develop | 270ecd27350cf53ebe0f240e50d43bb83073f7de | feat: added the common files | 25/09/24 |
+| Frontend | develop | 29fbc798e478ff94de619ae7b9b470c337995ad0 | refactor: include the idea folder to gitignore | 25/09/24 |
+| Frontend | develop | df71edb0ec578e609cce4f261e7f87c4910299e6 | feat: added permission INTERNET | 25/09/24 |
+| Frontend | develop | 67934b9982bd08f7ca103cd176b66441be18bb4b | feat(task): Added Task Bounded Context | 25/09/24 |
+| Frontend | develop | 79f5a4d5068094457cc755d0ee2af1d3c3ffa5f5 | feat: added network-security-config.xml | 25/09/24 |
+| Frontend | develop | 27c8014c02facb713a0ab06fc9d5cf9fe905f792 | feat(calendar): added PackageDto.kt | 25/09/24 |
+| Frontend | develop | 8111f5d3e2be98fd8cf46137e3946e01a48a3c3e | feat(calendar): added EventPackage.kt | 25/09/24 |
+| Frontend | develop | 69384790c9d7b2021bab4610709370b66f73722e | feat(calendar): added PackageService.kt | 25/09/24 |
+| Frontend | develop | 5d4630573011c022bb43945f2853246d06463a12 | feat(calendar): added PackageRepository.kt | 25/09/24 |
+| Frontend | develop | fdeb39c85b6466af245b2e38ad7faefa66d7d40d | feat(calendar): added PackageListEventsViewModel.kt | 25/09/24 |
+| Frontend | develop | 2e07a087ba419c9000166b4d1b13dff4858f010b | feat(calendar): added PackageListEventScreen.kt | 25/09/24 |
+| Frontend | develop | 693052827479960c9197b19375d6ade874f6f939 | feat(calendar): updated PackageListEventScreen.kt | 25/09/24 |
+| Frontend | develop | 7338d7a254712e7461e7f15e1ed9035da64505bc | fix: retrofit url | 25/09/24 |
+| Frontend | develop | 7032f7f77b3a69edaa8cf7e718c86ae247cfe7d3 | refactor: changed the message to error | 25/09/24 |
+| Frontend | develop | cb425549ffc41b1d5b8cd97d8242e96d5099a515 | feat: added the sign in functionality | 25/09/24 |
+| Frontend | develop | 59d5fc717cf8c82a1deee036d6aa9f1b9721b9c2 | fix: fixed warning in the editor and optimize imports | 25/09/24 |
+| Frontend | develop | 9ac6fee12fc1f8f79cae0f5d9e7428af10e1a999 | Feat(Tasks): Added class functionality | 26/09/24 |
+| Frontend | develop | 8e64af831c2e51fe0b146b52ede2fa5dd0a0268c | fix: error of importation error appeared when the url changed | 26/09/24 |
+| Frontend | develop | 869b674230d0d0123bd3b6572cb25a35d082236c | doc: added comment where we can redirect the user | 26/09/24 |
+| Frontend | develop | a27a4b4d5dec512da31c5d17611ee8bfe935bc30 | feat: improving the ui| 26/09/24 |
+| Frontend | develop | 48c78075d169027f37f09d30dd598daba7219988 | feat: improving the UI in the sign page | 26/09/24 |
+| Frontend | develop | 928afe58e177cbeac0ba4d71288f079bb15c179c | feat(calendar): added POST events function | 26/09/24 |
+| Frontend | develop | 0f252f8a379bc8eac361a05eb42a61a16df09049 | feat: add profiles screen | 26/09/24 |
+| Frontend | develop | 9cc0775e94942b868076dc2cb931d969a269f636 | feat: add profiles screen | 26/09/24 |
+| Frontend | develop | eb19bae790eebfa74456f59aaa1b03de0bd0d6f8 | feat: add profiles screen | 26/09/24 |
+| Frontend | develop | 7321e523cae4ecbe28cf9fa74ec19adceb511bbd | feat: add profiles screen | 26/09/24 |
+| Frontend | develop | d4efd9d967852ffa72cbb5104129da7aaa6ef87e | feat(task): Added task view | 26/09/24 |
+| Frontend | develop | 694af63445ddd5c790f2993a9c4e36c6f17ffee5 | feat(calendar): added not functional calendar | 26/09/24 |
+| Frontend | develop | 65e3c9bc0ed492155bf44e9f4a0f12f62c2e1ae3 | feat(task): Added Task UI | 26/09/24 |
+| Frontend | develop | 002f35820d8b63ebf3e2d084373e47e5ee52ed2c | feat: implemented the sign up functionality | 26/09/24 |
+| Frontend | develop | 0002595a14098509d02b3b016169115543e09206 | feat(task): Changed viewmodel component | 26/09/24 |
+| Frontend | develop | dbc3252f866748f09f7d77e6f321d262e39e83e6 | feat: added the selection of types of users | 26/09/24 |
+| Frontend | develop | ff6e4f2c8f3203a0a18ea9b503a2119cf24ed5d5 | feat: implemented the auth interceptor | 26/09/24 |
+| Frontend | develop | 4c8cf4b4d2f54a1d981cafc1328c1603edd74a36 | Merge branch 'feature/calendadr' into develop | 26/09/24 |
+| Frontend | develop | bca18fbe082c170c0ea36a3a18aca7065c201bdc | feat: adding the Calendar view | 26/09/24 |
+| Frontend | develop | 6d181cb104eb764ca735b89fec540e44045fd9ad | Merge remote-tracking branch 'origin/feature/task' into develop | 26/09/24 |
+| Frontend | develop | 7d1fa18ed05c307d5a1938037655764052ac6a0b | Merge branch 'feature/profiles' into develop | 26/09/24 |
+| Frontend | develop | 0d43024a417f16448a5861980423304f0d5d84f9 | Revert "Merge branch 'feature/profiles' into develop" | 26/09/24 |
+| Frontend | develop | 7411b2efacee81a401762463f76bdbcc6b192ac5 | feat: added the navigation-compose | 26/09/24 |
+| Frontend | develop | 2273de8b844fdfe59a0b6451cb467d4bae593848 | Revert "feat: added the navigation-compose"
+ | 26/09/24 |
 
 ##### <a name="sprint-testing-2"></a> 5.2.1.4. Testing Suite Evidence for Sprint Review
 No se han desarrollado pruebas integrales ni unitarias para esta entrega, por lo que no aplica esta sección.
