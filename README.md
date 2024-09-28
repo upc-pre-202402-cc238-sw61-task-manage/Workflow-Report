@@ -413,14 +413,14 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
     </tr>
     <tr>
         <td>Silva Morales, Renzo Cesar</td>
-        <td>Descripción de Objetivo</td>
+        <td>Aprender y aplicar los conceptos de Jetpack Compose para crear una interfaz de usuario eficiente y adaptable en una aplicación móvil. Además, adquirir conocimientos sobre desarrollo de aplicaciones móviles en Kotlin y desarrollar una aplicación funcional que integre el uso de una API. </td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>S</td>
-        <td>M</td>
-        <td>A</td>
-        <td>R</td>
-        <td>T</td>
+        <td>Se desarrollará una aplicación funcional con una interfaz dinámica y adaptable utilizando Jetpack Compose. Asimismo, se creará la aplicación Workflow. </td>
+        <td>El objetivo se evaluará mediante la creación de al menos dos vistas funcionales e interactivas con Jetpack Compose. El progreso será monitoreado constantemente. </td>
+        <td>El objetivo es desafiante, ya que requiere aprender y utilizar Jetpack Compose. La meta es crear la versión inicial funcional de la aplicación, y con base en la experiencia del equipo, proporciono recomendaciones manejables para apoyar el avance. </td>
+        <td>El trabajo nos permitirá mejorar nuestras competencias en el uso de Kotlin y Compose para el desarrollo de aplicaciones móviles. </td>
+        <td>El objetivo debe cumplirse antes del 21/11/2024. </td>
     </tr>
 </table>
 
