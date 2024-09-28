@@ -391,14 +391,14 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
     </tr>
     <tr>
         <td>Neyra Santa Cruz, Marcelo Sebastian</td>
-        <td>Descripción de Objetivo</td>
+        <td> Durante todo el ciclo académico 2024-02, desarrollaré semanalmente una nueva funcionalidad relacionada con el bounded context 'Task', que detalla tareas específicas dentro de un 'Project'. Además, cada semana proporcionaré sugerencias específicas al equipo para mejorar el desarrollo basado en la experiencia del equipo, asegurando que la aplicación final sea funcional y cumpla con las necesidades de los usuarios. Este progreso será monitoreado mediante revisiones quincenales de usabilidad y retroalimentación del equipo.  </td>
         <td>12/08/2024</td>
         <td>21/11/2024</td>
-        <td>S</td>
-        <td>M</td>
-        <td>A</td>
-        <td>R</td>
-        <td>T</td>
+        <td>Desarrollaré semanalmente una funcionalidad del bounded context "Task" y darás sugerencias al equipo</td>
+        <td>Mido el progreso semanalmente y lo evalúo en revisiones quincenales</td>
+        <td>Basado en la experiencia del equipo, doy sugerencias que puedes controlar</td>
+        <td>Me aseguro que la aplicación sea funcional y adecuada para los usuarios</td>
+        <td>Establezco un marco de todo el ciclo académico (15 semanas) para el desarrollo</td>
     </tr>
     <tr>
         <td>Periche Quiroga, Piero Fernando</td>
