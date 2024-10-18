@@ -49,7 +49,7 @@
     <tr>
         <th>#1 TB1</th>
         <td>29/08/2024</td>
-        <td>
+        <td rowspan="4">
             <p>Cisneros Tafur, Diego Rafael</p>
             <p>Mendoza Pimentel, Piero</p>
             <p>Neyra Santa Cruz, Marcelo Sebastian</p>
@@ -65,28 +65,22 @@
         <th>#2 TB2</th>
         <td>14/09/2024</td>
         <td>
-            <p>Cisneros Tafur, Diego Rafael</p>
-            <p>Mendoza Pimentel, Piero</p>
-            <p>Neyra Santa Cruz, Marcelo Sebastian</p>
-            <p>Periche Quiroga, Piero Fernando</p>
-            <p>Silva Morales, Renzo Cesar</p>
-        </td>
-        <td>
             <p>Capítulo 3</p>
+            <p>Capítulo 4</p>
         </td>
     </tr>
     <tr>
         <th>#3 TP</th>
         <td>22/09/2024</td>
         <td>
-            <p>Cisneros Tafur, Diego Rafael</p>
-            <p>Mendoza Pimentel, Piero</p>
-            <p>Neyra Santa Cruz, Marcelo Sebastian</p>
-            <p>Periche Quiroga, Piero Fernando</p>
-            <p>Silva Morales, Renzo Cesar</p>
+            <p>Capítulo 5 (Sprint 2)</p>
         </td>
+    </tr>
+    <tr>
+        <th>#4 TB3</th>
+        <td>18/10/2024</td>
         <td>
-            <p>Capítulo 4</p>
+            <p>Capítulo 5 (Sprint 3)</p>
         </td>
     </tr>
 </table>
@@ -184,16 +178,25 @@
     - [5.1.2. Source Code Management](#software-management-2)
     - [5.1.3. Source Code Style Guide & Conventions](#software-conventions-2)
     - [5.1.4. Software Deployment Configuration](#software-configuration-deployment-2)
-- **[5.2. Landing Page & Mobile Application Implementation](landing-page--mobile-application-implementation)**
-    - [5.2.1. Sprint n](#sprint-2)
-        - [5.2.1.1. Sprint Planning n](#sprint-planning-2)
-        - [5.2.1.2. Sprint Backlog n](#sprint-backlog-2)
+- **[5.2. Landing Page & Mobile Application Implementation](mobile-implementation)**
+    - [5.2.1. Sprint 2](#sprint-2)
+        - [5.2.1.1. Sprint Planning 2](#sprint-planning-2)
+        - [5.2.1.2. Sprint Backlog 2](#sprint-backlog-2)
         - [5.2.1.3. Development Evidence for Sprint Review](#sprint-deployment-2)
         - [5.2.1.4. Testing Suite Evidence for Sprint Review](#sprint-testing-2)
         - [5.2.1.5. Execution Evidence for Sprint Review](#sprint-execution-2)
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-2)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-2)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#sprint-insights-2)
+    - [5.2.2. Sprint 3](#sprint-3)
+        - [5.2.2.1. Sprint Planning 2](#sprint-planning-3)
+        - [5.2.2.2. Sprint Backlog 2](#sprint-backlog-3)
+        - [5.2.2.3. Development Evidence for Sprint Review](#sprint-deployment-3)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#sprint-testing-3)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#sprint-execution-3)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-3)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-3)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#sprint-insights-3)
 - **[5.3. Validation Interviews](#validation-interviews)**
     - [5.3.1. Diseño de Entrevistas](#diseño-validation)
     - [5.3.2. Registro de Entrevistas](#registro-validation)
@@ -303,13 +306,24 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Sprint 2</p>
                 <h5>Silva Morales, Renzo Cesar</h5>
                 <p>Sprint 2</p>
+            <h5>TB3</h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Sprint 3</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Sprint 3</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Sprint 3</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Sprint 3</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Sprint 3</p>
         </td>
         <td>
             <h5>TB1</h5>
                 <p>Se realizaron diversas entrevistas para comprender más a los potenciales clientes. También, se desarrolló un completo análisis a todos los puntos de vista planteados por los clientes. Con toda la información obtenida, podremos realizar nuestra aplicación móvil</p>
             <h5>TB2</h5>
                 <p>Se realizó una investigación acerca de los requerimientos específicos y la arquitectura que necesita nuestra aplicación para satisfacer la mejor experiencia del usuario</p>
-            <h5>TP</h5>
+            <h5>Trabajo Parcial</h5>
                 <p>Se realizó una investigación sobre los requerimientos que necesita nuestra aplicación mobile para que se adecúe con los usuarios objetivos</p>
         </td>
     </tr>
@@ -3706,7 +3720,7 @@ Nuestro equipo ha decidido trabajar con la herramienta de control de versiones d
 <p><strong>Optional Scope</strong></p>
 <p>Se utilizará para indicar la versión de la aplicación. Esta se empleará sólo en <code>Master Branch</code>, <code>Hotfix Branch</code> y <code>Release Branch</code>.</p>
 
-#### <a name="code-conventions"></a> 4.1.3. Source Code Style Guide & Conventions
+#### <a name="code-conventions"></a> 5.1.3. Source Code Style Guide & Conventions
 
 Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Kotlin como principales herramientas. Siguiendo las directrices y convenciones de estilo establecidas, nos aseguramos de mantener buenas prácticas que faciliten el mantenimiento y la escalabilidad del proyecto. A continuación, detallamos algunas convenciones clave:
 
@@ -3781,7 +3795,7 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
   </li>
 </ol>
 
-### <a name="software-configuration-deployment-2"></a> 5.2. Software Development & Implementation
+### <a name="mobile-implementation"></a> 5.2. Landing Page & Mobile Application Implementation
 #### <a name="sprint-2"></a> 5.2.1. Sprint 2
 ##### <a name="sprint-planning-2"></a> 5.2.1.1. Sprint Planning 2
 | Sprint#                        | Sprint 1                                                       |
@@ -3802,7 +3816,7 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management)**
 ![Sprint Backlog 2](images/sprint-2/backlog.png)
 
-##### <a name="sprint-development-2"></a> 4.2.1.3. Development Evidence for Sprint Review
+##### <a name="sprint-development-2"></a> 5.2.1.3. Development Evidence for Sprint Review
 ![Development Evidence](images/sprint-2/development.png)
 | Repository | Branch           | Commit Id                                | Commit Message                                                                                                   | Commit Message Body | Commited on (Date) |
 | --| -- | -- | -- | -- | -- |
@@ -3880,13 +3894,23 @@ Aquí se muestran algunas vistas de cómo se conecta la aplicación mobile con e
 ![IAM Evidence](images/sprint-2/evidence-3.png)
 ![Project Evidence](images/sprint-2/evidence-4.png)
 
-##### <a name="sprint-software-deployment-1"></a> 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### <a name="sprint-software-deployment-2"></a> 5.2.1.7. Software Deployment Evidence for Sprint Review
 Se ha vuelto a desplegar la aplicación backend para esta entrega, ya que se hicieron cambios notorios de tipos de datos que no existían en el entorno de Kotlin **[Backend](https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/swagger-ui/index.html)**  
 
 El despliegue de la aplicación mobile se ha dejado para una entrega posterior, ya que actualmente solo se cuenta con un prototipo de la aplicación.
 
-##### <a name="sprint-insights-1"></a> 4.2.1.8. Team Collaboration Insights during Sprint
+##### <a name="sprint-insights-2"></a> 5.2.1.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-2/insights.png)
+
+#### <a name="sprint-3"></a> 5.2.2. Sprint 3
+##### <a name="sprint-planning-3"></a> 5.2.2.1. Sprint Planning 3
+##### <a name="sprint-backlog-3"></a> 5.2.2.2. Sprint Backlog 3
+##### <a name="sprint-development-3"></a> 5.2.2.3. Development Evidence for Sprint Review
+##### <a name="sprint-testing-3"></a> 5.2.2.4. Testing Suite Evidence for Sprint Review
+##### <a name="sprint-execution-3"></a> 5.2.2.5. Execution Evidence for Sprint Review
+##### <a name="sprint-documentation-3"></a> 5.2.2.6. Services Documentation Evidence for Sprint Review
+##### <a name="sprint-software-deployment-3"></a> 5.2.2.7. Software Deployment Evidence for Sprint Review
+##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## Anexos
 ##### *Cuadros*
