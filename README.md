@@ -3798,7 +3798,7 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 ### <a name="mobile-implementation"></a> 5.2. Landing Page & Mobile Application Implementation
 #### <a name="sprint-2"></a> 5.2.1. Sprint 2
 ##### <a name="sprint-planning-2"></a> 5.2.1.1. Sprint Planning 2
-| Sprint#                        | Sprint 1                                                       |
+| Sprint#                        | Sprint 2                                                       |
 | ------------------------------ | -------------------------------------------------------------- |
 | Sprint Planning Background     |                                                                |
 | Date                           | 16/9/24                                                        |
@@ -3813,7 +3813,7 @@ Para el desarrollo de nuestra aplicación móvil, utilizamos Android Studio y Ko
 | Sum of Story Points            | 28                                                             |
 
 ##### <a name="sprint-backlog-2"></a> 5.2.1.2. Sprint Backlog 2
-Enlace para visualizar visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management)**
+Enlace para visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management)**
 ![Sprint Backlog 2](images/sprint-2/backlog.png)
 
 ##### <a name="sprint-development-2"></a> 5.2.1.3. Development Evidence for Sprint Review
