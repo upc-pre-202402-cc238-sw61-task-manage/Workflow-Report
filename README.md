@@ -3907,7 +3907,78 @@ El despliegue de la aplicación mobile se ha dejado para una entrega posterior, 
 ##### <a name="sprint-backlog-3"></a> 5.2.2.2. Sprint Backlog 3
 ##### <a name="sprint-development-3"></a> 5.2.2.3. Development Evidence for Sprint Review
 ##### <a name="sprint-testing-3"></a> 5.2.2.4. Testing Suite Evidence for Sprint Review
+##### Feature task
+Para estas pruebas, contaremos con 6 tareas:  
+![Testing tasks](images/sprint-3/testing-tasks-1.png)
+
+**1. Prueba de retribución de datos de la base de datos remota:**
+> **Nota:** Los campos `ProjectID` y `UserID` fueron agregados únicamente con motivos de pruebas y demostración. Se eliminarán en la entrega del producto final.
+
+###### *Premisa: Obtener todas las tareas del proyecto actual*
+Un usuario puede presionar únicamente el botón “ALL” y le aparecerán solo las “tasks” del proyecto solicitado
+![Task Test](images/sprint-3/testing-tasks-2.png)
+###### *Premisa: Obtener únicamente todas las tareas del usuario del proyecto solicitado*
+Un usuario puede presionar el botón “Show my tasks” para únicamente retribuir las tareas que son del usuario.
+![Task Test](images/sprint-3/testing-tasks-3.png)
+###### *Premisa: Obtener todas las tareas con el estatus indicado:*
+Un usuario puede obtener todas las tareas con el estatus indicado. Este estatus puede ser NEW, PENDING, COMPLETED, OVERDUE y COMPLETED_OVERDUE. Solo es posible obtener las tareas especificadas con un solo tipo de estatus a la vez, es decir, por ejemplo, un usuario no podrá buscar tareas con el estatus NEW y PENDING a la vez.  
+![Task Test](images/sprint-3/testing-tasks-4.png)
+![Task Test](images/sprint-3/testing-tasks-5.png)
+###### *Premisa: Obtener mostrar únicamente las tareas que el usuario tiene asignadas con el estatus indicado*
+Un usuario puede visualizar únicamente las tareas que estén asignadas a si mismo que tengan un estatus específico. Para ello, puede presionar el botón “Show my tasks” y cualquiera de los estados disponibles, a excepción de ALL, que muestra todos.
+![Task Test](images/sprint-3/testing-tasks-6.png)
+![Task Test](images/sprint-3/testing-tasks-7.png)
+
+**2. Prueba publicación de datos a la base de datos remota:**
+> **Nota:** El campo de `Project ID` no aparecerá en la vista final. Se utiliza únicamente para facilitar las pruebas. Por otro lado, el campo `User ID` será cambiado a un menú de despliegue con los nombres de los usuarios que estén dentro del proyecto en ves de sus IDs.
+
+###### *Premisa: Crear una nueva tarea dentro de un proyecto*
+Se le permitirá al jefe de equipo crear una nueva tarea cuando esté dentro del proyecto. Para ello, se agrega un nombre, descripción y fecha de entrega. 
+![Task Test](images/sprint-3/testing-tasks-8.png)
+![Task Test](images/sprint-3/testing-tasks-9.png)
+
+**3. Prueba de edición de tarea de la base de datos remota:**
+###### *Premisa: Editar una tarea*
+> **Nota:** Por motivos de pruebas, ambos tipos de usuario pueden editar la información sin restricciones por usuario. No será así en la entrega final.
+
+Cuando el jefe de equipo presione en una tarea en la lista de tareas, entonces se le permitirá editar los datos de la tarea. El jefe de equipo podrá editar el nombre, la descripción, la fecha de entrega y el usuario asignado. El miembro de equipo podrá editar únicamente el estado de la tarea.
+![Task Test](images/sprint-3/testing-tasks-10.png)
+![Task Test](images/sprint-3/testing-tasks-11.png)
+###### *Premisa: Visualizar la tarea actualizada*
+Una vez que el usuario actualice la tarea, esta se podrá ver automáticamente en la lista de tareas
+![Task Test](images/sprint-3/testing-tasks-12.png)
+**4. Prueba de eliminación de la tarea de la base de datos remota:**
+###### *Premisa: Seleccionar tarea para eliminar*
+>**Nota:** El ícono de eliminar la tarea solo aparecerá en la vista del jefe de equipo en la aplicación final.
+
+Un jefe de equipo podrá eliminar la tarea cuando desee conveniente. Al eliminarla, esta tarea ya no aparecerá en la lista de tareas. Para eliminar una tarea, se presiona en el ícono de tacho.
+![Task Test](images/sprint-3/testing-tasks-13.png)
+###### *Premisa: Confirmar eliminación de tarea*
+Una vez seleccionada la tarea para eliminar, aparecerá un diálogo de confirmación. Si es que se presiona “Yes”, entonces se elimina la tarea y se vuelve a la lista de tareas, en donde ya no aparecerá la tarea borrada. Si se presiona “No”, se vuelve a la lista de tareas.
+![Task Test](images/sprint-3/testing-tasks-14.png)
+![Task Test](images/sprint-3/testing-tasks-15.png)
+
 ##### <a name="sprint-execution-3"></a> 5.2.2.5. Execution Evidence for Sprint Review
+###### Autenticación de Usuario
+![User Sign In](images/sprint-2/execution-sign-in.jpeg)
+![User Sign Up](images/sprint-2/execution-sign-up.jpeg)
+###### Proyecto
+En desarrollo
+###### Tarea
+![Task](images/sprint-3/testing-tasks-2.png)
+![Task](images/sprint-3/testing-tasks-8.png)
+![Task](images/sprint-3/testing-tasks-10.png)
+![Task](images/sprint-3/testing-tasks-14.png)
+###### Calendario
+![Calendar](images/sprint-2/execution-calendar.jpeg)
+###### Evento
+![Evento](images/sprint-2/executon-event.jpeg)
+###### Usuario
+![User](images/sprint-2/execution-user.jpeg)
+###### Configuración
+En desarrollo
+###### Home Screen (Vista Provisional)
+![Home](images/sprint-3/execution-home.png)
 ##### <a name="sprint-documentation-3"></a> 5.2.2.6. Services Documentation Evidence for Sprint Review
 ##### <a name="sprint-software-deployment-3"></a> 5.2.2.7. Software Deployment Evidence for Sprint Review
 ##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
