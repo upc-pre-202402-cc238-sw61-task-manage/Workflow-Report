@@ -3904,7 +3904,27 @@ El despliegue de la aplicación mobile se ha dejado para una entrega posterior, 
 
 #### <a name="sprint-3"></a> 5.2.2. Sprint 3
 ##### <a name="sprint-planning-3"></a> 5.2.2.1. Sprint Planning 3
+
 ##### <a name="sprint-backlog-3"></a> 5.2.2.2. Sprint Backlog 3
+
+Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.com/invite/b/67197925b6f60b5fc7d16954/ATTId3d227152315a4bd422a7f6d9eb72fad1A98FBF4/spring-backlog-3-task-management 
+
+![](images/sprint-3/Spring%20Backlog%203.png)
+
+|**Sprint 3**|**Sprint 3**||||||
+| :- | :- | :- | :- | :- | :- | :- |
+|**User Story** |**Work-Item / Task** ||||||
+|**Id** |**Title** |**Id** |**Title** |**Description** |<p>**Estimation**  </p><p>**(Hours)** </p>|<p>**Status** </p><p> </p>|
+|**E5-US01**|**Actualización del estado de las tareas**|W-01 |Actualización del estado de las tareas|Actualizar el estado de las tareas para reflejar su progreso |3 |Done|
+|**E6-US03**|**Eliminación de eventos de calendario**|W-02 |Eliminación de eventos de calendario|Eliminar eventos de calendario para que ya no se visualice en el calendario|2 |**Done** |
+|**E6-US04**|**Recordatorios de Eventos de Calendario**|W-03|Recordatorios de Eventos de Calendario|Recibir recordatorios de eventos de calendario |3|**Done**|
+|**E7-US01**|**Etiquetado de tareas y proyecto**|W-04|Etiquetado de tareas y proyecto|Poder etiquetar tareas y proyectos con etiquetas descriptivas para una mejor organización y búsqueda |3|**In-Process**|
+|**E7-US02**|**Filtrado por etiquetas**|W-05|Filtrado por etiquetas|<p>Filtrar tareas y proyectos basándome en etiquetas para acceder rápidamente a los elementos relacionados</p><p></p>|4|**In-Process**|
+|**E8-US01**|**Ajuste de datos personales**|W-06|Ajuste de datos personales|Poder ajustar los datos personales para asegurarme que estén actualizados |2|**To-Do**|
+|**E8-US02**|**Cambio de contraseña**|W-07|Cambio de contraseña|Poder cambiar la contraseña para mantener mi cuenta segura |3|**To-Do**|
+|**E8-US03**|**Recuperación de contraseña**|W-08|Recuperación de contraseña|Tener la capacidad de restablecer la contraseña en caso de olvidarla |5|**To-Do**|
+|**E8-US04**|**Eliminación de cuenta**|W-09|Eliminación de cuenta|Poder eliminar la cuenta |2|**To-Do**|
+
 ##### <a name="sprint-development-3"></a> 5.2.2.3. Development Evidence for Sprint Review
 ##### <a name="sprint-testing-3"></a> 5.2.2.4. Testing Suite Evidence for Sprint Review
 ##### Feature task
