@@ -3904,6 +3904,19 @@ El despliegue de la aplicación mobile se ha dejado para una entrega posterior, 
 
 #### <a name="sprint-3"></a> 5.2.2. Sprint 3
 ##### <a name="sprint-planning-3"></a> 5.2.2.1. Sprint Planning 3
+| Sprint#                        | Sprint 3                                                       |
+| ------------------------------ | -------------------------------------------------------------- |
+| Sprint Planning Background     |                                                                |
+| Date                           | 20/10/24                                                       |
+| Time                           | 15:00 (GMT-5)                                                  |
+| Location                       | Whatsapp                                                       |
+| Prepared By                    | Task Management                                                |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management                   |
+| Sprint 3 - Review Summary      | Se han implementado mejoras al FrontEnd y al BackEnd de la aplicación.  |
+| Sprint 3 - Retrospective       | Se desarrolló completamente el BackEnd y la mayor parte del FrontEnd.   |
+| Sprint Goal & User Stories     |                                                                |
+| Sprint 3 Velocity              | 10                                                             |
+| Sum of Story Points            | 20                                                             |
 
 ##### <a name="sprint-backlog-3"></a> 5.2.2.2. Sprint Backlog 3
 
