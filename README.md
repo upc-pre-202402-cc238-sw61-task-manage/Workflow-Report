@@ -4015,6 +4015,7 @@ En desarrollo
 ##### <a name="sprint-documentation-3"></a> 5.2.2.6. Services Documentation Evidence for Sprint Review
 ##### <a name="sprint-software-deployment-3"></a> 5.2.2.7. Software Deployment Evidence for Sprint Review
 ##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
+![Insights](images/sprint-3/insights-3.png)
 
 ## Anexos
 ##### *Cuadros*
