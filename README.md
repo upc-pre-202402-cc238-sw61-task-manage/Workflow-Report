@@ -3916,7 +3916,7 @@ El despliegue de la aplicación mobile se ha dejado para una entrega posterior, 
 | Sprint 3 - Retrospective       | Se desarrolló completamente el BackEnd y la mayor parte del FrontEnd.   |
 | Sprint Goal & User Stories     |                                                                |
 | Sprint 3 Velocity              | 10                                                             |
-| Sum of Story Points            | 20                                                             |
+| Sum of Story Points            | 30                                                             |
 
 ##### <a name="sprint-backlog-3"></a> 5.2.2.2. Sprint Backlog 3
 
