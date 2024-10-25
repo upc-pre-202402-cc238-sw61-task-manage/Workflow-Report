@@ -3939,6 +3939,45 @@ Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.co
 |**E8-US04**|**Eliminación de cuenta**|W-09|Eliminación de cuenta|Poder eliminar la cuenta |2|**To-Do**|
 
 ##### <a name="sprint-development-3"></a> 5.2.2.3. Development Evidence for Sprint Review
+| Repository | Branch  | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
+|------------|---------|-----------|--------------------------------------------------------|---------------------|---------------------|
+| Backend    | develop | 2b63d6c2c2ffaa6aea48cea8dc3846d410865465| Merge pull request #7 from upc-pre-202402-cc238-sw61-task-manage/feature/event | None                | 24/10/2024          |
+| Backend    | develop | 4b681f879307eac4ee674f460ca3857ec1c09b7a| Merge branch 'develop' into feature/event               | None                | 24/10/2024          |
+| Backend    | develop | 5b4c5490e94303c22d1bd039009e89dab5b1f369| fix: fixed issue that prevented merging                 | None                | 24/10/2024          |
+| Backend    | develop | 5b4c5490e94303c22d1bd039009e89dab5b1f369| fix: fixed dependencies that prevented merging          | None                | 24/10/2024          |
+| Backend    | develop | c39c841e1bf620cfc69e967d2f274ff12ff5f2bf| Merge pull request #6 from upc-pre-202402-cc238-sw61-task-manage/feature/profiles | None                | 24/10/2024          |
+| Backend    | develop | fb4f18082d11d8f96d2f7a50d884604f39f24e6d| Merge pull request #5 from upc-pre-202402-cc238-sw61-task-manage/feature/project | None                | 24/10/2024          |
+| Backend    | profiles  | 233fd80582902b163fd4b3c286892b31522dafd4| feat: update profiles                                  | None                | 25/10/2024          |
+| Backend    | profiles  | c5570637f0b7bf13821e372b47fd41f88c30d6e8| feat: update profiles                                  | None                | 23/10/2024          |
+| Backend    | profiles  | 5491285a9d1fff1700a1d3269d3072d0d467f9db| feat: asdknasl                                         | None                | 23/10/2024          |
+| Backend    | profiles  | 775325d909949f8e78149024a7938907d59da311| fix: fixed error on changed pages when the response of creation is valid | None      | 23/10/2024          |
+| Backend    | profiles  | d86d7e9d0f95520cebbf8c84bd89b9ced9f99589| fix: errors on create users, now the app validates the response and pushes to signIn screen | None | 23/10/2024          |
+| Backend    | profiles  | 0f017b8e240a4c6fc1eb0175a08d56f190cf087f| fix: DropdownMenu in the sign up screen                | None                | 23/10/2024          |
+| Backend    | profiles  | 72efc344c0220d61ac982266f0e22ac072b64d45| feat: improve the view in sign in and sign up screens  | None                | 23/10/2024          |
+| Backend    | projects | af2d91210f3d2bde6b37f3068340d1006c801022| feat: add Project List Screen                          | None                | 24/10/2024          |
+| Backend    | projects | cbba0d47f492dc41d919d89b410bf49513cd9679| fix: error by adding a project id                      | None                | 24/10/2024          |
+| Backend    | projects | fba695d381a5fe09e13aee19cc225fa794c06f75| fix: project creation screen                           | None                | 23/10/2024          |
+| Backend    | projects | 4450275adb27ff3b6ff2c99eceb7e7c66daae885| fix: project creation view model & repository          | None                | 23/10/2024          |
+| Backend    | projects | 142a59cec3972c42b961d11ae9c27ecf19865f64| fix: project entity                                    | None                | 23/10/2024          |
+| Backend    | projects | 25ea7256c0a6f07ded07513a04ecf187412c1142| fix: project dto fun                                   | None                | 23/10/2024          |
+| Backend    | projects | e037f4eae04f1a8c890a8f69bc1d1e33a0774b08| fix: project dto                                       | None                | 23/10/2024          |
+| Backend    | projects | 6d0527709598644c98ffe42ff2afe06f69694d7f| feat: add project creation composable                  | None                | 23/10/2024          |
+| Backend    | projects | 2aa75b22a92716e7040a22a3e87cb75d856ec950| fix: project creation screen                           | None                | 23/10/2024          |
+| Backend    | projects | 775325d909949f8e78149024a7938907d59da311| fix: fixed error on changed pages when the response of creation is valid | None   | 23/10/2024          |
+| Backend    | projects | d86d7e9d0f95520cebbf8c84bd89b9ced9f99589| fix: errors on create users, now the app validates the response and pushes to signIn screen | None | 23/10/2024          |
+| Backend    | projects | 0f017b8e240a4c6fc1eb0175a08d56f190cf087f| fix: DropdownMenu in the sign up screen                | None                | 23/10/2024          |
+| Backend    | projects | 72efc344c0220d61ac982266f0e22ac072b64d45| feat: improve the view in sign in and sign up screens  | None                | 23/10/2024          |
+| Backend    | projects | 6afff1e457bf69bb1b4e84c2742100cabc4a0664| fix: use the right path to consume the API             | None                | 23/10/2024          |
+| Backend    | task     | fe43bcd8e0a4f871227057533ed2451bb7833b9f| feat(task): added put and delete methods and views      | None                | 22/10/2024          |
+| Backend    | task     | ffede48503194cf0008b671334dc3b129c7b6068| feat(task): added new method for searching tasks        | None                | 21/10/2024          |
+| Backend    | task     | ee1837878fc74180686738d98245236de8cd4b59| feat(task): finished task list view                     | None                | 21/10/2024          |
+| Backend    | task     | f143eca83e5ba4a7ba365e4d3e8466d9d8a2abd9| feat(task): added more task status                      | None                | 20/10/2024          |
+| Backend    | task     | 65500ab65f74c6914714e03cc5c63c244be9f634| feat(task): added task status queries and functions     | None                | 20/10/2024          |
+| Backend    | task     | 7ab14d89048984ca64a0790c2f19db3707b9e7b7| fix(task): fixed and readded task list functionality    | None                | 19/10/2024          |
+| Backend    | task     | 89dd2e2e439f05462ee7d77f17b412cf94090335| feat(task): changed several files for better management | None                | 19/10/2024          |
+| Backend    | task     | 5f5df1bad61876373f0938e23881682b78876206| feat(app image): added new app image                    | None                | 19/10/2024          |
+
+
 ##### <a name="sprint-testing-3"></a> 5.2.2.4. Testing Suite Evidence for Sprint Review
 ##### Feature task
 Para estas pruebas, contaremos con 6 tareas:  
