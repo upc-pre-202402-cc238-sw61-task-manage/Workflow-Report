@@ -3939,6 +3939,10 @@ Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.co
 |**E8-US04**|**Eliminación de cuenta**|W-09|Eliminación de cuenta|Poder eliminar la cuenta |2|**To-Do**|
 
 ##### <a name="sprint-development-3"></a> 5.2.2.3. Development Evidence for Sprint Review
+
+
+
+![](https://i.imgur.com/r7icLVC.png)
 | Repository | Branch  | Commit Id | Commit Message                                         | Commit Message Body | Committed on (Date) |
 |------------|---------|-----------|--------------------------------------------------------|---------------------|---------------------|
 | Backend    | develop | 2b63d6c2c2ffaa6aea48cea8dc3846d410865465| Merge pull request #7 from upc-pre-202402-cc238-sw61-task-manage/feature/event | None                | 24/10/2024          |
