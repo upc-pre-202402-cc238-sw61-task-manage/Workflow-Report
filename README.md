@@ -4056,6 +4056,16 @@ En desarrollo
 ###### Home Screen (Vista Provisional)
 ![Home](images/sprint-3/execution-home.png)
 ##### <a name="sprint-documentation-3"></a> 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+Se actualizó el servicio task para adecuarse para las necesidades de la aplicación móvil. Se agregó un nuevo campo status, que será utilizado en la aplicación para demostrar el estado de completitud de la tarea.
+![](https://i.imgur.com/k3Fae5B.png)
+![](https://i.imgur.com/qReljIw.png)
+Se arreglaron ciertos errores en Project, los cuales implicaba la agregación de los foreign keys de las entidades relacionadas a este bounded contexts. 
+![](https://i.imgur.com/sA17jOH.png)
+También, se simplifico los campos para actualizar un evento.  
+![](https://i.imgur.com/yR1agyu.png)
+
 ##### <a name="sprint-software-deployment-3"></a> 5.2.2.7. Software Deployment Evidence for Sprint Review
 ##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-3/insights-3.png)
