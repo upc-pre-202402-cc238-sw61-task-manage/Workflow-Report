@@ -258,6 +258,17 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Aplicación Mobile (User related events)</p>
                 <h5>Silva Morales, Renzo Cesar</h5>
                 <p>Aplicación Mobile (Project)</p>
+            <h5>TB3<h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Frontend + Backend (IAM)</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Frontend + Backend (Calendar y Event)</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Frontend + Backend (Task)</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Frontend (User)</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Frontend (Project)</p>
         </td>
         <td>
             <h5>TB1</h5>
@@ -266,6 +277,8 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>En esta entrega se desarrolló la aplicación backend que utilizará la aplicación móvil en las siguientes entregas</p>
             <h5>Trabajo Parcial</h5>
                 <p>En esta entrega se desarrolló una primera instancia de la aplicación mobile. Se espera que para las siguientes entrega se mejore la funcionalidad y diseño de esta.</p>
+            <h5>TB3</h5>
+                <p>En esta entrega, se continuo con el desarrollo de ambas aplicaciones (frontend y backend). </p>
         </td>
     </tr>
     <tr>
@@ -325,6 +338,8 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Se realizó una investigación acerca de los requerimientos específicos y la arquitectura que necesita nuestra aplicación para satisfacer la mejor experiencia del usuario</p>
             <h5>Trabajo Parcial</h5>
                 <p>Se realizó una investigación sobre los requerimientos que necesita nuestra aplicación mobile para que se adecúe con los usuarios objetivos</p>
+            <h5>TB3</h5>
+                <p>Se realizó una investigación de cómo implementar correctamente todos los widgets de la aplicación</p>
         </td>
     </tr>
 </table>
