@@ -3983,7 +3983,7 @@ Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.co
 
 
 ##### <a name="sprint-testing-3"></a> 5.2.2.4. Testing Suite Evidence for Sprint Review
-##### Feature task
+##### Feature: Task
 Para estas pruebas, contaremos con 6 tareas:  
 ![Testing tasks](images/sprint-3/testing-tasks-1.png)
 
@@ -4034,30 +4034,54 @@ Una vez seleccionada la tarea para eliminar, aparecerá un diálogo de confirmac
 ![Task Test](images/sprint-3/testing-tasks-14.png)
 ![Task Test](images/sprint-3/testing-tasks-15.png)
 
+##### Feature: Calendar
+Para estas pruebas, contamos con 6 eventos:
+![Calendar Test](images/sprint-3/testing-calendar-1.png) 
+
+###### *Premisa: Visualizar los próximos eventos en el calendario*
+>**Nota:** El id del usuario no será proveído en la aplicación manualmente, sino que este será guardado cuando el usuario ingrese a la aplicación en shared preferences.
+
+Un usuario podrá visualizar todos los eventos próximos en el calendario a los cuales el usuario esté asignado.
+![Calendar Test](images/sprint-3/execution-calendar-1.png)
+
+###### *Premisa: Agregar un evento al calendario*
+>**Nota:** En la aplicación final, solo un jefe de equipo podrá agregar un evento en el calendario
+
+Un jefe de equipo podrá agregar un evento en el calendario al presionar el botón (+) que se encuentra en el lado izquierda inferior. Allí, le aparecerá una pantalla donde podrá proveer un nombre, descripción y fecha en donde ocurra un evento. Al darle click en Add, la lista de eventos se actualizará automáticamente y se creará el evento. Este podrá ser visualizado en el calendario.
+![Calendar Test](images/sprint-3/execution-calendar-2.png)
+![Calendar Test](images/sprint-3/execution-calendar-3.png)
+
+###### *Premisa: Borrar un evento al calendario*
+>**Nota:** Al igual que el agregado, solo un jefe de equipo puede eliminar un evento del calendario
+
+Un jefe de equipo podrá eliminar un evento de calendario al presionar el botón con forma de tacho de color rojo. Cuando el jefe de equipo lo presione, aparecerá un mensaje de confirmación, indicando si es que realmente quiere eliminar el evento.
+![Calendar Test](images/sprint-3/execution-calendar-4.png)
+
 ##### <a name="sprint-execution-3"></a> 5.2.2.5. Execution Evidence for Sprint Review
 ###### Autenticación de Usuario
-![User Sign In](images/sprint-2/execution-sign-in.jpeg)
-![User Sign Up](images/sprint-2/execution-sign-up.jpeg)
+![User Sign In](images/sprint-3/execution-authentication-1.png)
+![User Sign In](images/sprint-3/execution-authentication-2.png)
+![User Sign Up](images/sprint-3/execution-authentication-3.png)
+![User Sign Up](images/sprint-3/execution-authentication-4.png)
 ###### Proyecto
-En desarrollo
+![Proyect](images/sprint-3/execution-project-1.jpg)
+![Proyect](images/sprint-3/execution-project-2.jpg)
 ###### Tarea
 ![Task](images/sprint-3/testing-tasks-2.png)
 ![Task](images/sprint-3/testing-tasks-8.png)
 ![Task](images/sprint-3/testing-tasks-10.png)
 ![Task](images/sprint-3/testing-tasks-14.png)
-###### Calendario
-![Calendar](images/sprint-2/execution-calendar.jpeg)
-###### Evento
-![Evento](images/sprint-2/executon-event.jpeg)
+###### Calendario + Evento
+![Calendar](images/sprint-3/execution-calendar-1.png)
+![Calendar](images/sprint-3/execution-calendar-2.png)
+![Calendar](images/sprint-3/execution-calendar-3.png)
+![Calendar](images/sprint-3/execution-calendar-4.png)
 ###### Usuario
 ![User](images/sprint-2/execution-user.jpeg)
-###### Configuración
-En desarrollo
 ###### Home Screen (Vista Provisional)
 ![Home](images/sprint-3/execution-home.png)
+
 ##### <a name="sprint-documentation-3"></a> 5.2.2.6. Services Documentation Evidence for Sprint Review
-
-
 Se actualizó el servicio task para adecuarse para las necesidades de la aplicación móvil. Se agregó un nuevo campo status, que será utilizado en la aplicación para demostrar el estado de completitud de la tarea.
 ![](https://i.imgur.com/k3Fae5B.png)
 ![](https://i.imgur.com/qReljIw.png)
@@ -4067,6 +4091,8 @@ También, se simplifico los campos para actualizar un evento.
 ![](https://i.imgur.com/yR1agyu.png)
 
 ##### <a name="sprint-software-deployment-3"></a> 5.2.2.7. Software Deployment Evidence for Sprint Review
+El despliegue de la aplicación fue realizado en la anterior entrega y no se ha hecho ningún cambio. Puede encontrar la aplicación Swagger en el siguiente enlace: **[Backend](https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/)**
+
 ##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-3/insights-3.png)
 
