@@ -49,7 +49,7 @@
     <tr>
         <th>#1 TB1</th>
         <td>29/08/2024</td>
-        <td rowspan="4">
+        <td rowspan="5">
             <p>Cisneros Tafur, Diego Rafael</p>
             <p>Mendoza Pimentel, Piero</p>
             <p>Neyra Santa Cruz, Marcelo Sebastian</p>
@@ -81,6 +81,13 @@
         <td>18/10/2024</td>
         <td>
             <p>Capítulo 5 (Sprint 3)</p>
+        </td>
+    </tr>
+    <tr>
+        <th>#5 TB4</th>
+        <td>10/11/2024</td>
+        <td>
+            <p>Capítulo 5 (Sprint 4)</p>
         </td>
     </tr>
 </table>
@@ -278,6 +285,17 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Frontend (User)</p>
                 <h5>Silva Morales, Renzo Cesar</h5>
                 <p>Frontend (Project)</p>
+            <h5>TB4<h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Frontend + Backend (IAM)</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Frontend + Backend (Calendar y Event)</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Frontend + Backend (Task, Projects , ProjectUser)</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Frontend + Backend (User)</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Frontend + Backend (Project)</p>
         </td>
         <td>
             <h5>TB1</h5>
@@ -288,6 +306,8 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>En esta entrega se desarrolló una primera instancia de la aplicación mobile. Se espera que para las siguientes entrega se mejore la funcionalidad y diseño de esta.</p>
             <h5>TB3</h5>
                 <p>En esta entrega, se continuo con el desarrollo de ambas aplicaciones (frontend y backend). </p>
+            <h5>TB4</h5>
+                <p>En esta entrega, se continuó con el desarrollo de ambas aplicaciones (frontend y backend). También, se hicieron mejoras en las consultas al backend. </p>
         </td>
     </tr>
     <tr>
@@ -339,6 +359,17 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Sprint 3</p>
                 <h5>Silva Morales, Renzo Cesar</h5>
                 <p>Sprint 3</p>
+            <h5>TB4</h5>
+                <h5>Cisneros Tafur, Diego Rafael</h5>
+                <p>Sprint 4</p>
+                <h5>Mendoza Pimentel, Piero</h5>
+                <p>Sprint 4</p>
+                <h5>Neyra Santa Cruz, Marcelo Sebastian</h5>
+                <p>Sprint 4</p>
+                <h5>Periche Quiroga, Piero Fernando</h5>
+                <p>Sprint 4</p>
+                <h5>Silva Morales, Renzo Cesar</h5>
+                <p>Sprint 4</p>
         </td>
         <td>
             <h5>TB1</h5>
@@ -349,6 +380,8 @@ En el presente trabajo final, se contribuye a alcanzar el siguiente logro:
                 <p>Se realizó una investigación sobre los requerimientos que necesita nuestra aplicación mobile para que se adecúe con los usuarios objetivos</p>
             <h5>TB3</h5>
                 <p>Se realizó una investigación de cómo implementar correctamente todos los widgets de la aplicación</p>
+            <h5>TB4</h5>
+                <p>Se realizó una investigación de cómo implementar correctamente tablas intermedias en la aplicación, para mejorar las consultas con queries y la creación de entidades con comandos</p>
         </td>
     </tr>
 </table>
