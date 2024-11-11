@@ -179,7 +179,7 @@
     - [5.1.3. Source Code Style Guide & Conventions](#software-conventions-2)
     - [5.1.4. Software Deployment Configuration](#software-configuration-deployment-2)
 - **[5.2. Landing Page & Mobile Application Implementation](mobile-implementation)**
-    - [5.2.1. Sprint 2](#sprint-2)
+    - [5.2.1. Sprint 2](#sprint-4)
         - [5.2.1.1. Sprint Planning 2](#sprint-planning-2)
         - [5.2.1.2. Sprint Backlog 2](#sprint-backlog-2)
         - [5.2.1.3. Development Evidence for Sprint Review](#sprint-deployment-2)
@@ -197,6 +197,15 @@
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-3)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-3)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#sprint-insights-3)
+    - [5.2.3. Sprint 4](#sprint-4)
+        - [5.2.3.1. Sprint Planning 4](#sprint-planning-4)
+        - [5.2.3.2. Sprint Backlog 4](#sprint-backlog-4)
+        - [5.2.3.3. Development Evidence for Sprint Review](#sprint-deployment-4)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#sprint-testing-4)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#sprint-execution-4)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#sprint-documentation-4)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#sprint-software-deployment-4)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#sprint-insights-4)
 - **[5.3. Validation Interviews](#validation-interviews)**
     - [5.3.1. Diseño de Entrevistas](#diseño-validation)
     - [5.3.2. Registro de Entrevistas](#registro-validation)
@@ -4111,18 +4120,354 @@ El despliegue de la aplicación fue realizado en la anterior entrega y no se ha 
 ##### <a name="sprint-insights-3"></a> 5.2.2.8. Team Collaboration Insights during Sprint
 ![Insights](images/sprint-3/insights-3.png)
 
+#### <a name="sprint-4"></a> 5.2.3. Sprint 4
+##### <a name="sprint-planning-4"></a> 5.2.3.1. Sprint Planning 4
+| Sprint#                        | Sprint 4                                                       |
+| ------------------------------ | -------------------------------------------------------------- |
+| Sprint Planning Background     |                                                                |
+| Date                           | 5/11/24                                                        |
+| Time                           | 10:00 (GMT-5)                                                  |
+| Location                       | Whatsapp                                                       |
+| Prepared By                    | Task Management                                                |
+| Attendes (to planning meeting) | Todos los miembros del grupo Task Management                   |
+| Sprint 4 - Review Summary      | Se han agregado funcionalidades y mejorado las vistas del frontend.   |
+| Sprint 4 - Retrospective       | Se mejoró el backend y se agregaron las entrevistas            |
+| Sprint Goal & User Stories     |                                                                |
+| Sprint 3 Velocity              | 10                                                             |
+| Sum of Story Points            | 28                                                             |
+
+##### <a name="sprint-backlog-4"></a> 5.2.3.2. Sprint Backlog 3
+
+Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.com/invite/b/67197925b6f60b5fc7d16954/ATTId3d227152315a4bd422a7f6d9eb72fad1A98FBF4/spring-backlog-3-task-management 
+
+![](images/sprint-3/Spring%20Backlog%203.png)
+
+|**Sprint 4**|**Sprint 4**||||||
+| :- | :- | :- | :- | :- | :- | :- |
+|**User Story** |**Work-Item / Task** ||||||
+|**Id** |**Title** |**Id** |**Title** |**Description** |<p>**Estimation**  </p><p>**(Hours)** </p>|<p>**Status** </p><p> </p>|
+|**EP3-US01**|**Creación de un Proyecto Nuevo**|W-01 |Crear un proyecto nuevo|Permitir al jefe de equipo crear un proyecto nuevo, en donde podrá agregar miembros | 5 |Done|
+|**EP4 / US1**|**Creación de tarea laboral**|W-02 |Crear una nueva tarea laboral|Permitir al jefe de equipo crear una tarea, en donde podrá asignarle un miembro del equipo|4 |**Done** |
+|**EP3 / US2**|**Asignación de un Miembro a un Proyecto**|W-03|Asignar un miembro de equipo a un proyecto|Permitir al jefe de equipo agregar un miembro de equipo al proyecto |4|**To Review**|
+|**EP4 / US2**|**Etiquetado de tareas y proyecto**|W-04|Asignación de Responsabilidades a una tarea|Asignar un miembro de equipo a una tarea |4|**To Review**|
+|**EP5 / US2**|**Gestión de Avance del Proyecto**|W-05|Gestionar la cantidad de tareas completadas en el proyecto|Permitir al usuario visualizar la cantidad de tareas completadas en un proyecto|4|**In-Process**|
+|**EP6 / US4**|**Recordatorios de Eventos de Calendario**|W-06|Establecer un recordatorio de un evento de calendario|Permitir al usuario establecer un recordatorio de un evento en el calendario |6|**To-Do**|
+|**EP7 / US1**|**Etiquetado de tareas y proyectos**|W-07|Establecer una etiqueta a un proyecto o tarea|Permitir al usuario establecer una etiqueta a las tareas y proyectos |5|**Done**|
+|**EP7 / US2**|**Filtrado de Etiquetas**|W-08|Filtrar las tareas y proyectos por etiquetas|Permitir al usuario mostrar únicamente los proyectos y tareas con la etiqueta solicitada |5|**Done**|
+
+##### <a name="sprint-development-4"></a> 5.2.3.3. Development Evidence for Sprint Review
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|Frontend|develop|57ee2abf1d42ef20559fb34fd4156aa6e60b1a4b|Merge pull request #12 from upc-pre-202402-cc238-sw61-task-manage/feature/event|None|07/11/2024|
+|Frontend|develop|de3244675abc9207e7b534a74300488d2b731ffc|Merge pull request #13 from upc-pre-202402-cc238-sw61-task-manage/feature/profiles|None|07/11/2024|
+|Frontend|Feature/project|8a11cb76cd7efbdfd7ebfa1f8de55f85417cdf51|feat: fix project creatin state & view model|None|07/11/2024|
+|Frontend|Feature/project|6548bd27c9c91014cc8ac6102eefdc9fa950eddf|feat: add project list screen & view model|None|07/11/2024|
+|Frontend|Feature/project|67d6c54c571e3c897d8a21da3f3ca48d25d0a9e6|feat: change project list view model|None|07/11/2024|
+|Frontend|Feature/project|c054bc27ab4ad1b115bdc424387937eb667b5849|fix: project|None|07/11/2024|
+|Frontend|Feature/project-fix|aae2d2ca2b9b993bb02fbbfb1bd4bb203f772e14|feat(proyect): added tasks and users to the proyect interface|None|08/11/2024|
+|Backend|develop|73ee6b7c576fc9d372d49e63d0ce0350a9c0747a|Revert "refactor(pom): update dependencies in pom.xml"|None|08/11/2024|
+|Backend|develop|fb1ce98a36773ecda3e8a2698dc2ba92b670ded6|feat(task): added method for getting task with due date|None|08/11/2024|
+|Backend|develop|5f5df1bad61876373f0938e23881682b78876206|Merge pull request #12 from upc-pre-202402-cc238-sw61-task-manage/feature/task|None|08/11/2024|
+|Backend|develop|89dd2e2e439f05462ee7d77f17b412cf94090335|fix: changed application properties to prevent errors when merging|None|08/11/2024|
+|Backend|develop|7ab14d89048984ca64a0790c2f19db3707b9e7b7|Merge pull request #13 from upc-pre-202402-cc238-sw61-task-manage/feature/calendar|None|08/11/2024|
+|Backend|develop|65500ab65f74c6914714e03cc5c63c244be9f634|feat(project): added project-users intermediate table|None|08/11/2024|
+|Backend|develop|f143eca83e5ba4a7ba365e4d3e8466d9d8a2abd9|Merge pull request #14 from upc-pre-202402-cc238-sw61-task-manage/feature/project|None|08/11/2024|
+|Backend|develop|ee1837878fc74180686738d98245236de8cd4b59|feat: implement the a new method in profiles|None|09/11/2024|
+|Backend|develop|ffede48503194cf0008b671334dc3b129c7b6068|Merge branch 'feature/profile-put-method' into develop|None|09/11/2024|
+|Backend|develop|a0ed57c4b10ef6b6d9ea40fa955029dee15ff156|feat(calendar): added datapicker in AddEventDialog.kt|None|10/11/2024|
+
+
+##### <a name="sprint-testing-4"></a> 5.2.3.4. Testing Suite Evidence for Sprint Review
+Para esta entrega, se implementará las pruebas unitarias mediante el framework de Monkey Application Exerciser, un complemento de Android Debug Bridge.
+Primero comprobamos la correcta instalación de ADB.
+
+![Test 1](images/sprint-4/test-1.png)
+
+Continunado ejecutamos el siguiente comando. Lo que hara este comando es ejecutar toques aleatorios en la pantalla buscando errores.
+
+`$ adb shell monkey -p com.task.management.workflow 5000`
+
+![Test 2](images/sprint-4/test-2.png)
+
+También se puede ejecutar en otras pantallas, para este otro test lo ejecutaremos después de la pantalla de login. Exactamente en la pantalla de Tasks.
+
+![Test 3](images/sprint-4/test-1.png)
+
+Y por último la pantalla de Calendar. 
+
+![Test 4](images/sprint-4/test-1.png)
+
+
+##### <a name="sprint-execution-4"></a> 5.2.3.5. Execution Evidence for Sprint Review
+
+###### Autenticación de Usuario
+
+![User Sign In](images/sprint-3/execution-authentication-1.png)
+![User Sign In](images/sprint-3/execution-authentication-2.png)
+![User Sign Up](images/sprint-3/execution-authentication-3.png)
+![User Sign Up](images/sprint-3/execution-authentication-4.png)
+
+###### Proyecto
+
+![Proyect](images/sprint-4/proyect-1.png)
+![Proyect](images/sprint-4/proyect-2.png)
+![Proyect](images/sprint-4/proyect-3.png)
+![Proyect](images/sprint-4/proyect-4.png)
+
+###### Tarea
+![Task](images/sprint-4/task-1.png)
+![Task](images/sprint-4/task-2.png)
+![Task](images/sprint-4/task-3.png)
+![Task](images/sprint-4/task-4.png)
+
+###### Calendario + Evento
+![Calendar](images/sprint-4/calendar-1.png)
+![Calendar](images/sprint-4/calendar-2.png)
+![Calendar](images/sprint-4/calendar-3.png)
+![Calendar](images/sprint-4/calendar-4.png)
+
+###### Usuario
+![User](images/sprint-4/user-1.png)
+
+###### Bottom Navigation Bar
+![Home](images/sprint-4/bottom-1.png)
+![Home](images/sprint-4/bottom-2.png)
+![Home](images/sprint-4/bottom-3.png)
+![Home](images/sprint-4/bottom-4.png)
+
+##### <a name="sprint-documentation-4"></a> 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Se añadieron dos nuevos endpoints en los bounded contexts de Task y Event. Estos endpoints permiten obtener una lista de elementos filtrados por la fecha especificada.
+
+![Documentation](images/sprint-4/doc-1.png)
+![Documentation](images/sprint-4/doc-2.png)
+
+También, se ha añadido un nuevo bounded context:
+ProjectUser. Este nuevo bounded context unirá las tablas User y Project.
+
+![Documentation](images/sprint-4/doc-3.png)
+
+Se puede evidenciar esta nueva tabla en nuestra base de datos.
+
+![Documentation](images/sprint-4/doc-4.png)
+
+##### <a name="sprint-software-deployment-4"></a> 5.2.3.7. Software Deployment Evidence for Sprint Review
+El despliegue de la aplicación fue realizado en la anterior entrega y no se ha hecho ningún cambio. Puede encontrar la aplicación Swagger en el siguiente enlace: **[Backend](https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/)**
+
+##### <a name="sprint-insights-4"></a> 5.2.3.8. Team Collaboration Insights during Sprint
+![Insights](images/sprint-4/validation.png)
+
+
+### <a name="validation-interviews"></a> 5.3 Validation Interviews
+#### <a name="diseño-validation"></a> 5.3.1 Diseño de Entrevistas
+##### Preguntas de las Entrevistas:
+###### *Team Leader:*
+
+1. ¿Cuáles son los retos principales al liderar un equipo y coordinar sus tareas?
+2. ¿Cómo organizas y distribuyes actualmente las tareas entre los miembros del equipo?
+3. ¿Cuál es el aspecto que más te gustaría mejorar en el seguimiento del progreso de las tareas?
+4. ¿Qué tan fácil o difícil es para ti monitorear el cumplimiento de plazos y metas en tu equipo?
+5. ¿Cómo manejas la comunicación con los miembros del equipo en relación con el estado de sus tareas?
+6. ¿Qué tipo de reportes o datos consideras más útiles para analizar el rendimiento de tu equipo?
+7. ¿Qué funcionalidades adicionales consideras esenciales en una herramienta de gestión de proyectos?
+8. ¿De qué manera prefieres recibir actualizaciones o notificaciones sobre el avance de los proyectos?
+9. ¿Qué tan útil te resultaría una vista general del estado de cada tarea y proyecto?
+10. ¿En qué aspectos piensas que una aplicación puede facilitar la gestión de conflictos o la redistribución de tareas?
+
+###### *Team Member:*
+1. ¿Cuáles son los principales desafíos que enfrentas al organizar tus tareas y proyectos en equipo?
+2. ¿Qué herramientas utilizas actualmente para organizar tu trabajo? ¿Qué ventajas o desventajas les encuentras?
+3. ¿Con qué frecuencia necesitas comunicarte con otros miembros del equipo sobre el progreso de tus tareas?
+5. ¿Cuánto tiempo consideras que gastas semanalmente en organizar y priorizar tus tareas?
+6. ¿Qué funcionalidades te gustaría tener en una herramienta de gestión de tareas que no encuentras en las actuales?
+7. ¿Te resulta fácil acceder y encontrar la información necesaria para completar tus tareas en las herramientas que usas?
+8. ¿Cómo evalúas el nivel de claridad en la asignación y seguimiento de tareas en tu equipo?
+9. ¿En qué situaciones sientes que la colaboración con tus compañeros se vuelve complicada o poco fluida?
+10. ¿Te gustaría recibir recordatorios o notificaciones sobre tus pendientes? ¿Qué tan frecuentemente?
+11. ¿Hay algún aspecto de la gestión de tareas y proyectos que te cause estrés o fricción? ¿Cómo crees que una herramienta podría ayudarte con eso?
+
+#### <a name="registro-validation"></a> 5.3.2 Registro de entrevistas
+Enlace del video de las entrevistas de validación: **[Video](https://www.youtube.com/watch?v=NJIc4QlLyjM)**
+
+##### Segmento Objetivo: *Team Leader*
+###### Entrevista 1:
+    Nombre: Kevin Tumbalobos Cubas
+    Sexo: Masculino
+    Residencia: Lima, Perú
+    Inicio: 0:00
+    Fin: 7:11
+
+![Entrevista](images/sprint-4/entrevista-1.jpg)
+
+Kevin Tumbalobos, como Team Leader, considera que la aplicación facilita la creación de tareas y la supervisión del trabajo gracias a su sección de gestión de tareas, aunque sugiere la inclusión de un apartado que permita definir tiempos de inicio y finalización para cada tarea, lo cual facilitaría un seguimiento temporal más detallado. En cuanto a la información que se puede agregar a las tareas, Kevin cree que los campos actuales (título, estado y descripción) son casi suficientes, pero considera importante añadir la posibilidad de asignar responsables, lo cual fortalecería la responsabilidad y organización dentro del equipo. Además, valora positivamente la funcionalidad de organización de tareas, indicando que cumple su propósito, aunque menciona que una mejora podría ser optimizar la organización de proyectos en general. 
+El calendario es, según él, una de las funciones más necesarias, pues le permite visualizar eventos y tareas próximas, lo que sugiere que el calendario cumple una función crucial en su planificación. La información visual sobre plazos, asignaciones y el estado de las tareas también le parece útil, pero podrían explorarse mejoras adicionales en el aspecto visual, como gráficos o tableros interactivos, para una mejor visualización del progreso. En general, Kevin opina que la aplicación ayuda a mejorar la productividad, pero ve espacio para mejoras en la organización de proyectos y en las funciones de planificación y seguimiento.
+
+
+###### Entrevista 2:
+    Nombre: Oscar Aranda
+    Sexo: Masculino
+    Residencia: Lima, Perú
+    Inicio: 7:12
+    Fin: 11:08
+
+![Entrevista](images/sprint-4/entrevista-2.png)
+
+El entrevistado, Oscar Aranda, es Team Leader de un proyecto. Como Team Leader menciona que la aplicación le facilita la asignación de tareas. Además, menciona que la información como lo son título, descripción y estado son muy útiles y no requieren cambios. También menciona que la funcionalidad del calendario de eventos y tareas es muy útil, ya que le permite darle seguimiento al avance de los miembros. Por otro lado, menciona que la inclusión de un chat mejoraría notablemente la comunicación del equipo.
+
+###### Entrevista 3:
+    Nombre: Daniel Mamani
+    Sexo: Masculino
+    Residencia: Lima, Perú
+    Inicio: 32:05
+    Fin: 42:25
+
+![Entrevista](images/sprint-4/entrevista-3.png)
+
+El entrevistado Daniel afirma que actualmente manejar equipos sin una herramienta adecuada puede ser un martirio en el día a día. Asimismo, expreso agrado al interactuar con la aplicación, señalo que le interesaría que el progreso de las tareas se notifique de alguna manera. Además, expreso que si se pudiera exportar el rendimiento de los miembros de equipo ya sea por sprint o por mes sería un plus importante para nuestra aplicación.
+
+##### Segmento objetivo: *Team Member*
+
+###### Entrevista 1:
+    Nombre: Giancarlo Paredes
+    Sexo: Masculino
+    Residencia: Lima, Perú
+    Inicio: 15:25
+    Fin: 27:06
+
+![Entrevista](images/sprint-4/entrevista-4.png)
+
+Giancarlo Paredes es un miembro de un equipo y considera que la aplicación es apropiada para su estilo de trabajo. Menciona que la estructura de la aplicación ayuda a correcta organización de sus trabajos. En cuanto a mejoras propuestas, entre las más importantes, podemos destacar que Giancarlo considera que la sección de creación de tareas debería estar dentro de la sección de proyectos.
+
+###### Entrevista 2:
+    Nombre: Ernesto Casaverde
+    Sexo: Masculino
+    Residencia: Lima, Perú
+    Inicio: 11:09
+    Fin: 15:24
+
+![Entrevista](images/sprint-4/entrevista-5.png)
+
+Ernesto Casaverde es miembro del equipo de un proyecto. Como miembro de equipo menciona que la interfaz de la aplicación le parece intuitiva y fácil de navegar. Además, menciona que la funcionalidad de asignar tareas específicas es muy eficaz. También menciona que la funcionalidad de agregar, actualizar y marcar como completada una tarea es de mucha utilidad. Por otro lado, menciona que la aplicación podría remplazar aplicaciones actuales para gestionar tareas.
+
+
+###### Entrevista 3:
+    Nombre: Marcia Bedregal
+    Sexo: Femenino
+    Residencia: Lima, Perú
+    Inicio: 27:07
+    Fin: 32:04
+
+![Entrevista](images/sprint-4/entrevista-6.png)
+
+Marcia Bedregal es miembro de un equipo. Como miembro menciona que la interfaz de la aplicación es muy agradable visualmente y fácil de navegar en ella. Además, menciona que las distintas funcionalidades para ver las tareas, marcarlas y editarlas son muy eficaces. Menciona que la aplicación podría reemplazar a las herramientas que usa actualmente dentro de su equipo de trabajo, ya que brinda transparencia y orden para un mejor resultado del proyecto.
+
+#### <a name="heuristicas"></a> 5.3.3. Evaluaciones según heurísticas.
+- **CARRERA:** Ingeniería de Software	
+- **CURSO:** Aplicaciones para Dispositivos Móviles
+- **SECCIÓN:** SW61
+- **PROFESOR:** Jorge Luis Mayta Guillermo 
+- **AUDITOR:** Task Management
+- **CLIENTE(S):** TODOS
+
+**SITE o APP A EVALUAR:**
+WorkFlow
+
+###### TAREAS A EVALUAR:
+    Proyecto 
+    Calendario
+    Notificaciones
+
+ESCALA DE SEVERIDAD:
+
+| Nivel | Descripción |
+| ----- | ----------- |
+| 1 | **Problema superficial:** puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | **Problema menor:** puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | **Problema mayor:** ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | **Problema muy grave:** un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+- **TABLA RESUMEN:**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| --- | --- | --- | --- |
+| 1 | Falta de notificaciones sobre el progreso de las tareas | 3 | Communicative - ¿La aplicación comunica cómo funciona? |
+| 2 | La sección de creación de tareas no está dentro de la sección de proyectos | 2 | Findable - ¿Se puede acceder fácilmente a la función? |
+| 3 | No se pueden definir tiempos de inicio y finalización para las tareas | 1 | Controllable - ¿Se puede controlar con facilidad la función? |
+| 4 | Falta de exportación del rendimiento de los miembros del equipo | 2 | Findable - ¿Se puede acceder fácilmente a la función? |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+###### PROBLEMA #1:Falta de notificaciones sobre el progreso de las tareas
+**Severidad:** 3
+**Heurística violada:** Communicative - ¿La aplicación comunica cómo funciona?
+**Problema:**
+> Actualmente, la aplicación no notifica a los usuarios sobre el progreso de las tareas, lo que puede llevar a una falta de seguimiento y coordinación dentro del equipo. Esto incrementa la carga de trabajo manual para verificar el estado de cada tarea.
+
+**Recomendación:**
+Implementar notificaciones automáticas que informen a los usuarios sobre el progreso de las tareas, asegurando que todos los miembros del equipo estén al tanto de los avances y cambios.
+
+![heuristica](images/sprint-4/task-1.png)
+
+###### PROBLEMA #2: La sección de creación de tareas no está dentro de la sección de proyectos
+**Severidad:** 2
+**Heurística violada:** Findable - ¿Se puede acceder fácilmente a la función?
+**Problema:**
+> La creación de tareas se realiza fuera de la sección de proyectos, lo que puede causar confusión y desorganización. Los usuarios deben navegar entre diferentes secciones para gestionar sus tareas y proyectos, lo que no es intuitivo.
+
+**Recomendación:**
+Reubicar la sección de creación de tareas dentro de la sección de proyectos para mejorar la organización y facilitar el flujo de trabajo.
+
+![heuristica](images/sprint-4/task-4.png)
+
+###### PROBLEMA #3: No se pueden definir tiempos de inicio y finalización para las tareas
+**Severidad:** 1
+**Heurística violada:** Controllable - ¿Se puede controlar con facilidad la función?
+**Problema:**
+> La falta de tiempos de inicio y finalización para las tareas impide un seguimiento temporal detallado, lo que puede afectar la planificación y la gestión del tiempo.
+
+**Recomendación:**
+Incluir la opción de definir tiempos de inicio y finalización para cada tarea, facilitando un seguimiento temporal más detallado.
+
+![heuristica](images/sprint-4/task-2.png)
+![heuristica](images/sprint-4/task-4.png)
+
+###### PROBLEMA #4: Falta de exportación del rendimiento de los miembros del equipo
+**Severidad:** 2
+**Heurística violada:** Useful - ¿Es útil la funcionalidad?
+**Problema:**
+> No se puede exportar el rendimiento de los miembros del equipo, lo que limita la capacidad de análisis y seguimiento del desempeño.
+
+**Recomendación:**
+Implementar una función para exportar el rendimiento de los miembros del equipo por sprint o por mes, facilitando el análisis y la mejora continua.
+
+![heuristica](images/sprint-4/proyect-2.png)
+![heuristica](images/sprint-4/proyect-3.png)
+
+### <a name="video-about-the-product"></a> 5.4 Video About the Product
+
+![heuristica](images/sprint-4/about-the-product.png)
+
+El video lo pueden encontrar en el siguiente enlace: **[Video](https://www.youtube.com/watch?v=cYb4uuVCRX4)** 
+
+
 ## Anexos
 ##### *Cuadros*
 - As Is y To Be Scenario Mapping: https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753
+- Sprint Backlog 1: https://trello.com/b/lqeAiIYJ/sprint-backlog-1-task-management 
+- Sprint Backlog 2: https://trello.com/b/3s8CffXE/sprint-backlog-2-task-management
+- Sprint Backlog 3: https://trello.com/b/uXunVIYS/spring-backlog-3-task-management 
+- Sprint Backlog 4: https://trello.com/b/JjmNfzaZ/aplicaciones-moviles 
 
-- Sprint Backlog 1: https://trello.com/b/lqeAiIYJ/sprint-backlog-1-task-management
-
-- Sprint Backlog 2:https://trello.com/invite/b/66f8243f29007d3e61a0414a/ATTIf61853a0e1c26ca7cb27ab6c9584e6d17D24F0E0/sprint-backlog-2-task-management
 
 ##### *Presentaciones*
 - Entrevistas Needfinding: https://upcedupe-my.sharepoint.com/personal/u201923446_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201923446%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20Aplicaciones%20moviles%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eabc9c508%2D4a3d%2D4309%2Da80b%2Db2d60399fa9a
 
 - Video de muestra de prototipo de la aplicación mobile: https://upcedupe-my.sharepoint.com/personal/u201923446_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201923446%5Fupc%5Fedu%5Fpe%2FDocuments%2FPrototipo%20workflow%201%2Emkv&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E78a9d5f4%2D8cc9%2D4e74%2Db18c%2D1041fbe34fb6
+
+- Video About the Product: https://www.youtube.com/watch?v=cYb4uuVCRX4 
+- Video About the Team: https://youtu.be/Qme3NJa7Bzk
+- Video de entrevistas de validación: https://youtu.be/NJIc4QlLyjM 
+
 
 ##### *Desarrollo de Aplicaciones*
 - Aplicación Backend: https://task-managmet-backend-czegcqbaabbdcth0.canadacentral-01.azurewebsites.net/swagger-ui/index.html
