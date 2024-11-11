@@ -4169,11 +4169,11 @@ El despliegue de la aplicación fue realizado en la anterior entrega y no se ha 
 | Sprint 3 Velocity              | 10                                                             |
 | Sum of Story Points            | 28                                                             |
 
-##### <a name="sprint-backlog-4"></a> 5.2.3.2. Sprint Backlog 3
+##### <a name="sprint-backlog-4"></a> 5.2.3.2. Sprint Backlog 4
 
-Enlace para visualizar el Sprint Backlog, realizado en Trello: https://trello.com/invite/b/67197925b6f60b5fc7d16954/ATTId3d227152315a4bd422a7f6d9eb72fad1A98FBF4/spring-backlog-3-task-management 
+Enlace para visualizar el Sprint Backlog, realizado en Trello: **[Trello](https://trello.com/b/e0q4VMdx/sprint-4)**
 
-![](images/sprint-3/Spring%20Backlog%203.png)
+![](images/sprint-4/backlog.png)
 
 |**Sprint 4**|**Sprint 4**||||||
 | :- | :- | :- | :- | :- | :- | :- |
@@ -4486,10 +4486,11 @@ El video lo pueden encontrar en el siguiente enlace: **[Video](https://www.youtu
 ## Anexos
 ##### *Cuadros*
 - As Is y To Be Scenario Mapping: https://miro.com/app/board/uXjVKWGn0ak=/?share_link_id=871702257753
+- Product Backlog: https://trello.com/b/JjmNfzaZ/aplicaciones-moviles
 - Sprint Backlog 1: https://trello.com/b/lqeAiIYJ/sprint-backlog-1-task-management 
 - Sprint Backlog 2: https://trello.com/b/3s8CffXE/sprint-backlog-2-task-management
 - Sprint Backlog 3: https://trello.com/b/uXunVIYS/spring-backlog-3-task-management 
-- Sprint Backlog 4: https://trello.com/b/JjmNfzaZ/aplicaciones-moviles 
+- Sprint Backlog 4: https://trello.com/b/e0q4VMdx/sprint-4
 
 
 ##### *Presentaciones*
